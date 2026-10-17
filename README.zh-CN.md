@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 155](https://img.shields.io/badge/Entries-155-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 162](https://img.shields.io/badge/Entries-162-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 收集 [Anatomy](https://github.com/wheresryan22/anatomy) 及其衍生项目制作的交互作品、SVG 素材和视觉讲解案例。
 
 非官方资源库。直接打开作者原作、查找源码或复制公开提示词，素材和预览保留在原有地址。
 
-**155 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
+**162 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
 
 明暗版本和转发不单独计数。同一题材由不同作者制作的不同作品可能分别收录。
 
@@ -19,7 +19,7 @@
 - [官方作品 (33)](#official-examples)
 - [社区作品 (47)](#community-examples)
 - [独立作品集 (25)](#independent-collections)
-- [创作者演示 (12)](#creator-showcases)
+- [X / Twitter 创作者演示 (19)](#creator-showcases)
 - [早期渲染实验 (19)](#rendering-studies)
 - [官方资源入口](#official-collections)
 
@@ -1188,7 +1188,7 @@ A hardware cutaway from Atelier anatomy. 作者： **matwi5**.
 
 <a id="creator-showcases"></a>
 
-## 创作者演示
+## X / Twitter 创作者演示
 
 原帖可能只有演示视频。有演示不代表提供素材下载、完整提示词或经过独立测试。
 
@@ -1263,6 +1263,49 @@ An author-shared interactive vehicle explanation. 作者： **diogo_aoliveira**.
 An author-shared visual explanation made with Anatomy. 作者： **MengTo**.
 
 [来源](https://x.com/MengTo/status/2109182449179836579)
+
+### Pen-spinning trainer
+
+A pen-spinning experiment using a hand model adapted from WebXR Input Profiles. 作者： **aimikoda**.
+
+[来源](https://x.com/aimikoda/status/2109670478386196554) · [作者主页](https://x.com/aimikoda)
+
+### Rasterization and ray tracing
+
+A Japanese-language visual explanation of two rendering techniques. 作者： **KanaWorks_AI**.
+
+[来源](https://x.com/KanaWorks_AI/status/2109841940447736172) · [作者主页](https://x.com/KanaWorks_AI)
+
+### Anatomy reveal film
+
+A reveal-style motion demonstration extending Anatomy with a frame-by-frame video workflow. 作者： **ann_nnng**.
+
+[来源](https://x.com/ann_nnng/status/2110698132225106303) · [作者主页](https://x.com/ann_nnng)
+
+### Mac mini reveal and exploded view
+
+A Mac mini motion-design showcase combining Anatomy and Anatomy Reveal. 作者： **0xMovez**.
+
+[来源](https://x.com/0xMovez/status/2110735931401457935) · [作者主页](https://x.com/0xMovez)
+
+### Dark exploded-view study
+
+A combined Anatomy/Reveal and ISO-GLOW experiment with labels and section cuts. 作者： **Aprilzz423**.
+
+[来源](https://x.com/Aprilzz423/status/2110795129930084704) · [作者主页](https://x.com/Aprilzz423)
+
+### Device explainer video
+
+A machine-illustration video shared alongside an idea for ambient learning displays. 作者： **msurguy**.
+
+[来源](https://x.com/msurguy/status/2110038007785168962) · [作者主页](https://x.com/msurguy)
+
+### Local AI workstation and inference course
+
+A visual learning journey about local inference, model memory and GPU hardware; an author-thread reply credits Anatomy. 作者： **Master Local AI (shared by @MisbahSy)**.
+
+[来源](https://x.com/MisbahSy/status/2110154164626157711) · [打开作品](https://master-local-ai.netlify.app/) · [创作说明](https://x.com/MisbahSy/status/2110154166656278776)
+
 
 <a id="rendering-studies"></a>
 

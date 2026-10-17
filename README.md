@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 155](https://img.shields.io/badge/Entries-155-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 162](https://img.shields.io/badge/Entries-162-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Interactive examples, SVG assets and visual explainers made with [Anatomy](https://github.com/wheresryan22/anatomy) and its derivatives.
 
 Unofficial. Open the original work, explore its source, or copy a published prompt. Resources and previews stay at their existing URLs.
 
-**155 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
+**162 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
 
 Light/dark variants and reposts are grouped. Different implementations of a similar subject can appear more than once.
 
@@ -19,7 +19,7 @@ Light/dark variants and reposts are grouped. Different implementations of a simi
 - [Official Examples (33)](#official-examples)
 - [Community Examples (47)](#community-examples)
 - [Independent Collections (25)](#independent-collections)
-- [Creator Showcases (12)](#creator-showcases)
+- [X / Twitter Showcases (19)](#creator-showcases)
 - [Rendering Studies (19)](#rendering-studies)
 - [Official Collections](#official-collections)
 
@@ -1188,7 +1188,7 @@ A hardware cutaway from Atelier anatomy. By **matwi5**.
 
 <a id="creator-showcases"></a>
 
-## Creator Showcases
+## X / Twitter Showcases
 
 Creator posts may contain a demonstration video only. A downloadable asset, complete prompt or independently tested implementation is not implied.
 
@@ -1263,6 +1263,49 @@ An author-shared interactive vehicle explanation. By **diogo_aoliveira**.
 An author-shared visual explanation made with Anatomy. By **MengTo**.
 
 [Original](https://x.com/MengTo/status/2109182449179836579)
+
+### Pen-spinning trainer
+
+A pen-spinning experiment using a hand model adapted from WebXR Input Profiles. By **aimikoda**.
+
+[Original](https://x.com/aimikoda/status/2109670478386196554) · [Author](https://x.com/aimikoda)
+
+### Rasterization and ray tracing
+
+A Japanese-language visual explanation of two rendering techniques. By **KanaWorks_AI**.
+
+[Original](https://x.com/KanaWorks_AI/status/2109841940447736172) · [Author](https://x.com/KanaWorks_AI)
+
+### Anatomy reveal film
+
+A reveal-style motion demonstration extending Anatomy with a frame-by-frame video workflow. By **ann_nnng**.
+
+[Original](https://x.com/ann_nnng/status/2110698132225106303) · [Author](https://x.com/ann_nnng)
+
+### Mac mini reveal and exploded view
+
+A Mac mini motion-design showcase combining Anatomy and Anatomy Reveal. By **0xMovez**.
+
+[Original](https://x.com/0xMovez/status/2110735931401457935) · [Author](https://x.com/0xMovez)
+
+### Dark exploded-view study
+
+A combined Anatomy/Reveal and ISO-GLOW experiment with labels and section cuts. By **Aprilzz423**.
+
+[Original](https://x.com/Aprilzz423/status/2110795129930084704) · [Author](https://x.com/Aprilzz423)
+
+### Device explainer video
+
+A machine-illustration video shared alongside an idea for ambient learning displays. By **msurguy**.
+
+[Original](https://x.com/msurguy/status/2110038007785168962) · [Author](https://x.com/msurguy)
+
+### Local AI workstation and inference course
+
+A visual learning journey about local inference, model memory and GPU hardware; an author-thread reply credits Anatomy. By **Master Local AI (shared by @MisbahSy)**.
+
+[Original](https://x.com/MisbahSy/status/2110154164626157711) · [Open work](https://master-local-ai.netlify.app/) · [Attribution](https://x.com/MisbahSy/status/2110154166656278776)
+
 
 <a id="rendering-studies"></a>
 
