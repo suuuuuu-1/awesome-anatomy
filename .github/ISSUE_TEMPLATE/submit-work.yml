@@ -1,0 +1,30 @@
+name: Suggest an Anatomy work
+description: Share an example, SVG asset or creator showcase.
+title: "Add: "
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Work title
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Original source URL
+      description: Link to the creator's original post, page or repository.
+    validations:
+      required: true
+  - type: input
+    id: creator
+    attributes:
+      label: Original creator
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Description and optional resources
+      description: Explain what it shows. Add a live page, source code, public prompt and reuse terms when available.
+    validations:
+      required: true
