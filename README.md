@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 165](https://img.shields.io/badge/Entries-165-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 167](https://img.shields.io/badge/Entries-167-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Interactive examples, SVG assets and visual explainers made with [Anatomy](https://github.com/wheresryan22/anatomy) and its derivatives.
 
 Unofficial. Open the original work, explore its source, or copy a published prompt. Resources and previews stay at their existing URLs.
 
-**165 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
+**167 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
 
 Light/dark variants and reposts are grouped. Different implementations of a similar subject can appear more than once.
 
@@ -21,6 +21,7 @@ Light/dark variants and reposts are grouped. Different implementations of a simi
 - [Independent Collections (25)](#independent-collections)
 - [X / Twitter Showcases (19)](#creator-showcases)
 - [Reddit Showcases (3)](#reddit-showcases)
+- [YouTube Demonstrations (2)](#youtube-demonstrations)
 - [Rendering Studies (19)](#rendering-studies)
 - [Official Collections](#official-collections)
 
@@ -1331,6 +1332,33 @@ Two product illustrations explain document filing and retrieval; the creator cre
 A creator uses an Anatomy-made isometric figure in a portfolio; the rest of the website is a separate build. By **TheRedDeathKnight / Bilal**.
 
 [Original](https://www.reddit.com/r/developersPak/comments/1x3yid3/tried_the_anatomy_skill_for_one_isometric_figure/) · [Open work](https://khankhail.com/) · [Author](https://www.reddit.com/user/TheRedDeathKnight/)
+
+
+<a id="youtube-demonstrations"></a>
+
+## YouTube Demonstrations
+
+Original build demonstrations and finished-work walkthroughs. A video bundle is one resource, even when it shows several machines.
+
+### Ten one-line machine builds
+
+An original build demonstration covering a burner, pump, escapement, Tesla coil and software-system metaphors, with reported limitations. By **Prompt Engineer 48**.
+
+[Original](https://www.youtube.com/watch?v=veB_n1l97nk) · [Author](https://www.youtube.com/@PromptEngineer48)
+
+[<img src="https://i.ytimg.com/vi_webp/veB_n1l97nk/maxresdefault.webp" width="480" alt="Ten one-line machine builds">](https://www.youtube.com/watch?v=veB_n1l97nk)
+
+Video demonstration; generated files are not linked in the retrieved description.
+
+### Interactive turbofan built with Hermes
+
+A creator demonstrates a finished turbofan illustration with throttle, engine-stage and airflow controls; the result walkthrough starts at 4:33. By **Percy Kintu &#124; AI Made Simple**.
+
+[Original](https://www.youtube.com/watch?v=dXKnb0TC7QY) · [Author](https://www.youtube.com/@stlpercy) · [Watch result](https://www.youtube.com/watch?v=dXKnb0TC7QY&t=273s)
+
+[<img src="https://i.ytimg.com/vi_webp/dXKnb0TC7QY/maxresdefault.webp" width="480" alt="Interactive turbofan built with Hermes">](https://www.youtube.com/watch?v=dXKnb0TC7QY)
+
+Video demonstration; the deployed demo URL was not exposed in the retrieved description.
 
 
 <a id="rendering-studies"></a>

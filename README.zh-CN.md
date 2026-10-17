@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 165](https://img.shields.io/badge/Entries-165-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 167](https://img.shields.io/badge/Entries-167-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 收集 [Anatomy](https://github.com/wheresryan22/anatomy) 及其衍生项目制作的交互作品、SVG 素材和视觉讲解案例。
 
 非官方资源库。直接打开作者原作、查找源码或复制公开提示词，素材和预览保留在原有地址。
 
-**165 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
+**167 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
 
 明暗版本和转发不单独计数。同一题材由不同作者制作的不同作品可能分别收录。
 
@@ -21,6 +21,7 @@
 - [独立作品集 (25)](#independent-collections)
 - [X / Twitter 创作者演示 (19)](#creator-showcases)
 - [Reddit 社区作品 (3)](#reddit-showcases)
+- [YouTube 作品演示 (2)](#youtube-demonstrations)
 - [早期渲染实验 (19)](#rendering-studies)
 - [官方资源入口](#official-collections)
 
@@ -1331,6 +1332,33 @@ Two product illustrations explain document filing and retrieval; the creator cre
 A creator uses an Anatomy-made isometric figure in a portfolio; the rest of the website is a separate build. 作者： **TheRedDeathKnight / Bilal**.
 
 [来源](https://www.reddit.com/r/developersPak/comments/1x3yid3/tried_the_anatomy_skill_for_one_isometric_figure/) · [打开作品](https://khankhail.com/) · [作者主页](https://www.reddit.com/user/TheRedDeathKnight/)
+
+
+<a id="youtube-demonstrations"></a>
+
+## YouTube 作品演示
+
+作者实际制作和展示成品的视频。一个合集按一条资源计数，不按其中的机器数量拆分。
+
+### Ten one-line machine builds
+
+An original build demonstration covering a burner, pump, escapement, Tesla coil and software-system metaphors, with reported limitations. 作者： **Prompt Engineer 48**.
+
+[来源](https://www.youtube.com/watch?v=veB_n1l97nk) · [作者主页](https://www.youtube.com/@PromptEngineer48)
+
+[<img src="https://i.ytimg.com/vi_webp/veB_n1l97nk/maxresdefault.webp" width="480" alt="Ten one-line machine builds">](https://www.youtube.com/watch?v=veB_n1l97nk)
+
+视频中的实际制作演示；当前读取的视频说明未提供生成文件链接。
+
+### Interactive turbofan built with Hermes
+
+A creator demonstrates a finished turbofan illustration with throttle, engine-stage and airflow controls; the result walkthrough starts at 4:33. 作者： **Percy Kintu &#124; AI Made Simple**.
+
+[来源](https://www.youtube.com/watch?v=dXKnb0TC7QY) · [作者主页](https://www.youtube.com/@stlpercy) · [观看成品](https://www.youtube.com/watch?v=dXKnb0TC7QY&t=273s)
+
+[<img src="https://i.ytimg.com/vi_webp/dXKnb0TC7QY/maxresdefault.webp" width="480" alt="Interactive turbofan built with Hermes">](https://www.youtube.com/watch?v=dXKnb0TC7QY)
+
+视频中的成品演示；当前读取的视频说明未提供部署后的作品网址。
 
 
 <a id="rendering-studies"></a>
