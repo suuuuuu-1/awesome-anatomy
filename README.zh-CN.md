@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 162](https://img.shields.io/badge/Entries-162-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 165](https://img.shields.io/badge/Entries-165-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 收集 [Anatomy](https://github.com/wheresryan22/anatomy) 及其衍生项目制作的交互作品、SVG 素材和视觉讲解案例。
 
 非官方资源库。直接打开作者原作、查找源码或复制公开提示词，素材和预览保留在原有地址。
 
-**162 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
+**165 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
 
 明暗版本和转发不单独计数。同一题材由不同作者制作的不同作品可能分别收录。
 
@@ -20,6 +20,7 @@
 - [社区作品 (47)](#community-examples)
 - [独立作品集 (25)](#independent-collections)
 - [X / Twitter 创作者演示 (19)](#creator-showcases)
+- [Reddit 社区作品 (3)](#reddit-showcases)
 - [早期渲染实验 (19)](#rendering-studies)
 - [官方资源入口](#official-collections)
 
@@ -1305,6 +1306,31 @@ A machine-illustration video shared alongside an idea for ambient learning displ
 A visual learning journey about local inference, model memory and GPU hardware; an author-thread reply credits Anatomy. 作者： **Master Local AI (shared by @MisbahSy)**.
 
 [来源](https://x.com/MisbahSy/status/2110154164626157711) · [打开作品](https://master-local-ai.netlify.app/) · [创作说明](https://x.com/MisbahSy/status/2110154166656278776)
+
+
+<a id="reddit-showcases"></a>
+
+## Reddit 社区作品
+
+创作者原帖；附上其公开的在线作品和源码链接。
+
+### How a Meshtastic message travels
+
+Three connected scenes explain message transmission, LoRa chirps and mesh forwarding in English and Portuguese. 作者： **Meshbrasil / rogerio-richa**.
+
+[来源](https://www.reddit.com/r/meshtastic/comments/1x5b6q4/an_interactive_meshtastic_explaining_using_anatomy/) · [打开作品](https://meshbrasil.com/como-a-mensagem-viaja.html) · [源码](https://github.com/rogerio-richa/meshbrasil-anatomy) · [作者主页](https://www.reddit.com/user/Alternative_Can3875/)
+
+### Suchi filing and retrieval machines
+
+Two product illustrations explain document filing and retrieval; the creator credits Anatomy in the discussion. 作者： **johnnybravo-xyz**.
+
+[来源](https://www.reddit.com/r/Paperlessngx/comments/1x43yl1/i_ran_paperlessngx_for_over_a_year_and_then_built/) · [打开作品](https://johnnybravo.xyz/visualizers/suchi-hero.html) · [作者主页](https://github.com/johnnybravo-xyz)
+
+### Portfolio with an isometric hero figure
+
+A creator uses an Anatomy-made isometric figure in a portfolio; the rest of the website is a separate build. 作者： **TheRedDeathKnight / Bilal**.
+
+[来源](https://www.reddit.com/r/developersPak/comments/1x3yid3/tried_the_anatomy_skill_for_one_isometric_figure/) · [打开作品](https://khankhail.com/) · [作者主页](https://www.reddit.com/user/TheRedDeathKnight/)
 
 
 <a id="rendering-studies"></a>

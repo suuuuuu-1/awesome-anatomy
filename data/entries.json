@@ -1,14 +1,15 @@
 {
   "schema_version": 1,
   "updated": "2026-10-17",
-  "entry_count": 162,
+  "entry_count": 165,
   "counts": {
     "Official Examples": 33,
     "Rendering Studies": 19,
     "Community Examples": 47,
     "SVG Assets": 19,
     "Independent Collections": 25,
-    "Creator Showcases": 19
+    "Creator Showcases": 19,
+    "Reddit Showcases": 3
   },
   "counting": "Source-linked entries; theme variants and reposts grouped. Early studies counted separately; similar subjects by different creators may remain.",
   "entries": [
@@ -2813,6 +2814,56 @@
       "platform": "X",
       "metadata_url": "https://x.com/MisbahSy/status/2110154166656278776",
       "shared_by": "MisbahSy"
+    },
+    {
+      "id": "reddit-meshbrasil-meshtastic",
+      "category": "Reddit Showcases",
+      "title": "How a Meshtastic message travels",
+      "creator": "Meshbrasil / rogerio-richa",
+      "source_url": "https://www.reddit.com/r/meshtastic/comments/1x5b6q4/an_interactive_meshtastic_explaining_using_anatomy/",
+      "description": "Three connected scenes explain message transmission, LoRa chirps and mesh forwarding in English and Portuguese.",
+      "prompt": null,
+      "preview_url": null,
+      "code_url": "https://github.com/rogerio-richa/meshbrasil-anatomy",
+      "live_url": "https://meshbrasil.com/como-a-mensagem-viaja.html",
+      "source_status": "Original source read; interactions not independently tested",
+      "rights": "MIT according to the work page; linked rather than redistributed",
+      "platform": "Reddit",
+      "creator_url": "https://www.reddit.com/user/Alternative_Can3875/",
+      "format": "SVG + JavaScript"
+    },
+    {
+      "id": "reddit-suchi-document-machines",
+      "category": "Reddit Showcases",
+      "title": "Suchi filing and retrieval machines",
+      "creator": "johnnybravo-xyz",
+      "source_url": "https://www.reddit.com/r/Paperlessngx/comments/1x43yl1/i_ran_paperlessngx_for_over_a_year_and_then_built/",
+      "description": "Two product illustrations explain document filing and retrieval; the creator credits Anatomy in the discussion.",
+      "prompt": null,
+      "preview_url": null,
+      "code_url": null,
+      "live_url": "https://johnnybravo.xyz/visualizers/suchi-hero.html",
+      "source_status": "Original source read; interactions not independently tested",
+      "rights": "Link only; creator media remains at source",
+      "platform": "Reddit",
+      "creator_url": "https://github.com/johnnybravo-xyz",
+      "counting_note": "The two figures on this shared page are counted as one linked showcase."
+    },
+    {
+      "id": "reddit-portfolio-isometric-figure",
+      "category": "Reddit Showcases",
+      "title": "Portfolio with an isometric hero figure",
+      "creator": "TheRedDeathKnight / Bilal",
+      "source_url": "https://www.reddit.com/r/developersPak/comments/1x3yid3/tried_the_anatomy_skill_for_one_isometric_figure/",
+      "description": "A creator uses an Anatomy-made isometric figure in a portfolio; the rest of the website is a separate build.",
+      "prompt": null,
+      "preview_url": null,
+      "code_url": null,
+      "live_url": "https://khankhail.com/",
+      "source_status": "Original source read; interactions not independently tested",
+      "rights": "Link only; creator media remains at source",
+      "platform": "Reddit",
+      "creator_url": "https://www.reddit.com/user/TheRedDeathKnight/"
     }
   ]
 }

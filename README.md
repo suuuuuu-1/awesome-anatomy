@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 162](https://img.shields.io/badge/Entries-162-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 165](https://img.shields.io/badge/Entries-165-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Interactive examples, SVG assets and visual explainers made with [Anatomy](https://github.com/wheresryan22/anatomy) and its derivatives.
 
 Unofficial. Open the original work, explore its source, or copy a published prompt. Resources and previews stay at their existing URLs.
 
-**162 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
+**165 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
 
 Light/dark variants and reposts are grouped. Different implementations of a similar subject can appear more than once.
 
@@ -20,6 +20,7 @@ Light/dark variants and reposts are grouped. Different implementations of a simi
 - [Community Examples (47)](#community-examples)
 - [Independent Collections (25)](#independent-collections)
 - [X / Twitter Showcases (19)](#creator-showcases)
+- [Reddit Showcases (3)](#reddit-showcases)
 - [Rendering Studies (19)](#rendering-studies)
 - [Official Collections](#official-collections)
 
@@ -1305,6 +1306,31 @@ A machine-illustration video shared alongside an idea for ambient learning displ
 A visual learning journey about local inference, model memory and GPU hardware; an author-thread reply credits Anatomy. By **Master Local AI (shared by @MisbahSy)**.
 
 [Original](https://x.com/MisbahSy/status/2110154164626157711) · [Open work](https://master-local-ai.netlify.app/) · [Attribution](https://x.com/MisbahSy/status/2110154166656278776)
+
+
+<a id="reddit-showcases"></a>
+
+## Reddit Showcases
+
+Original creator posts, with live work and source links when published.
+
+### How a Meshtastic message travels
+
+Three connected scenes explain message transmission, LoRa chirps and mesh forwarding in English and Portuguese. By **Meshbrasil / rogerio-richa**.
+
+[Original](https://www.reddit.com/r/meshtastic/comments/1x5b6q4/an_interactive_meshtastic_explaining_using_anatomy/) · [Open work](https://meshbrasil.com/como-a-mensagem-viaja.html) · [Source code](https://github.com/rogerio-richa/meshbrasil-anatomy) · [Author](https://www.reddit.com/user/Alternative_Can3875/)
+
+### Suchi filing and retrieval machines
+
+Two product illustrations explain document filing and retrieval; the creator credits Anatomy in the discussion. By **johnnybravo-xyz**.
+
+[Original](https://www.reddit.com/r/Paperlessngx/comments/1x43yl1/i_ran_paperlessngx_for_over_a_year_and_then_built/) · [Open work](https://johnnybravo.xyz/visualizers/suchi-hero.html) · [Author](https://github.com/johnnybravo-xyz)
+
+### Portfolio with an isometric hero figure
+
+A creator uses an Anatomy-made isometric figure in a portfolio; the rest of the website is a separate build. By **TheRedDeathKnight / Bilal**.
+
+[Original](https://www.reddit.com/r/developersPak/comments/1x3yid3/tried_the_anatomy_skill_for_one_isometric_figure/) · [Open work](https://khankhail.com/) · [Author](https://www.reddit.com/user/TheRedDeathKnight/)
 
 
 <a id="rendering-studies"></a>
