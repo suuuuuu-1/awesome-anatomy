@@ -4,8 +4,6 @@
 
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 155](https://img.shields.io/badge/Entries-155-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-[![GitHub stars](https://img.shields.io/github/stars/suuuuuu-1/awesome-anatomy?style=social)](https://github.com/suuuuuu-1/awesome-anatomy/stargazers) [![GitHub forks](https://img.shields.io/github/forks/suuuuuu-1/awesome-anatomy?style=social)](https://github.com/suuuuuu-1/awesome-anatomy/forks) [![Contributors](https://img.shields.io/github/contributors/suuuuuu-1/awesome-anatomy)](https://github.com/suuuuuu-1/awesome-anatomy/graphs/contributors) [![Last commit](https://img.shields.io/github/last-commit/suuuuuu-1/awesome-anatomy)](https://github.com/suuuuuu-1/awesome-anatomy/commits/main)
-
 Interactive examples, SVG assets and visual explainers made with [Anatomy](https://github.com/wheresryan22/anatomy) and its derivatives.
 
 Unofficial. Open the original work, explore its source, or copy a published prompt. Resources and previews stay at their existing URLs.
