@@ -1,5 +1,7 @@
 # Awesome Anatomy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome Anatomy — interactive examples, SVG assets and published prompts](assets/social-preview.png)
+
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 [![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 168](https://img.shields.io/badge/Entries-168-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
