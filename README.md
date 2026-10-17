@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 167](https://img.shields.io/badge/Entries-167-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 168](https://img.shields.io/badge/Entries-168-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 Interactive examples, SVG assets and visual explainers made with [Anatomy](https://github.com/wheresryan22/anatomy) and its derivatives.
 
 Unofficial. Open the original work, explore its source, or copy a published prompt. Resources and previews stay at their existing URLs.
 
-**167 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
+**168 source-linked entries** · 19 early rendering studies listed separately · 50 published prompts.
 
 Light/dark variants and reposts are grouped. Different implementations of a similar subject can appear more than once.
 
@@ -22,6 +22,7 @@ Light/dark variants and reposts are grouped. Different implementations of a simi
 - [X / Twitter Showcases (19)](#creator-showcases)
 - [Reddit Showcases (3)](#reddit-showcases)
 - [YouTube Demonstrations (2)](#youtube-demonstrations)
+- [Bilibili Demonstrations (1)](#bilibili-demonstrations)
 - [Rendering Studies (19)](#rendering-studies)
 - [Official Collections](#official-collections)
 
@@ -1359,6 +1360,23 @@ A creator demonstrates a finished turbofan illustration with throttle, engine-st
 [<img src="https://i.ytimg.com/vi_webp/dXKnb0TC7QY/maxresdefault.webp" width="480" alt="Interactive turbofan built with Hermes">](https://www.youtube.com/watch?v=dXKnb0TC7QY)
 
 Video demonstration; the deployed demo URL was not exposed in the retrieved description.
+
+
+<a id="bilibili-demonstrations"></a>
+
+## Bilibili Demonstrations
+
+Creator-made examples identified in the video description. Prompts are linked at their original source when available.
+
+### Sanger sequencing: a Chinese interactive explainer
+
+An author-created 12-nucleotide teaching example shows chain termination, fragment separation and sequence readout. The original video description includes a copyable prompt. By **Asa的AILab**.
+
+[Original](https://www.bilibili.com/video/BV1LdJk6eEaJ/) · [Author](https://space.bilibili.com/618976019/) · [Published prompt](https://www.bilibili.com/video/BV1LdJk6eEaJ/)
+
+[<img src="https://i1.hdslb.com/bfs/archive/96aa17bfabf464a0db4dc0dc14fff5d13415ef36.jpg" width="480" alt="Sanger sequencing: a Chinese interactive explainer">](https://www.bilibili.com/video/BV1LdJk6eEaJ/)
+
+Video demonstration with a published prompt; no standalone source or demo URL was provided.
 
 
 <a id="rendering-studies"></a>

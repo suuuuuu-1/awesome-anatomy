@@ -2,13 +2,13 @@
 
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 167](https://img.shields.io/badge/Entries-167-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 168](https://img.shields.io/badge/Entries-168-blue)](#contents) [![Published prompts: 50](https://img.shields.io/badge/Published%20prompts-50-green)](data/entries.json) [![Updated: 2026-10-17](https://img.shields.io/badge/Updated-2026-10-17-informational)](data/entries.json) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
 收集 [Anatomy](https://github.com/wheresryan22/anatomy) 及其衍生项目制作的交互作品、SVG 素材和视觉讲解案例。
 
 非官方资源库。直接打开作者原作、查找源码或复制公开提示词，素材和预览保留在原有地址。
 
-**167 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
+**168 条带来源记录** · 其中 19 个早期渲染实验单独分类 · 50 条公开提示词。
 
 明暗版本和转发不单独计数。同一题材由不同作者制作的不同作品可能分别收录。
 
@@ -22,6 +22,7 @@
 - [X / Twitter 创作者演示 (19)](#creator-showcases)
 - [Reddit 社区作品 (3)](#reddit-showcases)
 - [YouTube 作品演示 (2)](#youtube-demonstrations)
+- [B 站作品演示 (1)](#bilibili-demonstrations)
 - [早期渲染实验 (19)](#rendering-studies)
 - [官方资源入口](#official-collections)
 
@@ -1359,6 +1360,23 @@ A creator demonstrates a finished turbofan illustration with throttle, engine-st
 [<img src="https://i.ytimg.com/vi_webp/dXKnb0TC7QY/maxresdefault.webp" width="480" alt="Interactive turbofan built with Hermes">](https://www.youtube.com/watch?v=dXKnb0TC7QY)
 
 视频中的成品演示；当前读取的视频说明未提供部署后的作品网址。
+
+
+<a id="bilibili-demonstrations"></a>
+
+## B 站作品演示
+
+从视频说明中核实的作者自制案例；如有公开提示词，链接到原始页面。
+
+### Sanger sequencing: a Chinese interactive explainer
+
+An author-created 12-nucleotide teaching example shows chain termination, fragment separation and sequence readout. The original video description includes a copyable prompt. 作者： **Asa的AILab**.
+
+[来源](https://www.bilibili.com/video/BV1LdJk6eEaJ/) · [作者主页](https://space.bilibili.com/618976019/) · [公开提示词](https://www.bilibili.com/video/BV1LdJk6eEaJ/)
+
+[<img src="https://i1.hdslb.com/bfs/archive/96aa17bfabf464a0db4dc0dc14fff5d13415ef36.jpg" width="480" alt="Sanger sequencing: a Chinese interactive explainer">](https://www.bilibili.com/video/BV1LdJk6eEaJ/)
+
+视频演示附公开提示词；原说明未提供独立体验页或源码链接。
 
 
 <a id="rendering-studies"></a>

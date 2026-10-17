@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "updated": "2026-10-17",
-  "entry_count": 167,
+  "entry_count": 168,
   "counts": {
     "Official Examples": 33,
     "Rendering Studies": 19,
@@ -10,7 +10,8 @@
     "Independent Collections": 25,
     "Creator Showcases": 19,
     "Reddit Showcases": 3,
-    "YouTube Demonstrations": 2
+    "YouTube Demonstrations": 2,
+    "Bilibili Demonstrations": 1
   },
   "counting": "Source-linked entries; theme variants and reposts grouped. Early studies counted separately; similar subjects by different creators may remain.",
   "entries": [
@@ -2903,6 +2904,26 @@
       "demo_url": "https://www.youtube.com/watch?v=dXKnb0TC7QY&t=273s",
       "resource_status": "Video demonstration; the deployed demo URL was not exposed in the retrieved description.",
       "resource_status_zh": "视频中的成品演示；当前读取的视频说明未提供部署后的作品网址。"
+    },
+    {
+      "id": "bilibili-sanger-sequencing",
+      "category": "Bilibili Demonstrations",
+      "title": "Sanger sequencing: a Chinese interactive explainer",
+      "creator": "Asa的AILab",
+      "source_url": "https://www.bilibili.com/video/BV1LdJk6eEaJ/",
+      "description": "An author-created 12-nucleotide teaching example shows chain termination, fragment separation and sequence readout. The original video description includes a copyable prompt.",
+      "prompt": null,
+      "preview_url": "https://i1.hdslb.com/bfs/archive/96aa17bfabf464a0db4dc0dc14fff5d13415ef36.jpg",
+      "code_url": null,
+      "live_url": null,
+      "source_status": "Original source read; interactions not independently tested",
+      "rights": "Link only; creator media remains at source",
+      "platform": "Bilibili",
+      "creator_url": "https://space.bilibili.com/618976019/",
+      "prompt_url": "https://www.bilibili.com/video/BV1LdJk6eEaJ/",
+      "prompt_available_at_source": true,
+      "resource_status": "Video demonstration with a published prompt; no standalone source or demo URL was provided.",
+      "resource_status_zh": "视频演示附公开提示词；原说明未提供独立体验页或源码链接。"
     }
   ]
 }

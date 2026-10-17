@@ -8,7 +8,7 @@ The root CC0 dedication covers original catalog descriptions, arrangement and me
 | [Anatomy Community](https://github.com/wheresryan22/anatomy-community) | Published prompts and source metadata; remote preview URLs. | Each imported entry declares MIT in its metadata. [Original notice](licenses/anatomy-community-MIT.txt) preserved; creator attribution remains with each work. |
 | [Anatomy Asset](https://github.com/Teddarific/skills/tree/main/skills/anatomy-asset) | Remote SVG URLs and source links, with theme variants grouped. | Teddarific's README states MIT. SVGs remain at upstream URLs. |
 | [Wazoo Anatomy](https://github.com/wazootech/wazoo-anatomy) | Three published prompts and links. | Upstream MIT; [original notice](licenses/wazoo-anatomy-MIT.txt) preserved. |
-| Other independent collections and creator posts | Original links, creator attribution and our short descriptions. | Reuse terms vary. No creator videos, screenshots or source HTML are copied here. |
+| Other independent collections and creator posts on X, Reddit, YouTube and Bilibili | Original links, creator attribution, our short descriptions and remote thumbnail URLs when available. | Reuse terms vary. No creator videos, screenshots or source HTML are copied here. |
 
 Some independent works are explicitly marked for review by their authors. Their inclusion records an example, not endorsement of its medical, physical or engineering accuracy.
 
