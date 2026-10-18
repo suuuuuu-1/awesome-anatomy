@@ -1,19 +1,19 @@
 {
-  "schema_version": 1,
-  "updated": "2026-10-17",
-  "entry_count": 168,
+  "schema_version": 2,
+  "updated": "2026-10-18",
+  "entry_count": 217,
   "counts": {
     "Official Examples": 33,
     "Rendering Studies": 19,
     "Community Examples": 47,
     "SVG Assets": 19,
-    "Independent Collections": 25,
-    "Creator Showcases": 19,
+    "Independent Collections": 68,
+    "Creator Showcases": 25,
     "Reddit Showcases": 3,
     "YouTube Demonstrations": 2,
     "Bilibili Demonstrations": 1
   },
-  "counting": "Source-linked entries; theme variants and reposts grouped. Early studies counted separately; similar subjects by different creators may remain.",
+  "counting": "Distinct source-linked entries, including rendering studies. Theme variants, mirrors and reposts are grouped; separate implementations by different creators can remain. A published prompt is not a claim of successful reproduction.",
   "entries": [
     {
       "prompt": null,
@@ -28,7 +28,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/hash-map",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Hash map collisions."
+      "description": "A sorting desk shows keys landing in buckets and collisions accumulating.",
+      "added": "2026-10-17",
+      "description_zh": "用分拣台呈现键值落桶与碰撞堆叠。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -43,7 +50,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/binary-search",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Binary search."
+      "description": "A balance-like apparatus narrows a search by discarding half the remaining range.",
+      "added": "2026-10-17",
+      "description_zh": "用天平式装置呈现逐次排除一半范围的查找过程。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -58,7 +72,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/dns",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: DNS resolution."
+      "description": "A pneumatic-tube system makes the stages of DNS resolution visible.",
+      "added": "2026-10-17",
+      "description_zh": "用气动管道装置呈现 DNS 逐级解析。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -73,7 +94,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/message-queue",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Message queue."
+      "description": "A marble run illustrates ordered messages waiting behind a gate.",
+      "added": "2026-10-17",
+      "description_zh": "用弹珠轨道展示消息按顺序等待并通过闸门。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -88,7 +116,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/lru-cache",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: LRU cache."
+      "description": "A four-place bookcase moves recently used entries forward and evicts the oldest.",
+      "added": "2026-10-17",
+      "description_zh": "用四格书架展示最近使用顺序与最久未用项的淘汰。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -103,7 +138,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/tcp-handshake",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: TCP handshake."
+      "description": "Two stations exchange carriers to illustrate connection setup.",
+      "added": "2026-10-17",
+      "description_zh": "两座站台交换载具，演示连接建立过程。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -118,7 +160,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/gradient-descent",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Gradient descent."
+      "description": "A contour model gives a physical view of iterative descent toward a minimum.",
+      "added": "2026-10-17",
+      "description_zh": "用等高模型呈现逐次下降并接近极小值的过程。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -133,7 +182,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/bloom-filter",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Bloom filter."
+      "description": "Three reels and a row of flags demonstrate possible membership and definite absence.",
+      "added": "2026-10-17",
+      "description_zh": "三个转轮和一排标记演示“可能存在”与“确定不存在”。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -148,7 +204,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/flex-grow",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: flex-grow."
+      "description": "A bench-vise metaphor explores how available layout space is distributed.",
+      "added": "2026-10-17",
+      "description_zh": "用台钳隐喻展示布局中剩余空间的分配。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -163,7 +226,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/mark-sweep",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Mark and sweep."
+      "description": "A mechanical visual explanation of marking reachable objects and reclaiming the rest.",
+      "added": "2026-10-17",
+      "description_zh": "以机械隐喻说明标记可达对象与回收其余对象。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -178,7 +248,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/b-tree",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: B-tree index."
+      "description": "A rotary card-file metaphor explains a B-tree index.",
+      "added": "2026-10-17",
+      "description_zh": "用旋转卡片柜隐喻解释 B 树索引。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -193,7 +270,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/debounce",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Debounce and throttle."
+      "description": "A music-box recorder compares events admitted by debounce and throttle.",
+      "added": "2026-10-17",
+      "description_zh": "用音乐盒记录器比较防抖与节流放行的事件。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -208,7 +292,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/mutex",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Mutex."
+      "description": "A tank and a shared key show why a critical section needs exclusive access.",
+      "added": "2026-10-17",
+      "description_zh": "用水箱与共享钥匙展示临界区为何需要互斥访问。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -223,7 +314,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/merge-sort",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Merge sort."
+      "description": "A chime-rack metaphor illustrates splitting and merging a sequence.",
+      "added": "2026-10-17",
+      "description_zh": "用音管架隐喻呈现序列的拆分与合并。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -238,7 +336,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/sampling",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Temperature."
+      "description": "A roulette wheel reshapes token probabilities as temperature changes.",
+      "added": "2026-10-17",
+      "description_zh": "轮盘格子的宽度随温度改变，展示 token 概率分布。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -253,7 +358,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/afterburner",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Afterburner."
+      "description": "An engine cutaway visualizes the afterburner stage.",
+      "added": "2026-10-17",
+      "description_zh": "用发动机剖面呈现加力燃烧阶段。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -268,7 +380,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/glass-furnace",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Glory hole."
+      "description": "A glass-working furnace study shows the heated working area.",
+      "added": "2026-10-17",
+      "description_zh": "玻璃加工炉示意呈现高温作业区域。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -283,7 +402,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/tokamak",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Tokamak shot."
+      "description": "An isometric tokamak figure visualizes a plasma shot.",
+      "added": "2026-10-17",
+      "description_zh": "等轴测托卡马克示意呈现一次等离子体放电。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -298,7 +424,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/plasma-cutter",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Plasma cutter."
+      "description": "A plasma-cutting illustration relates the tool to its working zone.",
+      "added": "2026-10-17",
+      "description_zh": "等离子切割示意呈现工具与加工区域的关系。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -313,7 +446,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/forge",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Forge and hammer."
+      "description": "A forge and hammer demonstrate a metal-working sequence.",
+      "added": "2026-10-17",
+      "description_zh": "锻炉与锤头呈现金属加工过程。",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -328,7 +468,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/turbofan",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Turbofan ground run."
+      "description": "Change thrust to follow the fan, compressor and turbine in a ground-run engine cutaway.",
+      "added": "2026-10-17",
+      "description_zh": "改变推力，查看地面试车中的风扇、压气机与涡轮。",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -343,7 +490,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/power-station",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Power station."
+      "description": "A power-station apparatus offers a visual explanation of an energy system.",
+      "added": "2026-10-17",
+      "description_zh": "以电站装置直观呈现能源系统。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -358,7 +512,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/process-pump",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Process pump."
+      "description": "An industrial pump study exposes its working mechanism.",
+      "added": "2026-10-17",
+      "description_zh": "工业泵示意展示内部工作机构。",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -373,7 +534,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/watch",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Watch movement."
+      "description": "Wind the crown, slow time and lift bridges to inspect the watch’s escapement and gear train.",
+      "added": "2026-10-17",
+      "description_zh": "上弦、放慢时间并抬起夹板，查看擒纵机构与轮系。",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -388,7 +556,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/seasons",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Seasons."
+      "description": "A moving Earth-and-Sun model explores seasonal illumination.",
+      "added": "2026-10-17",
+      "description_zh": "用运动的日地模型观察季节性光照变化。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -403,7 +578,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/computer",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Desk computer."
+      "description": "An isometric desk-computer illustration exposes its hardware arrangement.",
+      "added": "2026-10-17",
+      "description_zh": "等轴测桌面计算机插图展示硬件布局。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -418,7 +600,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/rate-limiter",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Token bucket."
+      "description": "A token dispenser explains burst capacity and a rate-limited flow of requests.",
+      "added": "2026-10-17",
+      "description_zh": "用代币分发装置解释突发容量与请求限流。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -433,7 +622,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/easing",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Easing bench."
+      "description": "A motion bench compares how easing changes movement over time.",
+      "added": "2026-10-17",
+      "description_zh": "用运动试验台比较缓动如何改变位移随时间的变化。",
+      "topic": "visual",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -448,7 +644,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/public-key",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Two-key box."
+      "description": "A two-key box provides a mechanical metaphor for public-key cryptography.",
+      "added": "2026-10-17",
+      "description_zh": "用双钥匙盒提供公钥加密的机械隐喻。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -463,7 +666,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/foundry",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Foundry pour."
+      "description": "A foundry illustration follows a metal-pouring scene.",
+      "added": "2026-10-17",
+      "description_zh": "铸造插图呈现金属浇注场景。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -478,7 +688,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/box-model",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Box model."
+      "description": "A physical layout metaphor explains the CSS box model.",
+      "added": "2026-10-17",
+      "description_zh": "用实体布局隐喻解释 CSS 盒模型。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -493,7 +710,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/git-merge",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Branch and merge."
+      "description": "A working-object metaphor explains branching and merging.",
+      "added": "2026-10-17",
+      "description_zh": "用工作装置隐喻解释分支与合并。",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -508,7 +732,14 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/reactor",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An interactive example: Pool reactor."
+      "description": "A pool-reactor illustration exposes the arrangement of an energy installation.",
+      "added": "2026-10-17",
+      "description_zh": "池式反应堆示意展示能源装置的结构布局。",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -523,7 +754,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/one-pane",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: One pane."
+      "description": "An early rendering study: One pane.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -538,7 +775,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/one-context",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: One context."
+      "description": "An early rendering study: One context.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -553,7 +796,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/shared-canvas",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Shared canvas."
+      "description": "An early rendering study: Shared canvas.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -568,7 +817,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/one-texture",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: One texture."
+      "description": "An early rendering study: One texture.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -583,7 +838,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/fit",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Fit."
+      "description": "An early rendering study: Fit.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -598,7 +859,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/one-stage",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: One stage."
+      "description": "An early rendering study: One stage.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -613,7 +880,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/separable-blur",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Separable blur."
+      "description": "An early rendering study: Separable blur.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -628,7 +901,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/field-key",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Field key."
+      "description": "An early rendering study: Field key.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -643,7 +922,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/four-frames",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Four frames."
+      "description": "An early rendering study: Four frames.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -658,7 +943,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/lookup",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Lookup."
+      "description": "An early rendering study: Lookup.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -673,7 +964,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/profile",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Profile."
+      "description": "An early rendering study: Profile.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -688,7 +985,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/lens-bench",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Dispersion."
+      "description": "An early rendering study: Dispersion.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -703,7 +1006,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/studio",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Rim light."
+      "description": "An early rendering study: Rim light.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -718,7 +1027,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/frosted-copy",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Frosted copy."
+      "description": "An early rendering study: Frosted copy.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -733,7 +1048,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/spot-plate",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Spot plate."
+      "description": "An early rendering study: Spot plate.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -748,7 +1069,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/bevel-offset",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Bevel offset."
+      "description": "An early rendering study: Bevel offset.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -763,7 +1090,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/lit-by-facing",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Lit by facing."
+      "description": "An early rendering study: Lit by facing.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -778,7 +1111,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/press-and-pull",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Press and pull."
+      "description": "An early rendering study: Press and pull.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -793,7 +1132,13 @@
       "creator": "Ryan",
       "source_url": "https://skills.wheresryan.sh/anatomy/collection/three-reads",
       "metadata_url": "https://github.com/wheresryan22/anatomy-figures/blob/main/figures.json",
-      "description": "An early rendering study: Three reads."
+      "description": "An early rendering study: Three reads.",
+      "added": "2026-10-17",
+      "topic": "rendering",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": "用 Anatomy 根据奥克斯 YR-5-A 上置桶温热饮水机照片绘制内部结构。机器只有热水和常温水，没有烧水壶。重点画清常温水与热水的储存位置、热罐怎样加热、下部补水与上部出水；演示温控保温循环，并依据资料解释反复加热、蒸发浓缩和久置卫生。",
@@ -816,6 +1161,15 @@
         "heating",
         "mechanism",
         "cutaway"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/28h2o2/aux-water-dispenser/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -838,6 +1192,15 @@
         "observability",
         "llm",
         "identity"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/ahmadssadiq/agent-line/figure.json",
+      "prompt_status": "published",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -860,6 +1223,15 @@
         "engineering",
         "assembly",
         "instructions"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/artomstatsenko/medieval-watermill-manual/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -881,6 +1253,15 @@
         "typewriter",
         "mechanism",
         "escapement"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/danielj06/typewriter/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -903,6 +1284,15 @@
         "metal-3d-printing",
         "simulation",
         "manufacturing"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entangledquantum/m290-metal-3d-printer/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -924,6 +1314,15 @@
         "materials",
         "science",
         "manufacturing"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/cu-diamond-composite/figure.json",
+      "prompt_status": "published",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -939,12 +1338,22 @@
       "creator": "entity",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/entity/film-projector",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/film-projector/figure.json",
-      "description": "Film projector.",
+      "description": "An isometric projector exposes the film-transport mechanism.",
       "format": "SVG",
       "tags": [
         "retro",
         "film",
         "mechanical"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/film-projector/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "等轴测放映机展示胶片输送机构。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -965,6 +1374,15 @@
       "tags": [
         "retro",
         "games"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/game-boy/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -985,6 +1403,15 @@
       "tags": [
         "retro",
         "mechanical"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/gumball-machine/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1005,6 +1432,15 @@
       "tags": [
         "retro",
         "audio"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/jukebox/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1020,11 +1456,21 @@
       "creator": "entity",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/entity/lever-espresso-machine",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/lever-espresso-machine/figure.json",
-      "description": "Lever espresso machine.",
+      "description": "A lever espresso machine exposes its manual brewing mechanism.",
       "format": "SVG",
       "tags": [
         "kitchen",
         "mechanical"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/lever-espresso-machine/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "杠杆咖啡机展示手动冲煮机构。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1046,6 +1492,15 @@
         "retro",
         "games",
         "electronics"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/nes-controller/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1066,6 +1521,15 @@
       "tags": [
         "retro",
         "photo"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/polaroid-camera/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1085,6 +1549,15 @@
       "format": "SVG",
       "tags": [
         "kitchen"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/pop-up-toaster/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1100,11 +1573,21 @@
       "creator": "entity",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/entity/walkman-cassette",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/walkman-cassette/figure.json",
-      "description": "Walkman cassette player.",
+      "description": "A cassette-player cutaway reveals the tape path and drive layout.",
       "format": "SVG",
       "tags": [
         "retro",
         "audio"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/entity/walkman-cassette/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "磁带随身听剖面呈现走带路径与传动布局。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1128,6 +1611,15 @@
         "mechanism",
         "brazil",
         "water"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/fmenegui/brazilian-electric-shower/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1143,12 +1635,22 @@
       "creator": "gudguliai",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/gudguliai/floating-caliper-disc-brake",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/gudguliai/floating-caliper-disc-brake/figure.json",
-      "description": "Floating-caliper disc brake.",
+      "description": "A floating-caliper brake study illustrates how pads and caliper act on the disc.",
       "format": "SVG + 3D",
       "tags": [
         "brakes",
         "automotive",
         "hydraulics"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/gudguliai/floating-caliper-disc-brake/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "浮动卡钳制动器示意展示刹车片、卡钳与制动盘的关系。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1170,6 +1672,15 @@
         "medical",
         "pump",
         "cutaway"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/jack-margeson/cold-therapy-unit/figure.json",
+      "prompt_status": "published",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1192,6 +1703,15 @@
         "history",
         "stone",
         "engineering"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/jcroccomendez/machu-picchu/figure.json",
+      "prompt_status": "published",
+      "topic": "architecture",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1212,6 +1732,15 @@
       "tags": [
         "weather",
         "wind"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/masterthepixel/weather-wind/figure.json",
+      "prompt_status": "published",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1227,12 +1756,22 @@
       "creator": "minhaajre",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/minhaajre/powerbank-anatomy",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/minhaajre/powerbank-anatomy/figure.json",
-      "description": "Powerbank anatomy: how a 25,000 mAh 200 W powerbank works.",
+      "description": "A powerbank cutaway explains the arrangement of cells, conversion and output hardware.",
       "format": "SVG",
       "tags": [
         "powerbank",
         "usb-pd",
         "battery"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/minhaajre/powerbank-anatomy/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "充电宝剖面说明电芯、电能转换与输出硬件的布局。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1248,11 +1787,21 @@
       "creator": "nader0913",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/nader0913/click-pen",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/click-pen/figure.json",
-      "description": "Click pen.",
+      "description": "A cutaway shows how a click mechanism alternates between writing and retracted states.",
       "format": "SVG",
       "tags": [
         "everyday",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/click-pen/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "剖面展示按动机构怎样在出芯与收芯状态之间切换。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1274,6 +1823,15 @@
         "everyday",
         "plumbing",
         "fluids"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/flush-toilet/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1289,12 +1847,22 @@
       "creator": "nader0913",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/nader0913/four-stroke-engine",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/four-stroke-engine/figure.json",
-      "description": "Four-stroke engine.",
+      "description": "An engine cutaway exposes the piston and valve sequence across four strokes.",
       "format": "SVG",
       "tags": [
         "engine",
         "automotive",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/four-stroke-engine/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "发动机剖面展示四个冲程中的活塞与气门时序。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1310,13 +1878,23 @@
       "creator": "nader0913",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/nader0913/geneva-drive",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/geneva-drive/figure.json",
-      "description": "Geneva drive film advance.",
+      "description": "A Geneva mechanism converts continuous rotation into intermittent film advance.",
       "format": "SVG",
       "tags": [
         "mechanism",
         "gears",
         "intermittent",
         "film"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/geneva-drive/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "日内瓦机构把连续转动转换为间歇走片。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1338,6 +1916,15 @@
         "watch",
         "horology",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/lever-escapement/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1353,12 +1940,22 @@
       "creator": "nader0913",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/nader0913/open-differential",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/open-differential/figure.json",
-      "description": "Open differential.",
+      "description": "A differential study compares the motion of its two outputs.",
       "format": "SVG",
       "tags": [
         "automotive",
         "gears",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/open-differential/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "差速器示意对照两侧输出的运动关系。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1380,6 +1977,15 @@
         "mechanism",
         "security",
         "everyday"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/padlock/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1395,12 +2001,22 @@
       "creator": "nader0913",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/nader0913/pin-tumbler-lock",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/pin-tumbler-lock/figure.json",
-      "description": "Pin tumbler lock.",
+      "description": "A pin-tumbler mechanism shows the relationship between key heights and the shear line.",
       "format": "SVG",
       "tags": [
         "mechanism",
         "security",
         "everyday"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/pin-tumbler-lock/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "弹子锁展示钥匙齿高与剪切线的关系。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1416,12 +2032,22 @@
       "creator": "nader0913",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/nader0913/wankel-engine",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/wankel-engine/figure.json",
-      "description": "Wankel rotary engine.",
+      "description": "A rotary-engine study follows the rotor inside its housing.",
       "format": "SVG",
       "tags": [
         "engine",
         "automotive",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/wankel-engine/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "转子发动机示意跟随转子在壳体内运动。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1442,6 +2068,15 @@
       "tags": [
         "everyday",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nader0913/zipper/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1463,6 +2098,15 @@
         "mechanism",
         "javascript",
         "timing"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/nuzairb/debounce-bench/figure.json",
+      "prompt_status": "published",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1485,6 +2129,15 @@
         "electronics",
         "exploded-view",
         "lcd"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/pixelyokai/tamagotchi-teardown/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1508,6 +2161,15 @@
         "burn",
         "isometric",
         "webgl"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/quotumorg/quotum-machine/figure.json",
+      "prompt_status": "published",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1530,6 +2192,15 @@
         "clockwork",
         "gears",
         "spring"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/srirangam-r/automatic-watch/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1545,13 +2216,23 @@
       "creator": "taqh",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/taqh/mechanical-keyboard-switch",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/taqh/mechanical-keyboard-switch/figure.json",
-      "description": "Keyboard switch, sawn open.",
+      "description": "A sawn-open switch exposes the stem, spring and contact mechanism.",
       "format": "SVG",
       "tags": [
         "keyboard",
         "switch",
         "cutaway",
         "hardware"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/taqh/mechanical-keyboard-switch/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "剖开的机械轴体展示轴心、弹簧与触点机构。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1569,7 +2250,16 @@
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/the-mambo/air-fryer/figure.json",
       "description": "Basket Air Fryer.",
       "format": "SVG",
-      "tags": []
+      "tags": [],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/the-mambo/air-fryer/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
+      ]
     },
     {
       "prompt": "lets keep this ball rolling, let's create another one, this time for a Sony Discman. Add some color and nail the characteristic 'Discman Yellow'",
@@ -1586,7 +2276,16 @@
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/the-mambo/discman/figure.json",
       "description": "Sony Discman ESP D-421SP.",
       "format": "SVG",
-      "tags": []
+      "tags": [],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/the-mambo/discman/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
+      ]
     },
     {
       "prompt": "visualize a car, a new bmw",
@@ -1601,13 +2300,26 @@
       "creator": "tiago-varandas",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/tiago-varandas/bmw-ix3-on-the-bench",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/tiago-varandas/bmw-ix3-on-the-bench/figure.json",
-      "description": "BMW iX3 on the bench.",
+      "description": "A model car on a bench offers separated assemblies and driving or charging demonstrations.",
       "format": "SVG",
       "tags": [
         "car",
         "ev",
         "battery",
         "explode"
+      ],
+      "alternate_urls": [
+        "https://anatomy-snowy.vercel.app/ix3"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/tiago-varandas/bmw-ix3-on-the-bench/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "试验台上的模型车提供总成拆解、行驶及充电演示。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1631,6 +2343,15 @@
         "automotive",
         "circuit",
         "actuator"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/vinayanand3/dc-solenoid-electrical/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1654,6 +2375,15 @@
         "crash-test",
         "fmvss-203",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/vinayanand3/steering-column-impact/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1677,6 +2407,15 @@
         "crash-test",
         "retractor",
         "mechanism"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/vinayanand3/three-point-seat-belt/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1697,6 +2436,15 @@
       "tags": [
         "measurement",
         "gauge"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/wheresryan22/dial-indicator/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1712,11 +2460,21 @@
       "creator": "wheresryan22",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/wheresryan22/raptor-engine",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/wheresryan22/raptor-engine/figure.json",
-      "description": "Raptor engine on the test stand.",
+      "description": "A rocket engine on a test stand exposes assemblies, pipes and firing effects.",
       "format": "SVG + WebGL",
       "tags": [
         "rocket",
         "engine"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/wheresryan22/raptor-engine/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "description_zh": "试验台上的火箭发动机展示总成、管路与点火效果。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1732,11 +2490,21 @@
       "creator": "wheresryan22",
       "source_url": "https://skills.wheresryan.sh/anatomy/community/wheresryan22/ripple-tank",
       "metadata_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/wheresryan22/ripple-tank/figure.json",
-      "description": "Ripple tank.",
+      "description": "A classroom wave tank relates its moving dippers to the resulting wave pattern.",
       "format": "SVG + WebGL",
       "tags": [
         "waves",
         "optics"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/wheresryan22/ripple-tank/figure.json",
+      "prompt_status": "published",
+      "topic": "physics",
+      "description_zh": "课堂波纹水槽展示振源运动与水面波纹的关系。",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1759,6 +2527,15 @@
         "dual-clutch",
         "automotive",
         "gearbox"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/yishan/ford-dps6-twin-clutch/figure.json",
+      "prompt_status": "published",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1781,6 +2558,15 @@
         "ci-cd",
         "runner",
         "pipeline"
+      ],
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wheresryan22/anatomy-community/blob/main/figures/zzgosh/gitlab-runner-bench/figure.json",
+      "prompt_status": "published",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
       ]
     },
     {
@@ -1795,11 +2581,19 @@
       "title": "Aircraft assembly hangar",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-hangar/aero-hangar-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone aircraft assembly hangar SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-hangar/aero-hangar-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-hangar/aero-hangar.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1814,11 +2608,19 @@
       "title": "Satellite test stand",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-satellite/aero-satellite-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone satellite test stand SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-satellite/aero-satellite-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-satellite/aero-satellite.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1833,11 +2635,19 @@
       "title": "Air taxi vertiport",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/aero-vertiport-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone air taxi vertiport SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/aero-vertiport-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/aero-vertiport.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1852,11 +2662,19 @@
       "title": "Autonomous flight",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/autonomy-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone autonomous flight SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/autonomy-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/autonomy.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1871,11 +2689,19 @@
       "title": "Bottling line",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/bottling-line/bottling-line-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone bottling line SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/bottling-line/bottling-line-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/bottling-line/bottling-line.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1890,11 +2716,19 @@
       "title": "Home energy system",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-home/energy-home.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone home energy system SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-home/energy-home-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-home/energy-home.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1909,11 +2743,19 @@
       "title": "Solar farm",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-solar-farm/energy-solar-farm.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone solar farm SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-solar-farm/energy-solar-farm-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-solar-farm/energy-solar-farm.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1928,11 +2770,19 @@
       "title": "Wind turbine",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/energy-turbine.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone wind turbine SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/energy-turbine-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/energy-turbine.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1947,11 +2797,19 @@
       "title": "Espresso machine",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/espresso-tile/espresso-tile.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone espresso machine SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/espresso-tile/espresso-tile-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/espresso-tile/espresso-tile.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1966,11 +2824,19 @@
       "title": "Fast: stopwatch",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/fast-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone fast: stopwatch SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/fast-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/fast.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -1985,11 +2851,19 @@
       "title": "Generate energy",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/generate.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone generate energy SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/generate-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/generate.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2004,11 +2878,19 @@
       "title": "Works offline: battery lantern",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/offline-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone works offline: battery lantern SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/offline-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/offline.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2023,11 +2905,19 @@
       "title": "Electric propulsion",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/propulsion-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone electric propulsion SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/propulsion-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/propulsion.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2042,11 +2932,19 @@
       "title": "Quiet flight",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/quiet-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone quiet flight SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/quiet-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-spots/quiet.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2061,11 +2959,19 @@
       "title": "Secure: safe-deposit box",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/secure-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone secure: safe-deposit box SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/secure-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/feature-spots/secure.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2080,11 +2986,19 @@
       "title": "Share energy",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/share.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone share energy SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/share-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/share.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2099,11 +3013,19 @@
       "title": "Store energy",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/store.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone store energy SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/store-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-spots/store.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2118,11 +3040,19 @@
       "title": "Synthesizer hero",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/synth-hero-light.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone synthesizer hero SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/synth-hero-light.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/synth-hero.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2137,11 +3067,19 @@
       "title": "Writing desk",
       "creator": "Teddarific",
       "source_url": "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/writing-desk/writing-desk.svg",
-      "description": "A standalone SVG illustration from Anatomy Asset.",
+      "description": "A standalone writing desk SVG by Teddarific, with source and theme variants linked.",
       "format": "SVG",
       "variants": [
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/writing-desk/writing-desk-dark.svg",
         "https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/writing-desk/writing-desk.svg"
+      ],
+      "added": "2026-10-17",
+      "preview_format": "svg",
+      "topic": "visual",
+      "description_zh": "Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。",
+      "resources": [
+        "svg",
+        "code"
       ]
     },
     {
@@ -2158,7 +3096,16 @@
       "source_url": "https://wazootech.github.io/wazoo-anatomy/ingestion/",
       "metadata_url": "https://github.com/wazootech/wazoo-anatomy/blob/main/figures/ingestion/figure.json",
       "description": "An independent knowledge-retrieval example.",
-      "author_status": null
+      "author_status": null,
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wazootech/wazoo-anatomy/blob/main/figures/ingestion/figure.json",
+      "prompt_status": "published",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
+      ]
     },
     {
       "prompt": "Explain how Worlds is able to find the right answer even when keyword search and meaning-based search disagree, and what cool things that unlocks. Do that in a single HTML file.",
@@ -2174,7 +3121,16 @@
       "source_url": "https://wazootech.github.io/wazoo-anatomy/recall-v2/",
       "metadata_url": "https://github.com/wazootech/wazoo-anatomy/blob/main/figures/recall-v2/figure.json",
       "description": "An independent knowledge-retrieval example.",
-      "author_status": null
+      "author_status": null,
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wazootech/wazoo-anatomy/blob/main/figures/recall-v2/figure.json",
+      "prompt_status": "published",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
+      ]
     },
     {
       "prompt": "Draw a small single-purpose industrial machine, isometric, that physically fuses two ranked lists. Two tall open magazines of flat slips—one labelled for keyword search, one for vector search—feed a slotted revolver drum in the middle that interleaves the two rankings into one queue on a rail, best slip first. A carriage with a down-pointing needle slides along the rail, a round dial reads a fused score, and from the top slip a thread runs through two eyelets to an answer card clipped on a board at the back. Muted four-tone metal, one tiny engraved label, no diagram arrows or captions; the machine should look like it exists. Output one self-contained interactive HTML page: hovering across the rail parks the carriage and updates the needle and readout.",
@@ -2190,7 +3146,16 @@
       "source_url": "https://wazootech.github.io/wazoo-anatomy/recall/",
       "metadata_url": "https://github.com/wazootech/wazoo-anatomy/blob/main/figures/recall/figure.json",
       "description": "An independent knowledge-retrieval example.",
-      "author_status": null
+      "author_status": null,
+      "added": "2026-10-17",
+      "prompt_source_url": "https://github.com/wazootech/wazoo-anatomy/blob/main/figures/recall/figure.json",
+      "prompt_status": "published",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "prompt"
+      ]
     },
     {
       "prompt": null,
@@ -2206,7 +3171,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/01-menopause-thermostat/menopause-thermostat-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/01-menopause-thermostat/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 1 · for review"
+      "author_status": "Round 1 · for review",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2222,7 +3193,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/02-inbody-580/inbody-580-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/02-inbody-580/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 1 · for review"
+      "author_status": "Round 1 · for review",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2238,7 +3215,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/03-iv-iron/iv-iron-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/03-iv-iron/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 1 · for review"
+      "author_status": "Round 1 · for review",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2254,7 +3237,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/04-creator-600/creator-600-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/04-creator-600/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 1 · for review"
+      "author_status": "Round 1 · for review",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2270,7 +3259,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/05-vo2max/vo2max-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/05-vo2max/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 3 · for review"
+      "author_status": "Round 3 · for review",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2286,7 +3281,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/06-vo2max-treadmill/vo2max-treadmill-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/06-vo2max-treadmill/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 2 · for review"
+      "author_status": "Round 2 · for review",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2302,7 +3303,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a1-gut-cell/gut-cell-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a1-gut-cell/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 2 · 3-D block"
+      "author_status": "Round 2 · 3-D block",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2318,7 +3325,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a2-hypothalamus/hypothalamus-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a2-hypothalamus/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 3 · 3-D brain block"
+      "author_status": "Round 3 · 3-D brain block",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2334,7 +3347,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a3-finger-skin/finger-skin-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a3-finger-skin/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Approved look · 3-D"
+      "author_status": "Approved look · 3-D",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2350,7 +3369,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a4-heart/heart-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a4-heart/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 6 · solid 3-D heart (WebGL), turns"
+      "author_status": "Round 6 · solid 3-D heart (WebGL), turns",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2366,7 +3391,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a5-alveolus/alveolus-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a5-alveolus/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 2 · 3-D block"
+      "author_status": "Round 2 · 3-D block",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2382,7 +3413,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a6-red-cell-cycle/red-cell-cycle-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a6-red-cell-cycle/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 3 · 3-D, cut in half"
+      "author_status": "Round 3 · 3-D, cut in half",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2398,7 +3435,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a7-knee/knee-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a7-knee/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 2 · 3-D, leg cut in half"
+      "author_status": "Round 2 · 3-D, leg cut in half",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2414,7 +3457,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a8-muscle-water/muscle-water-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a8-muscle-water/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 2 · 3-D bundle"
+      "author_status": "Round 2 · 3-D bundle",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2430,7 +3479,13 @@
       "source_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a9-bone-remodelling/bone-remodelling-light.html",
       "metadata_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a9-bone-remodelling/figure.json",
       "description": "A health or equipment explainer; see the author’s review status.",
-      "author_status": "Round 2 · 3-D block"
+      "author_status": "Round 2 · 3-D block",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2444,7 +3499,12 @@
       "title": "AlphaFold goniometer bench",
       "creator": "consigcody94",
       "source_url": "https://github.com/consigcody94/scientific-anatomy/blob/main/figures/alphafold-goniometer/alphafold-goniometer.html",
-      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available."
+      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available.",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2458,7 +3518,12 @@
       "title": "Quaternion monoid bench",
       "creator": "consigcody94",
       "source_url": "https://github.com/consigcody94/scientific-anatomy/blob/main/figures/quaternion-monoid/quaternion-monoid.html",
-      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available."
+      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available.",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2472,7 +3537,12 @@
       "title": "Radiative-transfer column bench",
       "creator": "consigcody94",
       "source_url": "https://github.com/consigcody94/scientific-anatomy/blob/main/figures/noaa-gpu-radiometer/noaa-gpu-radiometer.html",
-      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available."
+      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available.",
+      "added": "2026-10-17",
+      "topic": "physics",
+      "resources": [
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2486,7 +3556,12 @@
       "title": "Particle-physics calorimeter bench",
       "creator": "consigcody94",
       "source_url": "https://github.com/consigcody94/scientific-anatomy/blob/main/figures/pythia-collider/pythia-collider.html",
-      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available."
+      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available.",
+      "added": "2026-10-17",
+      "topic": "physics",
+      "resources": [
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2500,7 +3575,12 @@
       "title": "Root ion-transport bench",
       "creator": "consigcody94",
       "source_url": "https://github.com/consigcody94/scientific-anatomy/blob/main/figures/saltwater-almond/saltwater-almond.html",
-      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available."
+      "description": "An Anatomy figure in Scientific Anatomy; source HTML is available.",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2514,7 +3594,13 @@
       "title": "Old Faithful",
       "creator": "brandonmcconnell",
       "source_url": "https://anatomy-examples.vercel.app/old-faithful/",
-      "description": "An interactive geyser cutaway with SVG and WebGL."
+      "description": "An interactive geyser cutaway with SVG and WebGL.",
+      "added": "2026-10-17",
+      "topic": "physics",
+      "resources": [
+        "live",
+        "code"
+      ]
     },
     {
       "prompt": null,
@@ -2528,7 +3614,12 @@
       "title": "Mac mini cutaway",
       "creator": "matwi5",
       "source_url": "https://github.com/matwi5/anatomy/tree/main/mac-mini",
-      "description": "A hardware cutaway from Atelier anatomy."
+      "description": "A hardware cutaway from Atelier anatomy.",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "code"
+      ]
     },
     {
       "id": "external-anatomy-creative",
@@ -2543,7 +3634,13 @@
       "prompt": null,
       "resource_status": "Author-shared showcase; prompt not transcribed",
       "verification": "Original post attribution checked in research snapshot; no claim of independent technical validation.",
-      "rights": "Link only; creator media not copied"
+      "rights": "Link only; creator media not copied",
+      "added": "2026-10-17",
+      "topic": "physics",
+      "resources": [
+        "code",
+        "showcase"
+      ]
     },
     {
       "id": "external-gpu-explainer",
@@ -2558,7 +3655,13 @@
       "prompt": null,
       "resource_status": "Author-shared showcase; prompt not transcribed",
       "verification": "Original post attribution checked in research snapshot; no claim of independent technical validation.",
-      "rights": "Link only; creator media not copied"
+      "rights": "Link only; creator media not copied",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "code",
+        "showcase"
+      ]
     },
     {
       "id": "external-roadster-cutaway",
@@ -2573,7 +3676,13 @@
       "prompt": null,
       "resource_status": "Author-shared showcase; prompt not transcribed",
       "verification": "Original post attribution checked in research snapshot; no claim of independent technical validation.",
-      "rights": "Link only; creator media not copied"
+      "rights": "Link only; creator media not copied",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "live",
+        "showcase"
+      ]
     },
     {
       "id": "external-master-plugin",
@@ -2588,7 +3697,13 @@
       "prompt": null,
       "resource_status": "Author-shared showcase; prompt not transcribed",
       "verification": "Original post attribution checked in research snapshot; no claim of independent technical validation.",
-      "rights": "Link only; creator media not copied"
+      "rights": "Link only; creator media not copied",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "showcase"
+      ]
     },
     {
       "id": "external-f1-car",
@@ -2603,7 +3718,12 @@
       "prompt": null,
       "resource_status": "Author-shared showcase; prompt not transcribed",
       "verification": "Original post attribution checked in research snapshot; no claim of independent technical validation.",
-      "rights": "Link only; creator media not copied"
+      "rights": "Link only; creator media not copied",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "external-chip-manufacturing",
@@ -2618,7 +3738,12 @@
       "prompt": null,
       "resource_status": "Author-shared showcase; prompt not transcribed",
       "verification": "Original post attribution checked in research snapshot; no claim of independent technical validation.",
-      "rights": "Link only; creator media not copied"
+      "rights": "Link only; creator media not copied",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "prompt": null,
@@ -2632,7 +3757,12 @@
       "title": "Tourbillon watch",
       "creator": "TonioRenteria",
       "source_url": "https://x.com/TonioRenteria/status/2109433299923796291",
-      "description": "An author-shared tourbillon mechanism."
+      "description": "An author-shared tourbillon mechanism.",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "prompt": null,
@@ -2646,7 +3776,12 @@
       "title": "Mechanical-clock video experiment",
       "creator": "jackzhang123vip",
       "source_url": "https://x.com/jackzhang123vip/status/2110572202617872420",
-      "description": "A short science-video experiment."
+      "description": "A short science-video experiment.",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "prompt": null,
@@ -2660,7 +3795,12 @@
       "title": "Industrial equipment simulation",
       "creator": "UnoPlatform",
       "source_url": "https://x.com/UnoPlatform/status/2111170199114207451",
-      "description": "An industrial simulation; its follow-up credits Anatomy."
+      "description": "An industrial simulation; its follow-up credits Anatomy.",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "prompt": null,
@@ -2674,7 +3814,12 @@
       "title": "F5 key interface illustration",
       "creator": "slashui",
       "source_url": "https://x.com/slashui/status/2110654392580108619",
-      "description": "An Anatomy illustration used in an input-method interface."
+      "description": "An Anatomy illustration used in an input-method interface.",
+      "added": "2026-10-17",
+      "topic": "visual",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "prompt": null,
@@ -2688,7 +3833,12 @@
       "title": "Roadster thruster explainer",
       "creator": "diogo_aoliveira",
       "source_url": "https://x.com/diogo_aoliveira/status/2111223690683920732",
-      "description": "An author-shared interactive vehicle explanation."
+      "description": "An author-shared interactive vehicle explanation.",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "prompt": null,
@@ -2702,7 +3852,12 @@
       "title": "Image-model visual explainer",
       "creator": "MengTo",
       "source_url": "https://x.com/MengTo/status/2109182449179836579",
-      "description": "An author-shared visual explanation made with Anatomy."
+      "description": "An author-shared visual explanation made with Anatomy.",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "x-pen-spinning-trainer",
@@ -2718,7 +3873,12 @@
       "source_status": "Original source read; interactions not independently tested",
       "rights": "Link only; creator media remains at source",
       "platform": "X",
-      "creator_url": "https://x.com/aimikoda"
+      "creator_url": "https://x.com/aimikoda",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "x-rasterization-raytracing",
@@ -2734,7 +3894,12 @@
       "source_status": "Original source read; interactions not independently tested",
       "rights": "Link only; creator media remains at source",
       "platform": "X",
-      "creator_url": "https://x.com/KanaWorks_AI"
+      "creator_url": "https://x.com/KanaWorks_AI",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "x-anatomy-reveal-film",
@@ -2750,7 +3915,12 @@
       "source_status": "Original source read; interactions not independently tested",
       "rights": "Link only; creator media remains at source",
       "platform": "X",
-      "creator_url": "https://x.com/ann_nnng"
+      "creator_url": "https://x.com/ann_nnng",
+      "added": "2026-10-17",
+      "topic": "visual",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "x-mac-mini-reveal",
@@ -2766,7 +3936,12 @@
       "source_status": "Original source read; interactions not independently tested",
       "rights": "Link only; creator media remains at source",
       "platform": "X",
-      "creator_url": "https://x.com/0xMovez"
+      "creator_url": "https://x.com/0xMovez",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "x-iso-glow-exploded-study",
@@ -2782,7 +3957,12 @@
       "source_status": "Original source read; interactions not independently tested",
       "rights": "Link only; creator media remains at source",
       "platform": "X",
-      "creator_url": "https://x.com/Aprilzz423"
+      "creator_url": "https://x.com/Aprilzz423",
+      "added": "2026-10-17",
+      "topic": "visual",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "x-ambient-device-explainer",
@@ -2798,7 +3978,12 @@
       "source_status": "Original source read; interactions not independently tested",
       "rights": "Link only; creator media remains at source",
       "platform": "X",
-      "creator_url": "https://x.com/msurguy"
+      "creator_url": "https://x.com/msurguy",
+      "added": "2026-10-17",
+      "topic": "visual",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "x-local-ai-course",
@@ -2815,7 +4000,13 @@
       "rights": "Link only; creator media remains at source",
       "platform": "X",
       "metadata_url": "https://x.com/MisbahSy/status/2110154166656278776",
-      "shared_by": "MisbahSy"
+      "shared_by": "MisbahSy",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "showcase"
+      ]
     },
     {
       "id": "reddit-meshbrasil-meshtastic",
@@ -2832,7 +4023,14 @@
       "rights": "MIT according to the work page; linked rather than redistributed",
       "platform": "Reddit",
       "creator_url": "https://www.reddit.com/user/Alternative_Can3875/",
-      "format": "SVG + JavaScript"
+      "format": "SVG + JavaScript",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "code",
+        "showcase"
+      ]
     },
     {
       "id": "reddit-suchi-document-machines",
@@ -2849,7 +4047,13 @@
       "rights": "Link only; creator media remains at source",
       "platform": "Reddit",
       "creator_url": "https://github.com/johnnybravo-xyz",
-      "counting_note": "The two figures on this shared page are counted as one linked showcase."
+      "counting_note": "The two figures on this shared page are counted as one linked showcase.",
+      "added": "2026-10-17",
+      "topic": "computing",
+      "resources": [
+        "live",
+        "showcase"
+      ]
     },
     {
       "id": "reddit-portfolio-isometric-figure",
@@ -2865,7 +4069,13 @@
       "source_status": "Original source read; interactions not independently tested",
       "rights": "Link only; creator media remains at source",
       "platform": "Reddit",
-      "creator_url": "https://www.reddit.com/user/TheRedDeathKnight/"
+      "creator_url": "https://www.reddit.com/user/TheRedDeathKnight/",
+      "added": "2026-10-17",
+      "topic": "visual",
+      "resources": [
+        "live",
+        "showcase"
+      ]
     },
     {
       "id": "youtube-ten-machine-builds",
@@ -2884,7 +4094,12 @@
       "creator_url": "https://www.youtube.com/@PromptEngineer48",
       "resource_status": "Video demonstration; generated files are not linked in the retrieved description.",
       "counting_note": "One video resource, not ten independently downloadable assets.",
-      "resource_status_zh": "视频中的实际制作演示；当前读取的视频说明未提供生成文件链接。"
+      "resource_status_zh": "视频中的实际制作演示；当前读取的视频说明未提供生成文件链接。",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "youtube-hermes-turbofan",
@@ -2903,7 +4118,12 @@
       "creator_url": "https://www.youtube.com/@stlpercy",
       "demo_url": "https://www.youtube.com/watch?v=dXKnb0TC7QY&t=273s",
       "resource_status": "Video demonstration; the deployed demo URL was not exposed in the retrieved description.",
-      "resource_status_zh": "视频中的成品演示；当前读取的视频说明未提供部署后的作品网址。"
+      "resource_status_zh": "视频中的成品演示；当前读取的视频说明未提供部署后的作品网址。",
+      "added": "2026-10-17",
+      "topic": "mechanisms",
+      "resources": [
+        "showcase"
+      ]
     },
     {
       "id": "bilibili-sanger-sequencing",
@@ -2923,7 +4143,1144 @@
       "prompt_url": "https://www.bilibili.com/video/BV1LdJk6eEaJ/",
       "prompt_available_at_source": true,
       "resource_status": "Video demonstration with a published prompt; no standalone source or demo URL was provided.",
-      "resource_status_zh": "视频演示附公开提示词；原说明未提供独立体验页或源码链接。"
+      "resource_status_zh": "视频演示附公开提示词；原说明未提供独立体验页或源码链接。",
+      "added": "2026-10-17",
+      "topic": "biology",
+      "resources": [
+        "showcase"
+      ]
+    },
+    {
+      "id": "amir-pen",
+      "category": "Independent Collections",
+      "title": "Click pen: rotary cam",
+      "description": "A rotary cam alternates between ledges and deep slots to latch or release the refill.",
+      "description_zh": "旋转凸轮在台阶和深槽之间切换，解释笔芯如何按下锁定、再按弹回。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#pen",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-definitions.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#pen",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/pen.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-keyboard",
+      "category": "Independent Collections",
+      "title": "Mechanical keyboard: switch and scan",
+      "description": "Inspect the switch spring and contacts, then follow the keyboard matrix signal.",
+      "description_zh": "从轴体的弹簧和触点看起，再追踪键盘矩阵中的按键信号。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#keyboard",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-definitions.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#keyboard",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/keyboard.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-lens",
+      "category": "Independent Collections",
+      "title": "Photo lens: focus and iris",
+      "description": "A threaded carriage moves the lens group while nine iris leaves adjust the opening.",
+      "description_zh": "对焦螺纹推动镜组移动，九片光圈叶片联动改变通光孔径。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#lens",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#lens",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/lens.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-watch",
+      "category": "Independent Collections",
+      "title": "Mechanical watch: winding and escapement",
+      "description": "Wind the mechanism and step through the escapement and gear train.",
+      "description_zh": "给机械表上弦，逐步查看擒纵机构与齿轮传动。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#watch",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-definitions.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#watch",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/watch.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-gamepad",
+      "category": "Independent Collections",
+      "title": "Gamepad: sticks, contacts and feedback",
+      "description": "Separate the controller to explore two-axis sticks, button contacts and eccentric motors.",
+      "description_zh": "拆开手柄，查看双轴摇杆、按键触点和偏心振动电机。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#gamepad",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#gamepad",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/gamepad.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-lock",
+      "category": "Independent Collections",
+      "title": "Cylinder lock: pins and shear line",
+      "description": "Follow the key heights as they align the pin joints with the cylinder shear line.",
+      "description_zh": "观察钥匙齿高怎样把弹子接缝对齐到锁芯剪切线。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#lock",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#lock",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/lock.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-hub",
+      "category": "Independent Collections",
+      "title": "Geared bicycle hub: three ratios",
+      "description": "Inspect the sun gear and carrier while switching between three hub ratios.",
+      "description_zh": "查看太阳轮与行星架，并切换内变速花鼓的三种传动比。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#hub",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#hub",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/hub.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-engine",
+      "category": "Independent Collections",
+      "title": "Four-stroke engine: timing and output",
+      "description": "Step through a four-stroke cycle and follow the piston, crank and valve timing.",
+      "description_zh": "逐阶段查看四冲程循环，追踪活塞、曲轴和配气机构的联动。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#engine",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#engine",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/engine.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-motor",
+      "category": "Independent Collections",
+      "title": "DC motor: brushes and commutator",
+      "description": "Explore the armature and commutator, then reverse the supply polarity.",
+      "description_zh": "查看电枢、电刷和换向器，切换电源极性观察转向。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#motor",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#motor",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/motor.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-speaker",
+      "category": "Independent Collections",
+      "title": "Loudspeaker: coil and suspension",
+      "description": "Follow the voice coil, cone and suspension through a slowed motion cycle.",
+      "description_zh": "慢速查看音圈、振膜和悬边如何联动。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#speaker",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#speaker",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/speaker.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-pump",
+      "category": "Independent Collections",
+      "title": "Bicycle pump: seals and check valves",
+      "description": "Trace a pump stroke through the cup seal, inlet valve and outlet valve.",
+      "description_zh": "沿一个打气行程追踪皮碗密封、进气阀和出气阀。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#pump",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#pump",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/pump.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "amir-hdd",
+      "category": "Independent Collections",
+      "title": "Hard disk drive: seek and park",
+      "description": "Inspect the platters and head arms, then compare seeking and head parking.",
+      "description_zh": "拆看盘片与磁头臂，比较寻道和磁头停泊过程。",
+      "creator": "Amir Mushich",
+      "source_url": "https://anatomy.amirmushich.com/#hdd",
+      "code_url": "https://github.com/amirmushichge/anatomy/blob/1aaaccf519f92eb8f9363984f9a7520851396352/study-catalog.mjs",
+      "live_url": "https://anatomy.amirmushich.com/#hdd",
+      "preview_url": "https://raw.githubusercontent.com/amirmushichge/anatomy/1aaaccf519f92eb8f9363984f9a7520851396352/assets/hdd.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/amirmushichge/anatomy#credits",
+      "rights": "MIT upstream; preview and implementation remain at original URLs",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-accretion",
+      "category": "Independent Collections",
+      "title": "Planetary accretion",
+      "description": "A growing body sweeps up dust, illustrating gravitational focusing.",
+      "description_zh": "用天体扫过尘埃的过程解释行星吸积与引力聚焦。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/accretion",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/accretion/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/accretion/preview.png",
+      "prompt": null,
+      "topic": "physics",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-threshold-sieve",
+      "category": "Independent Collections",
+      "title": "Classifier threshold sieve",
+      "description": "Slide a sieve threshold to explore the precision–recall trade-off.",
+      "description_zh": "滑动筛选阈值，比较分类器精确率与召回率的取舍。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/threshold-sieve",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/threshold-sieve/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/threshold-sieve/preview.png",
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-class-imbalance",
+      "category": "Independent Collections",
+      "title": "Class imbalance and misleading accuracy",
+      "description": "Thin the positive class and compare apparent accuracy with precision.",
+      "description_zh": "减少正例占比，观察看似很高的准确率为何会误导。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/class-imbalance",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/class-imbalance/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/class-imbalance/preview.png",
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-friction-circle",
+      "category": "Independent Collections",
+      "title": "Tyre friction circle",
+      "description": "One grip budget is shared between braking, acceleration and cornering.",
+      "description_zh": "用同一份轮胎抓地预算解释制动、加速与转弯之间的取舍。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/friction-circle",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/friction-circle/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/friction-circle/preview.png",
+      "prompt": null,
+      "topic": "physics",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-tyre-window",
+      "category": "Independent Collections",
+      "title": "Tyre temperature window",
+      "description": "Explore why a tyre performs well only within a temperature window.",
+      "description_zh": "用温度窗口说明轮胎为何过冷或过热都会影响表现。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/tyre-window",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/tyre-window/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/tyre-window/preview.png",
+      "prompt": null,
+      "topic": "physics",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-chai-boilover",
+      "category": "Independent Collections",
+      "title": "Why milk boils over",
+      "description": "A surface skin traps steam, contrasting milk boilover with water.",
+      "description_zh": "比较牛奶表皮困住蒸汽与清水沸腾，解释溢锅现象。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/chai-boilover",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/chai-boilover/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/chai-boilover/preview.png",
+      "prompt": null,
+      "topic": "physics",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-undercut",
+      "category": "Independent Collections",
+      "title": "Racing undercut strategy",
+      "description": "Compare a pit-stop loss with the time gained on fresh tyres.",
+      "description_zh": "比较进站损失与新胎带来的圈速收益，解释提前进站策略。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/undercut",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/undercut/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/undercut/preview.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-ackermann",
+      "category": "Independent Collections",
+      "title": "Ackermann steering",
+      "description": "Different inner and outer wheel angles point toward a common turning centre.",
+      "description_zh": "通过内外轮不同转角，解释四个车轮怎样绕同一转弯中心运动。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/ackermann",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/ackermann/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/ackermann/preview.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "meerav-drs-slot-gap",
+      "category": "Independent Collections",
+      "title": "DRS wing slot gap",
+      "description": "Open a wing slot to explore the author’s airflow and drag explanation.",
+      "description_zh": "打开尾翼缝隙，查看作者对气流与阻力变化的解释。",
+      "creator": "Meerav29",
+      "source_url": "https://github.com/Meerav29/anatomy-tryouts/tree/main/drs-slot-gap",
+      "code_url": "https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/drs-slot-gap/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/drs-slot-gap/preview.png",
+      "prompt": null,
+      "topic": "physics",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Meerav29/anatomy-tryouts#anatomy-tryouts",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "tiago-neuron",
+      "category": "Independent Collections",
+      "title": "A neuron that learns",
+      "description": "Pair a bell with food to explore the author’s synaptic-learning model.",
+      "description_zh": "把铃声与食物配对，观察作者用突触连接演示的学习过程。",
+      "creator": "Tiago Varandas / Studio Little Nice Things",
+      "source_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/neuron-bench/neuron-bench-light.html",
+      "code_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/neuron-bench/neuron-bench-light.html",
+      "live_url": "https://anatomy-snowy.vercel.app/neuron",
+      "preview_url": null,
+      "prompt": null,
+      "topic": "biology",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/tiago-varandas/anatomy#anatomy",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "tiago-dj-booth",
+      "category": "Independent Collections",
+      "title": "Anatomy of a DJ booth",
+      "description": "Explore two players, a mixer, synthesized tracks and a live signal-flow overlay.",
+      "description_zh": "查看双播放器、混音台、合成音轨以及实时信号流叠层。",
+      "creator": "Tiago Varandas / Studio Little Nice Things",
+      "source_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/dj-booth/dj-booth.html",
+      "code_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/dj-booth/dj-booth.html",
+      "live_url": "https://anatomy-snowy.vercel.app/dj-booth",
+      "preview_url": null,
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/tiago-varandas/anatomy#anatomy",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "tiago-xcom",
+      "category": "Independent Collections",
+      "title": "Anatomy of a recommendation feed",
+      "description": "Follow a post through seven illustrative layers of a recommendation service.",
+      "description_zh": "跟随一条帖子穿过推荐服务的七个示意层级。",
+      "creator": "Tiago Varandas / Studio Little Nice Things",
+      "source_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/xcom/xcom.html",
+      "code_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/xcom/xcom.html",
+      "live_url": "https://anatomy-snowy.vercel.app/xcom",
+      "preview_url": null,
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/tiago-varandas/anatomy#anatomy",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "tiago-roadster",
+      "category": "Independent Collections",
+      "title": "Roadster compressed-air cutaway",
+      "description": "A speculative vehicle model explores compressed-air launch, refill and manoeuvring controls.",
+      "description_zh": "用示意车辆模型展示压缩空气发射、补气和姿态控制；并非实车验证。",
+      "creator": "Tiago Varandas / Studio Little Nice Things",
+      "source_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/roadster/roadster-light.html",
+      "code_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/roadster/roadster-light.html",
+      "live_url": "https://anatomy-snowy.vercel.app/roadster",
+      "preview_url": null,
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/tiago-varandas/anatomy#anatomy",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "tiago-studio-hero",
+      "category": "Independent Collections",
+      "title": "Studio Little Nice Things hero",
+      "description": "An isometric landing-page illustration built with the Anatomy drawing kit.",
+      "description_zh": "使用 Anatomy 绘图工具包制作的等轴测落地页插画。",
+      "creator": "Tiago Varandas / Studio Little Nice Things",
+      "source_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/lnt-hero/lnt-hero.html",
+      "code_url": "https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/lnt-hero/lnt-hero.html",
+      "live_url": "https://raw.githubusercontent.com/tiago-varandas/anatomy/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/lnt-hero/lnt-hero.svg",
+      "preview_url": "https://raw.githubusercontent.com/tiago-varandas/anatomy/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/lnt-hero/lnt-hero.svg",
+      "prompt": null,
+      "topic": "visual",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/tiago-varandas/anatomy#anatomy",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "preview_format": "svg",
+      "resources": [
+        "svg",
+        "code"
+      ]
+    },
+    {
+      "id": "rudra-cold-gas-nozzle",
+      "category": "Independent Collections",
+      "title": "Inside a cold-gas nozzle",
+      "description": "A sectioned nozzle bench relates valve state to pressure, Mach number and temperature readouts.",
+      "description_zh": "剖开的喷管试验台展示阀门状态与压力、马赫数、温度读数的关系。",
+      "creator": "Rudrajmehta",
+      "source_url": "https://github.com/Rudrajmehta/anatomy-cold-gas-nozzle",
+      "code_url": "https://github.com/Rudrajmehta/anatomy-cold-gas-nozzle/blob/5fd9079bfc56a5582a6c2ffcd9f07210e168a54e/build.mjs",
+      "live_url": "https://rudrajmehta.github.io/anatomy-cold-gas-nozzle/",
+      "preview_url": "https://raw.githubusercontent.com/Rudrajmehta/anatomy-cold-gas-nozzle/5fd9079bfc56a5582a6c2ffcd9f07210e168a54e/shots/desktop-light.png",
+      "prompt": null,
+      "topic": "physics",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Rudrajmehta/anatomy-cold-gas-nozzle",
+      "rights": "MIT upstream; linked teaching model, not independently validated engineering data",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "rudra-cold-gas-thrusters",
+      "category": "Independent Collections",
+      "title": "Cold-gas attitude-control thrusters",
+      "description": "Two opposed thruster pairs turn and stop a rocket section on a test bench.",
+      "description_zh": "两组相向推进器在试验台上驱动并停止火箭舱段的转动。",
+      "creator": "Rudrajmehta",
+      "source_url": "https://github.com/Rudrajmehta/anatomy-cold-gas-thrusters",
+      "code_url": "https://github.com/Rudrajmehta/anatomy-cold-gas-thrusters/blob/c1334f927ca707d82173461c59231d5ee3560baf/build.mjs",
+      "live_url": "https://rudrajmehta.github.io/anatomy-cold-gas-thrusters/",
+      "preview_url": "https://raw.githubusercontent.com/Rudrajmehta/anatomy-cold-gas-thrusters/c1334f927ca707d82173461c59231d5ee3560baf/shots/tour-6-hold-light.png",
+      "prompt": null,
+      "topic": "physics",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/Rudrajmehta/anatomy-cold-gas-thrusters",
+      "rights": "MIT upstream; linked teaching model, not independently validated engineering data",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "uncle-saleh-robot",
+      "category": "Independent Collections",
+      "title": "Uncle Saleh robot: CAD cutaway",
+      "description": "Inspect a standing robot’s retained CAD components and compare hand, arm, shoulder and head motion showcases.",
+      "description_zh": "查看站立机器人保留的 CAD 零件，对照手、手臂、肩部与头部的动作展示。",
+      "creator": "modigmd",
+      "source_url": "https://github.com/modigmd/uncle-saleh-anatomy",
+      "code_url": "https://github.com/modigmd/uncle-saleh-anatomy/blob/027ba592daeb8f69db1ae3cd763b42bcb06e6ebc/Uncle-Saleh-Anatomy.html",
+      "live_url": "https://modigmd.github.io/uncle-saleh-anatomy/",
+      "preview_url": "https://raw.githubusercontent.com/modigmd/uncle-saleh-anatomy/027ba592daeb8f69db1ae3cd763b42bcb06e6ebc/Uncle-Saleh-Live-Viewer.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/modigmd/uncle-saleh-anatomy",
+      "rights": "MIT repository; original CAD and audio retain their stated source terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "salik-robot-hand",
+      "category": "Independent Collections",
+      "title": "Tendon-driven robot hand",
+      "description": "An SVG mechanical-hand study exposes tendon coupling, finger spread and an exploded assembly.",
+      "description_zh": "SVG 机械手演示呈现肌腱耦合、手指张合与零件爆炸拆解。",
+      "creator": "salikshah",
+      "source_url": "https://github.com/salikshah/robot-hand-anatomy",
+      "code_url": "https://github.com/salikshah/robot-hand-anatomy/blob/9f5a34bfec845670dd58e438baf2b84b5302c5cb/object/figure-light.html",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/salikshah/robot-hand-anatomy/9f5a34bfec845670dd58e438baf2b84b5302c5cb/launch-assets/screenshot-hero-fist.png",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/salikshah/robot-hand-anatomy/blob/9f5a34bfec845670dd58e438baf2b84b5302c5cb/package.json",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "wang-gmsl3-link",
+      "category": "Independent Collections",
+      "title": "GMSL3: two independent video-link hops",
+      "description": "Trace camera-to-screen video, return control traffic and power while comparing two separate channel budgets.",
+      "description_zh": "追踪摄像头到屏幕的视频、反向控制和供电，对比两跳独立信道的预算。",
+      "creator": "wangbrightly",
+      "source_url": "https://github.com/wangbrightly/gmsl3-link-anatomy",
+      "code_url": "https://github.com/wangbrightly/gmsl3-link-anatomy/blob/bd8757cd9d00f7bbfee43a1e83f6d2ff11fe03a5/index.html",
+      "live_url": "https://wangbrightly.github.io/gmsl3-link-anatomy/",
+      "preview_url": "https://raw.githubusercontent.com/wangbrightly/gmsl3-link-anatomy/bd8757cd9d00f7bbfee43a1e83f6d2ff11fe03a5/preview.png",
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/wangbrightly/gmsl3-link-anatomy",
+      "rights": "MIT upstream; specification-derived illustration, not measured hardware performance",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "live",
+        "code"
+      ]
+    },
+    {
+      "id": "iepyon-mill-row",
+      "category": "Independent Collections",
+      "title": "Mill-row mechanism study",
+      "description": "A source-available Anatomy figure organized around a row of mills.",
+      "description_zh": "提供源码的 Anatomy 磨坊行列机械示意作品。",
+      "creator": "iepyon",
+      "source_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/mill-row/mill-row-light.html",
+      "code_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/mill-row/build.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/mill-row/build.mjs",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "iepyon-scrum-sprint",
+      "category": "Independent Collections",
+      "title": "Scrum sprint as a working machine",
+      "description": "An Anatomy-built mechanical metaphor for a Scrum sprint.",
+      "description_zh": "用 Anatomy 机械隐喻呈现 Scrum 迭代。",
+      "creator": "iepyon",
+      "source_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/scrum-sprint/scrum-sprint-light.html",
+      "code_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/scrum-sprint/build.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/scrum-sprint/build.mjs",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "iepyon-social-autopoiesis",
+      "category": "Independent Collections",
+      "title": "Social autopoiesis study",
+      "description": "A source-available mechanical metaphor for social autopoiesis.",
+      "description_zh": "提供源码的社会自创生机械隐喻作品。",
+      "creator": "iepyon",
+      "source_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/social-autopoiesis/social-autopoiesis-light.html",
+      "code_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/social-autopoiesis/build.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/social-autopoiesis/build.mjs",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "iepyon-tape-loop",
+      "category": "Independent Collections",
+      "title": "Tape-loop mechanism study",
+      "description": "An Anatomy-built tape-loop illustration with light and dark variants grouped.",
+      "description_zh": "使用 Anatomy 制作的磁带循环示意，明暗版本合并收录。",
+      "creator": "iepyon",
+      "source_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/tape-loop/tape-loop-light.html",
+      "code_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/tape-loop/build.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/iepyon/anatomy-sample/blob/44081aa1812272003c364b97c95d4c2c2b3ce69f/figures/tape-loop/build.mjs",
+      "rights": "Linked original; consult the creator for reuse terms",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "cutaway-jet-engine",
+      "category": "Independent Collections",
+      "title": "GE9X jet engine",
+      "description": "Look inside the GE9X. Follow its 2 air paths and explore the fan, booster, compressor, and turbines.",
+      "description_zh": "GE9X 教学剖面图，对照核心气流、旁通气流与各级转动部件。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/jet-engine.mjs",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/jet-engine.mjs",
+      "live_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/jet-engine.svg",
+      "preview_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/jet-engine.svg",
+      "prompt": "Build an interactive GE9X cutaway using GE Aerospace’s published references. Show its 16-blade fan, 3-stage booster, 11-stage high-pressure compressor, TAPS III combustor, 2-stage high-pressure turbine, 6-stage low-pressure turbine, and 2 shafts, with separate core and bypass airflow. Let me select parts and pause the flow. Explain the simplifications, cite sources, and deliver self-contained HTML.",
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "prompt_status": "published",
+      "preview_format": "svg",
+      "resources": [
+        "svg",
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "cutaway-wing",
+      "category": "Independent Collections",
+      "title": "Wing designs",
+      "description": "Compare wing shapes and see what changes when flaps and slats extend.",
+      "description_zh": "比较机翼形状，查看襟翼和缝翼展开后的结构变化。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/wing.mjs",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/wing.mjs",
+      "live_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/wing.svg",
+      "preview_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/wing.svg",
+      "prompt": "Build an interactive aircraft wing cutaway. Show the spars, ribs, skin, flaps, and slats, with controls to compare rectangular, tapered, and swept wings and extend the high-lift devices. Explain what changes, state the limits of the drawing, include sources, and deliver a self-contained HTML file.",
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "prompt_status": "published",
+      "preview_format": "svg",
+      "resources": [
+        "svg",
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "cutaway-espresso",
+      "category": "Independent Collections",
+      "title": "Espresso machine",
+      "description": "Trace water from the reservoir through the pump and boiler to the coffee.",
+      "description_zh": "沿储水箱、水泵、锅炉和冲煮头追踪咖啡机的水流。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/espresso.mjs",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/espresso.mjs",
+      "live_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/espresso.svg",
+      "preview_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/espresso.svg",
+      "prompt": "Build a cutaway espresso machine with a reservoir, pump, boiler, brew valve, group head, and portafilter. Trace the water into the cup, with controls to step through heating and brewing and select parts to read about them. Explain the simplified plumbing, include sources, and deliver a self-contained HTML file.",
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "prompt_status": "published",
+      "preview_format": "svg",
+      "resources": [
+        "svg",
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "cutaway-boxer",
+      "category": "Independent Collections",
+      "title": "Boxer engine",
+      "description": "Watch opposing pistons move toward and away from the crankshaft.",
+      "description_zh": "查看水平对置活塞、连杆与曲轴的相位关系。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/boxer.mjs",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/hardware/boxer.mjs",
+      "live_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/boxer.svg",
+      "preview_url": "https://raw.githubusercontent.com/abhay/cutaway/abc8f7af1941d4e724d854a9c1c32905cbe240f3/assets/examples/boxer.svg",
+      "prompt": "Build an interactive cutaway of a 4-cylinder boxer engine with horizontally opposed pistons, connecting rods, and separate crankpins. Let me turn the crankshaft and follow an opposing piston pair to see why the pistons move together. Explain the simplifications, include sources, and deliver self-contained HTML.",
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs",
+      "prompt_status": "published",
+      "preview_format": "svg",
+      "resources": [
+        "svg",
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "cutaway-token-bucket",
+      "category": "Independent Collections",
+      "title": "Token bucket",
+      "description": "The dispenser stores up to 10 tokens. Each accepted request spends 1 token, and the clock adds 2 tokens per second.",
+      "description_zh": "用机械代币分发器解释令牌桶容量、补充速率和突发请求。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs#L2",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/models.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain a token bucket rate limiter as a mechanical token dispenser. Use a capacity of 10, a refill rate of 2 tokens per second, and a cost of 1 token per request. Add a burst of 11, a paused clock with 1-second steps, live accepted/rejected totals, and a standalone HTML file.",
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "prompt_status": "published",
+      "resources": [
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "cutaway-lru-cache",
+      "category": "Independent Collections",
+      "title": "LRU cache",
+      "description": "The cabinet holds 3 keys in order of use. A request moves its key to the front; a miss in a full cabinet evicts the least recently used key.",
+      "description_zh": "用三格零件柜解释缓存命中、最近使用顺序和淘汰。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs#L11",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/models.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Make an interactive 3-entry LRU cache as a mechanical parts cabinet. Request keys A through D, show hits and misses, order drawers by recency, and identify the evicted key. Include the experiment A, B, C, A, D. Deliver standalone HTML and a static SVG.",
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "prompt_status": "published",
+      "resources": [
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "cutaway-connection-pool",
+      "category": "Independent Collections",
+      "title": "Connection pool",
+      "description": "3 tools represent reusable connections. Each job borrows a tool for 3 seconds, and up to 4 jobs can wait in a first-in, first-out queue.",
+      "description_zh": "用共享工具架解释连接借用、排队与容量上限。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs#L20",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/models.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain a connection pool as a rack of 3 reusable tools. Jobs take 3 seconds, 4 jobs can wait FIFO, and excess requests are rejected. Add manual return controls, a 1-second clock step, and job IDs so I can follow handoffs. Deliver standalone HTML.",
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "prompt_status": "published",
+      "resources": [
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "cutaway-circuit-breaker",
+      "category": "Independent Collections",
+      "title": "Circuit breaker",
+      "description": "The relay stops traffic after 3 consecutive failures. After a 5-second cooldown, it allows 1 trial request to check whether the service has recovered.",
+      "description_zh": "用安全开关解释熔断器在故障和恢复期间的状态变化。",
+      "creator": "Abhay Kumar",
+      "source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs#L29",
+      "code_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/models.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Build a circuit breaker as an isometric safety relay. Trip after 3 consecutive failures, cool down for 5 seconds, then allow 1 half-open probe. Let me fail or restore the downstream service and resolve the probe separately. Deliver standalone HTML with state and rejection readouts.",
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "rights": "MIT by Abhay Kumar; original notice retained in docs/licenses/cutaway-MIT.txt",
+      "source_status": "Creator documentation and source checked; interaction not independently tested",
+      "prompt_source_url": "https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs",
+      "prompt_status": "published",
+      "resources": [
+        "code",
+        "prompt"
+      ]
+    },
+    {
+      "id": "x-tianyi_gc-2109358436903440882",
+      "category": "Creator Showcases",
+      "title": "Tianyi’s Anatomy illustration",
+      "description": "A creator-shared illustration experiment explicitly made with Anatomy.",
+      "description_zh": "作者明确使用 Anatomy 制作的插画实验。",
+      "creator": "tianyi_gc",
+      "source_url": "https://x.com/tianyi_gc/status/2109358436903440882",
+      "code_url": null,
+      "live_url": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2109355655903817728/img/MKcVSH98kEm_yTKB.jpg",
+      "prompt": null,
+      "topic": "visual",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://x.com/tianyi_gc/status/2109358436903440882",
+      "rights": "Original post and remote preview only; creator retains rights",
+      "source_status": "Original public post and media metadata checked; demonstration only",
+      "resources": [
+        "showcase"
+      ]
+    },
+    {
+      "id": "x-thespacerr-2109623459156557968",
+      "category": "Creator Showcases",
+      "title": "Irakli’s Anatomy machine study",
+      "description": "A creator-shared machine animation with a reported 1–1.5-hour production process.",
+      "description_zh": "作者分享的机械动画，原帖注明制作约耗时 1–1.5 小时。",
+      "creator": "TheSpacerr",
+      "source_url": "https://x.com/TheSpacerr/status/2109623459156557968",
+      "code_url": null,
+      "live_url": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2109623008226643968/img/n3QfyQfPKjAsEf8h.jpg",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://x.com/TheSpacerr/status/2109623459156557968",
+      "rights": "Original post and remote preview only; creator retains rights",
+      "source_status": "Original public post and media metadata checked; demonstration only",
+      "resources": [
+        "showcase"
+      ]
+    },
+    {
+      "id": "x-askperplexity-2110377725026554029",
+      "category": "Creator Showcases",
+      "title": "F1 power unit in Perplexity Computer",
+      "description": "An F1 power-unit illustration built with the Anatomy skill in Perplexity Computer.",
+      "description_zh": "在 Perplexity Computer 中使用 Anatomy 制作的 F1 动力单元示意。",
+      "creator": "AskPerplexity",
+      "source_url": "https://x.com/AskPerplexity/status/2110377725026554029",
+      "code_url": null,
+      "live_url": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2110377638275731456/img/Ya6fTzZBdkg76gPf.jpg",
+      "prompt": null,
+      "topic": "mechanisms",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://x.com/AskPerplexity/status/2110377725026554029",
+      "rights": "Original post and remote preview only; creator retains rights",
+      "source_status": "Original public post and media metadata checked; demonstration only",
+      "resources": [
+        "showcase"
+      ]
+    },
+    {
+      "id": "x-twid-2109802907529064760",
+      "category": "Creator Showcases",
+      "title": "Karpathy-post visual explainer",
+      "description": "A visual explanation of a Karpathy post, iterated with the Anatomy skill in a Claude project.",
+      "description_zh": "在 Claude 项目中多轮使用 Anatomy，把 Karpathy 的一条帖子做成视觉讲解。",
+      "creator": "twid",
+      "source_url": "https://x.com/twid/status/2109802907529064760",
+      "code_url": null,
+      "live_url": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2109801763876552704/img/dySUad6XwrOlXJAD.jpg",
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://x.com/twid/status/2109802907529064760",
+      "rights": "Original post and remote preview only; creator retains rights",
+      "source_status": "Original public post and media metadata checked; demonstration only",
+      "resources": [
+        "showcase"
+      ]
+    },
+    {
+      "id": "x-jshguo-2110354465731891426",
+      "category": "Creator Showcases",
+      "title": "How an LLM chooses the next token",
+      "description": "A diagrammatic Anatomy adaptation covers attention, votes, softmax and sampling.",
+      "description_zh": "借用 Anatomy 的图解展示注意力、投票、softmax 与采样过程。",
+      "creator": "jshguo",
+      "source_url": "https://x.com/jshguo/status/2110354465731891426",
+      "code_url": null,
+      "live_url": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2110354445632720896/img/j8ZWtUHxq7p_pan1.jpg",
+      "prompt": null,
+      "topic": "computing",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://x.com/jshguo/status/2110354465731891426",
+      "rights": "Original post and remote preview only; creator retains rights",
+      "source_status": "Original public post and media metadata checked; demonstration only",
+      "resources": [
+        "showcase"
+      ]
+    },
+    {
+      "id": "x-dani_avila7-2109317963811574099",
+      "category": "Creator Showcases",
+      "title": "How the Egyptian pyramids were built",
+      "description": "A construction explainer shared with its short original Anatomy prompt.",
+      "description_zh": "附有简短原始 Anatomy 提示词的金字塔建造讲解。",
+      "creator": "dani_avila7",
+      "source_url": "https://x.com/dani_avila7/status/2109317963811574099",
+      "code_url": null,
+      "live_url": null,
+      "preview_url": "https://pbs.twimg.com/amplify_video_thumb/2109317792545599488/img/mQnPg_6rNPXSTWC3.jpg",
+      "prompt": "/anatomy  Explain how the pyramids of Egypt were built",
+      "topic": "architecture",
+      "added": "2026-10-18",
+      "anatomy_evidence_url": "https://x.com/dani_avila7/status/2109317963811574099",
+      "rights": "Original post and remote preview only; creator retains rights",
+      "source_status": "Original public post and media metadata checked; demonstration only",
+      "prompt_source_url": "https://x.com/dani_avila7/status/2109317963811574099",
+      "prompt_status": "published",
+      "resources": [
+        "prompt",
+        "showcase"
+      ]
     }
-  ]
+  ],
+  "topics": [
+    {
+      "id": "mechanisms",
+      "title": "Machines & mechanisms",
+      "title_zh": "机械与拆解"
+    },
+    {
+      "id": "computing",
+      "title": "Computing & algorithms",
+      "title_zh": "计算机与算法"
+    },
+    {
+      "id": "physics",
+      "title": "Physics & energy",
+      "title_zh": "物理与能源"
+    },
+    {
+      "id": "biology",
+      "title": "Life science & materials",
+      "title_zh": "生命科学与材料"
+    },
+    {
+      "id": "architecture",
+      "title": "Architecture & places",
+      "title_zh": "建筑与场景"
+    },
+    {
+      "id": "visual",
+      "title": "Illustration & motion",
+      "title_zh": "插画与动效"
+    },
+    {
+      "id": "rendering",
+      "title": "Rendering studies",
+      "title_zh": "早期渲染实验"
+    }
+  ],
+  "topic_counts": {
+    "mechanisms": 79,
+    "computing": 48,
+    "physics": 21,
+    "biology": 21,
+    "architecture": 2,
+    "visual": 27,
+    "rendering": 19
+  }
 }
