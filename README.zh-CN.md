@@ -1,5 +1,7 @@
 # Awesome Anatomy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome Anatomy — interactive examples, SVG assets and published prompts](assets/social-preview.png)
+
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 收集 [Anatomy](https://github.com/wheresryan22/anatomy) 及其衍生项目制作的交互机械、视觉讲解与 SVG 素材。先看作品，再打开原作或查看公开提示词。
@@ -154,5 +156,3 @@
 ## 署名与复用
 
 作品归原作者所有。CC0 仅适用于我们原创的整理文字与元数据；代码、媒体和公开提示词保留各自条款。详见[来源说明](docs/THIRD_PARTY.md)、[贡献指南](CONTRIBUTING.md)与[结构化数据](data/entries.json)。
-
-[项目分享封面](assets/social-preview.png)

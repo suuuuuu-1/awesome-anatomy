@@ -1,5 +1,7 @@
 # Awesome Anatomy [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Awesome Anatomy — interactive examples, SVG assets and published prompts](assets/social-preview.png)
+
 [English](README.md) · [简体中文](README.zh-CN.md)
 
 Interactive machines, visual explainers and SVG assets made with [Anatomy](https://github.com/wheresryan22/anatomy) and its derivatives. Pick a work, open the original, or explore a published prompt.
@@ -154,5 +156,3 @@ Made something with Anatomy, or found a work we missed? [Send the original link]
 ## Credits & reuse
 
 Works remain with their original creators. CC0 covers our original curation only; code, media and published prompts retain their own terms. See [source notices](docs/THIRD_PARTY.md), [contribution notes](CONTRIBUTING.md) and the [machine-readable catalog](data/entries.json).
-
-[Project sharing cover](assets/social-preview.png)
