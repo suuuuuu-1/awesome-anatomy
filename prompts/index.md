@@ -2,7 +2,7 @@
 
 [← Gallery](../README.md) · [All works](../docs/catalog.md)
 
-59 author-published prompts. Each page links back to its original source. No prompt has been inferred from a video or written to fill a gap.
+68 author-published prompts. Each page links back to its original source. No prompt has been inferred from a video or written to fill a gap.
 
 The pages contain the published text, which may omit revisions or context. Publication is not a claim of successful reproduction.
 
@@ -52,6 +52,10 @@ The pages contain the published text, which may omit revisions or context. Publi
 | [Wing designs](cutaway-wing.md) | Abhay Kumar | [Original](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs) |
 | [Espresso machine](cutaway-espresso.md) | Abhay Kumar | [Original](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs) |
 | [Boxer engine](cutaway-boxer.md) | Abhay Kumar | [Original](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs) |
+| [Engine lathe, turning a bar](community-camidev43-engine-lathe.md) | camidev43 | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe/figure.json) |
+| [TM-T20: impressora térmica](community-feliperequiasoares-tm-t20.md) | feliperequiasoares | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20/figure.json) |
+| [Inside a Kitchen Gas Burner](community-vinayanand3-kitchen-gas-burner.md) | vinayanand3 | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner/figure.json) |
+| [Geneva indexing drive](community-zintaen-geneva-indexing-drive.md) | zintaen | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive/figure.json) |
 
 ## Computing & algorithms
 
@@ -68,6 +72,9 @@ The pages contain the published text, which may omit revisions or context. Publi
 | [LRU cache](cutaway-lru-cache.md) | Abhay Kumar | [Original](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs) |
 | [Connection pool](cutaway-connection-pool.md) | Abhay Kumar | [Original](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs) |
 | [Circuit breaker](cutaway-circuit-breaker.md) | Abhay Kumar | [Original](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs) |
+| [Enigma I cipher machine](community-lior-pesoa-enigma-i.md) | lior-pesoa | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i/figure.json) |
+| [Inside a wireless gaming mouse](community-vinayanand3-wireless-gaming-mouse.md) | vinayanand3 | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse/figure.json) |
+| [From computer to ALU](community-zintaen-computer-cpu-alu.md) | zintaen | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu/figure.json) |
 
 ## Physics & energy
 
@@ -75,6 +82,7 @@ The pages contain the published text, which may omit revisions or context. Publi
 |---|---|---|
 | [Weather: Wind, cup anemometer on a compass base](community-masterthepixel-weather-wind.md) | masterthepixel | [Original](https://github.com/wheresryan22/anatomy-community/blob/main/figures/masterthepixel/weather-wind/figure.json) |
 | [Ripple tank](community-wheresryan22-ripple-tank.md) | wheresryan22 | [Original](https://github.com/wheresryan22/anatomy-community/blob/main/figures/wheresryan22/ripple-tank/figure.json) |
+| [Deadweight pressure tester](community-zintaen-deadweight-tester.md) | zintaen | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester/figure.json) |
 
 ## Life science & materials
 
@@ -89,3 +97,9 @@ The pages contain the published text, which may omit revisions or context. Publi
 |---|---|---|
 | [How Machu Picchu was built](community-jcroccomendez-machu-picchu.md) | jcroccomendez | [Original](https://github.com/wheresryan22/anatomy-community/blob/main/figures/jcroccomendez/machu-picchu/figure.json) |
 | [How the Egyptian pyramids were built](x-dani_avila7-2109317963811574099.md) | dani_avila7 | [Original](https://x.com/dani_avila7/status/2109317963811574099) |
+
+## Illustration & motion
+
+| Work | Creator | Source |
+|---|---|---|
+| [Weather: Clear night, lunar globe in a gimbal in front of a pin-field star board](community-masterthepixel-weather-clear-night.md) | masterthepixel | [Original](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json) |

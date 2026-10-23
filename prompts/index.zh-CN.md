@@ -2,7 +2,7 @@
 
 [← 返回画廊](../README.zh-CN.md) · [完整作品目录](../docs/catalog.zh-CN.md)
 
-59 条作者公开的提示词，每页保留原始出处。不从视频反推，也不自行补写缺失文本。
+68 条作者公开的提示词，每页保留原始出处。不从视频反推，也不自行补写缺失文本。
 
 页面保留公开文本，可能缺少修改记录或上下文；收录不代表已成功复现。
 
@@ -52,6 +52,10 @@
 | [Wing designs](cutaway-wing.md) | Abhay Kumar | [原始出处](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs) |
 | [Espresso machine](cutaway-espresso.md) | Abhay Kumar | [原始出处](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs) |
 | [Boxer engine](cutaway-boxer.md) | Abhay Kumar | [原始出处](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/site/catalog.mjs) |
+| [Engine lathe, turning a bar](community-camidev43-engine-lathe.md) | camidev43 | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe/figure.json) |
+| [TM-T20: impressora térmica](community-feliperequiasoares-tm-t20.md) | feliperequiasoares | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20/figure.json) |
+| [Inside a Kitchen Gas Burner](community-vinayanand3-kitchen-gas-burner.md) | vinayanand3 | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner/figure.json) |
+| [Geneva indexing drive](community-zintaen-geneva-indexing-drive.md) | zintaen | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive/figure.json) |
 
 ## 计算机与算法
 
@@ -68,6 +72,9 @@
 | [LRU cache](cutaway-lru-cache.md) | Abhay Kumar | [原始出处](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs) |
 | [Connection pool](cutaway-connection-pool.md) | Abhay Kumar | [原始出处](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs) |
 | [Circuit breaker](cutaway-circuit-breaker.md) | Abhay Kumar | [原始出处](https://github.com/abhay/cutaway/blob/abc8f7af1941d4e724d854a9c1c32905cbe240f3/skills/cutaway/examples/catalog.mjs) |
+| [Enigma I cipher machine](community-lior-pesoa-enigma-i.md) | lior-pesoa | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i/figure.json) |
+| [Inside a wireless gaming mouse](community-vinayanand3-wireless-gaming-mouse.md) | vinayanand3 | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse/figure.json) |
+| [From computer to ALU](community-zintaen-computer-cpu-alu.md) | zintaen | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu/figure.json) |
 
 ## 物理与能源
 
@@ -75,6 +82,7 @@
 |---|---|---|
 | [Weather: Wind, cup anemometer on a compass base](community-masterthepixel-weather-wind.md) | masterthepixel | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/main/figures/masterthepixel/weather-wind/figure.json) |
 | [Ripple tank](community-wheresryan22-ripple-tank.md) | wheresryan22 | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/main/figures/wheresryan22/ripple-tank/figure.json) |
+| [Deadweight pressure tester](community-zintaen-deadweight-tester.md) | zintaen | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester/figure.json) |
 
 ## 生命科学与材料
 
@@ -89,3 +97,9 @@
 |---|---|---|
 | [How Machu Picchu was built](community-jcroccomendez-machu-picchu.md) | jcroccomendez | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/main/figures/jcroccomendez/machu-picchu/figure.json) |
 | [How the Egyptian pyramids were built](x-dani_avila7-2109317963811574099.md) | dani_avila7 | [原始出处](https://x.com/dani_avila7/status/2109317963811574099) |
+
+## 插画与动效
+
+| 作品 | 作者 | 出处 |
+|---|---|---|
+| [Weather: Clear night, lunar globe in a gimbal in front of a pin-field star board](community-masterthepixel-weather-clear-night.md) | masterthepixel | [原始出处](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json) |

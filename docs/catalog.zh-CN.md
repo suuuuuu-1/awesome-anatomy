@@ -2,16 +2,16 @@
 
 [← 返回画廊](../README.zh-CN.md) · [公开提示词](../prompts/index.zh-CN.md)
 
-217 条带来源记录，其中包含 19 个渲染实验。同一题材的不同实现可分别收录；主题版本和转发不增加数量。
+265 条带来源记录，其中包含 19 个渲染实验。同一题材的不同实现可分别收录；主题版本和转发不增加数量。
 
 演示、源码和提示词入口只表示资料可用，不表示交互或科学准确性已经独立验证。提示词保留作者公开的文本。
 
-- [机械与拆解](#mechanisms) (79)
-- [计算机与算法](#computing) (48)
-- [物理与能源](#physics) (21)
-- [生命科学与材料](#biology) (21)
+- [机械与拆解](#mechanisms) (100)
+- [计算机与算法](#computing) (57)
+- [物理与能源](#physics) (33)
+- [生命科学与材料](#biology) (26)
 - [建筑与场景](#architecture) (2)
-- [插画与动效](#visual) (27)
+- [插画与动效](#visual) (28)
 - [早期渲染实验](#rendering) (19)
 
 <a id="mechanisms"></a>
@@ -948,6 +948,266 @@ GE9X 教学剖面图，对照核心气流、旁通气流与各级转动部件。
 
 [预览图](https://pbs.twimg.com/amplify_video_thumb/2110377638275731456/img/Ya6fTzZBdkg76gPf.jpg)
 
+<a id="community-camidev43-engine-lathe"></a>
+
+### Engine lathe, turning a bar
+
+**camidev43** · 社区作品
+
+车床剖视展示主轴、刀架与工件的车削过程。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/camidev43/engine-lathe) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe) · [提示词](../prompts/community-camidev43-engine-lathe.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/camidev43/engine-lathe.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe/figure.json)
+
+<a id="community-feliperequiasoares-tm-t20"></a>
+
+### TM-T20: impressora térmica
+
+**feliperequiasoares** · 社区作品
+
+热敏小票打印机，展示送纸、开盖、切纸与状态控制。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/feliperequiasoares/tm-t20) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20) · [提示词](../prompts/community-feliperequiasoares-tm-t20.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/feliperequiasoares/tm-t20.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20/figure.json)
+
+<a id="community-vinayanand3-kitchen-gas-burner"></a>
+
+### Inside a Kitchen Gas Burner
+
+**vinayanand3** · 社区作品
+
+燃气灶剖视，关联阀门、空气混合、点火与火焰效果。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/vinayanand3/kitchen-gas-burner) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner) · [提示词](../prompts/community-vinayanand3-kitchen-gas-burner.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/vinayanand3/kitchen-gas-burner.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner/figure.json)
+
+<a id="community-zintaen-geneva-indexing-drive"></a>
+
+### Geneva indexing drive
+
+**zintaen** · 社区作品
+
+连续旋转的曲柄与驱动销带动四工位槽轮间歇分度。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/zintaen/geneva-indexing-drive) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive) · [提示词](../prompts/community-zintaen-geneva-indexing-drive.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/zintaen/geneva-indexing-drive.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive/figure.json)
+
+<a id="factory-press-shop"></a>
+
+### Press shop: five-press line
+
+**Senthee / 吴斌 &amp; assistants** · 独立创作者作品
+
+整车冲压车间的五连压力机与 AGV 下料。
+
+[原作](https://sentheecode.github.io/factory-anatomy/figures/stamping-jier-line-light.html) · [源码](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/stamping-jier-line-light.html)
+
+[预览图](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/01-stamping-640.webp) · [Anatomy 使用依据](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-body-shop"></a>
+
+### Body shop: body-in-white
+
+**Senthee / 吴斌 &amp; assistants** · 独立创作者作品
+
+以交互产线场景呈现汽车白车身焊装车间。
+
+[原作](https://sentheecode.github.io/factory-anatomy/figures/bodyshop-biw-desktop-light.html) · [源码](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/bodyshop-biw-desktop-light.html)
+
+[预览图](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/02-bodyshop-640.webp) · [Anatomy 使用依据](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-paint-shop"></a>
+
+### Paint shop: three production floors
+
+**Senthee / 吴斌 &amp; assistants** · 独立创作者作品
+
+展示电泳、面漆与精修的三层涂装车间。
+
+[原作](https://sentheecode.github.io/factory-anatomy/figures/paintshop-3f-desktop-light.html) · [源码](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/paintshop-3f-desktop-light.html)
+
+[预览图](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/03-paintshop-640.webp) · [Anatomy 使用依据](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-assembly-shop"></a>
+
+### NEV assembly shop
+
+**Senthee / 吴斌 &amp; assistants** · 独立创作者作品
+
+新能源汽车总装场景，包括合装、双主线与板链输送。
+
+[原作](https://sentheecode.github.io/factory-anatomy/figures/assembly-nev-desktop-light.html) · [源码](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/assembly-nev-desktop-light.html)
+
+[预览图](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/04-assembly-nev-640.webp) · [Anatomy 使用依据](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-battery-pack"></a>
+
+### Battery pack production line
+
+**Senthee / 吴斌 &amp; assistants** · 独立创作者作品
+
+汽车电池包生产线的交互总览。
+
+[原作](https://sentheecode.github.io/factory-anatomy/figures/battery-pack-line-light.html) · [源码](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/battery-pack-line-light.html)
+
+[预览图](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/05-battery-pack-640.webp) · [Anatomy 使用依据](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-electric-drive-shop"></a>
+
+### Electric drive production shop
+
+**Senthee / 吴斌 &amp; assistants** · 独立创作者作品
+
+电驱总成生产车间的等轴测总览。
+
+[原作](https://sentheecode.github.io/factory-anatomy/figures/edu-drive-desktop-light.html) · [源码](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/edu-drive-desktop-light.html)
+
+[预览图](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/06-eds-640.webp) · [Anatomy 使用依据](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-electric-drive-unit"></a>
+
+### Three-in-one electric drive unit
+
+**Senthee / 吴斌 &amp; assistants** · 独立创作者作品
+
+独立的三合一电驱总成产品爆炸图。
+
+[原作](https://sentheecode.github.io/factory-anatomy/figures/edu-drive-unit-light.html) · [源码](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/edu-drive-unit-light.html)
+
+[Anatomy 使用依据](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="awin-pin-tumbler-lock"></a>
+
+### Five-pin tumbler lock
+
+**awin0377** · 独立创作者作品
+
+对比正确、错误与未完全插入的钥匙，观察弹子与剪切线。
+
+[原作](https://github.com/awin0377/pin-tumbler-lock-explainer/blob/a6e5f12847c9665d40df4c7b0af6b3799cc0992c/index.html)
+
+[预览图](https://raw.githubusercontent.com/awin0377/pin-tumbler-lock-explainer/a6e5f12847c9665d40df4c7b0af6b3799cc0992c/shots/correct.png) · [Anatomy 使用依据](https://github.com/awin0377/pin-tumbler-lock-explainer/blob/a6e5f12847c9665d40df4c7b0af6b3799cc0992c/README.md)
+
+<a id="changyi-bicycle-derailleur"></a>
+
+### Eight-speed bicycle rear derailleur
+
+**changyi123456** · 独立创作者作品
+
+繁体中文自行车后变速器模型，包含换挡、慢动作与爆炸视图。
+
+[原作](https://changyi123456.github.io/bicycle-derailleur-anatomy/) · [源码](https://github.com/changyi123456/bicycle-derailleur-anatomy/blob/dd54c85be59da9648a1d23aa08103a62e6ba3260/index.html)
+
+[预览图](https://raw.githubusercontent.com/changyi123456/bicycle-derailleur-anatomy/dd54c85be59da9648a1d23aa08103a62e6ba3260/preview.png) · [Anatomy 使用依据](https://github.com/changyi123456/bicycle-derailleur-anatomy/blob/dd54c85be59da9648a1d23aa08103a62e6ba3260/README.md)
+
+<a id="luozhu-starship"></a>
+
+### Starship exploded atlas
+
+**LuozhuZhang** · 独立创作者作品
+
+可交互的运载飞行器结构图，展示分离总成、发动机细节与多种观察视角。
+
+[原作](https://luozhuzhang.github.io/starship-anatomy/) · [源码](https://github.com/LuozhuZhang/starship-anatomy/blob/49071a37c2b61eca50099440d62d4e2973bfa412/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/LuozhuZhang/starship-anatomy/49071a37c2b61eca50099440d62d4e2973bfa412/docs/images/final-light-apart.png) · [Anatomy 使用依据](https://github.com/LuozhuZhang/starship-anatomy/blob/49071a37c2b61eca50099440d62d4e2973bfa412/README.md)
+
+<a id="optimal-e1-inbody-580"></a>
+
+### The InBody 580, taken apart
+
+**Optimal-Research-Team** · 独立创作者作品
+
+独立的体成分分析仪拆解模型，展示电极与内部总成。
+
+[原作](https://optimal-research-team.github.io/optimal-anatomy-figures/e1-inbody-580/inbody-580-apart-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/inbody-580/object/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e1-inbody-580/assets/inbody-580-16x9.jpg) · [Anatomy 使用依据](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e1-inbody-580/figure.json) · [原作另一入口](https://optimal-research-team.github.io/optimal-anatomy-figures/e1-inbody-580/assets/inbody-580-16x9.mp4)
+
+作者审阅标记：Approved · Oct 19
+
+<a id="optimal-e2-creator-600"></a>
+
+### The Creator 600, taken apart
+
+**Optimal-Research-Team** · 独立创作者作品
+
+步态分析跑台拆解模型，展示竖屏与深度相机。
+
+[原作](https://optimal-research-team.github.io/optimal-anatomy-figures/e2-creator-600/creator-600-apart-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/creator-600/object/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e2-creator-600/assets/creator-600-16x9.jpg) · [Anatomy 使用依据](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e2-creator-600/figure.json) · [原作另一入口](https://optimal-research-team.github.io/optimal-anatomy-figures/e2-creator-600/assets/creator-600-16x9.mp4)
+
+作者审阅标记：Approved · Oct 19
+
+<a id="optimal-e3-kickr-bike"></a>
+
+### The KICKR Bike, taken apart
+
+**Optimal-Research-Team** · 独立创作者作品
+
+室内训练单车模型，展开皮带传动、电子制动与调节部位。
+
+[原作](https://optimal-research-team.github.io/optimal-anatomy-figures/e3-kickr-bike/kickr-bike-apart-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/kickr-bike/object/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e3-kickr-bike/assets/kickr-bike-16x9.jpg) · [Anatomy 使用依据](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e3-kickr-bike/figure.json) · [原作另一入口](https://optimal-research-team.github.io/optimal-anatomy-figures/e3-kickr-bike/assets/kickr-bike-16x9.mp4)
+
+作者审阅标记：Approved · Oct 19
+
+<a id="optimal-e4-grip-dynamometer"></a>
+
+### The hand dynamometer, taken apart
+
+**Optimal-Research-Team** · 独立创作者作品
+
+液压握力计模型，连接握柄、密闭液路与峰值保持表盘。
+
+[原作](https://optimal-research-team.github.io/optimal-anatomy-figures/e4-grip-dynamometer/grip-dynamometer-apart-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/grip-dynamometer/object/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e4-grip-dynamometer/assets/grip-dynamometer-16x9.jpg) · [Anatomy 使用依据](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e4-grip-dynamometer/figure.json) · [原作另一入口](https://optimal-research-team.github.io/optimal-anatomy-figures/e4-grip-dynamometer/assets/grip-dynamometer-16x9.mp4)
+
+作者审阅标记：Approved · Oct 19
+
+<a id="cellcog-four-stroke"></a>
+
+### CellCog: Four-stroke engine
+
+**CellCog** · 独立创作者作品
+
+转动飞轮，观察进气、压缩、做功与排气。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-four-stroke-live.html?v=17dad8d484)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-four-stroke-poster.svg?v=852ad375c6) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-escapement"></a>
+
+### CellCog: Pendulum clock escapement
+
+**CellCog** · 独立创作者作品
+
+钟摆与擒纵叉逐齿释放擒纵轮。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-escapement-live.html?v=04b06fdedd)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-escapement-poster.svg?v=9f710b9581) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-differential"></a>
+
+### CellCog: Open differential
+
+**CellCog** · 独立创作者作品
+
+差速器模型对比转弯时内外车轮的运动。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-differential-live.html?v=c65250aaf5)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-differential-poster.svg?v=3c0b3a770d) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
 
 <a id="computing"></a>
 
@@ -1513,6 +1773,114 @@ Two product illustrations explain document filing and retrieval; the creator cre
 
 [预览图](https://pbs.twimg.com/amplify_video_thumb/2110354445632720896/img/j8ZWtUHxq7p_pan1.jpg)
 
+<a id="community-lior-pesoa-enigma-i"></a>
+
+### Enigma I cipher machine
+
+**lior-pesoa** · 社区作品
+
+输入字母，沿插线板、步进转子与反射器追踪加密路径。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/lior-pesoa/enigma-i) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i) · [提示词](../prompts/community-lior-pesoa-enigma-i.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/lior-pesoa/enigma-i.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i/figure.json)
+
+<a id="community-vinayanand3-wireless-gaming-mouse"></a>
+
+### Inside a wireless gaming mouse
+
+**vinayanand3** · 社区作品
+
+无线鼠标爆炸图，展开外壳、微动、滚轮、传感器与电路。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/vinayanand3/wireless-gaming-mouse) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse) · [提示词](../prompts/community-vinayanand3-wireless-gaming-mouse.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/previews/vinayanand3/wireless-gaming-mouse.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse/figure.json)
+
+<a id="community-zintaen-computer-cpu-alu"></a>
+
+### From computer to ALU
+
+**zintaen** · 社区作品
+
+由计算机主板逐层放大至 CPU 与四位行波进位 ALU。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/zintaen/computer-cpu-alu) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu) · [提示词](../prompts/community-zintaen-computer-cpu-alu.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/zintaen/computer-cpu-alu.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu/figure.json)
+
+<a id="hsiang-network-switch"></a>
+
+### Eight-port network switch
+
+**Hsiang-Tang** · 独立创作者作品
+
+交换机爆炸模型，展示数据包转发、MAC 学习与内部板层。
+
+[原作](https://hsiang-tang.github.io/network-switch-anatomy/) · [源码](https://github.com/Hsiang-Tang/network-switch-anatomy/blob/aaa51f784197547a5c79485abd4d71017253cf08/src/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/Hsiang-Tang/network-switch-anatomy/aaa51f784197547a5c79485abd4d71017253cf08/media/poster.png) · [Anatomy 使用依据](https://github.com/Hsiang-Tang/network-switch-anatomy/blob/aaa51f784197547a5c79485abd4d71017253cf08/README.md) · [原作另一入口](https://hsiang-tang.github.io/network-switch-anatomy/film.html)
+
+<a id="cellcog-token-bucket"></a>
+
+### CellCog: Token bucket rate limiter
+
+**CellCog** · 独立创作者作品
+
+令牌桶随时间补充令牌，请求到来时消耗令牌。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-token-bucket-live.html?v=839f9071f9)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-token-bucket-poster.svg?v=d1bb03aa36) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-load-balancer"></a>
+
+### CellCog: Load balancer
+
+**CellCog** · 独立创作者作品
+
+将到达的请求分配给多台服务器。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-load-balancer-live.html?v=a23cf001ef)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-load-balancer-poster.svg?v=313cf39524) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-hash-map"></a>
+
+### CellCog: Hash map
+
+**CellCog** · 独立创作者作品
+
+以交互示意展示键如何映射到哈希桶。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hash-map-live.html?v=af2f523ff1)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hash-map-poster.svg?v=da4e513f27) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-binary-search"></a>
+
+### CellCog: Binary search
+
+**CellCog** · 独立创作者作品
+
+通过连续探测缩小剩余查找范围。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-binary-search-live.html?v=a786427bc5)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-binary-search-poster.svg?v=34a978a937) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-lru-cache"></a>
+
+### CellCog: LRU cache
+
+**CellCog** · 独立创作者作品
+
+命中将条目移至队首；未命中时可淘汰最久未使用项。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-lru-cache-live.html?v=aeb34fde43)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-lru-cache-poster.svg?v=dbaa2dd84c) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
 
 <a id="physics"></a>
 
@@ -1761,6 +2129,150 @@ A fusion-plant demonstration made with a customized Anatomy workflow.
 [原作](https://github.com/Rudrajmehta/anatomy-cold-gas-thrusters) · [打开演示](https://rudrajmehta.github.io/anatomy-cold-gas-thrusters/) · [源码](https://github.com/Rudrajmehta/anatomy-cold-gas-thrusters/blob/c1334f927ca707d82173461c59231d5ee3560baf/build.mjs)
 
 [预览图](https://raw.githubusercontent.com/Rudrajmehta/anatomy-cold-gas-thrusters/c1334f927ca707d82173461c59231d5ee3560baf/shots/tour-6-hold-light.png)
+
+<a id="community-zintaen-deadweight-tester"></a>
+
+### Deadweight pressure tester
+
+**zintaen** · 社区作品
+
+压力校验模型，连接螺旋泵、砝码活塞与波登管压力表。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/zintaen/deadweight-tester) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester) · [提示词](../prompts/community-zintaen-deadweight-tester.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/zintaen/deadweight-tester.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester/figure.json)
+
+<a id="oilfield-digital-wellhead"></a>
+
+### Digital wellhead and flare
+
+**MatinShahin** · 独立创作者作品
+
+独立井口模型，连接节流阀、仪表、远程终端与火炬。
+
+[原作](https://matinshahin.github.io/digital-oil-field/figures/digital-wellhead.html) · [源码](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/digital-wellhead.html)
+
+[Anatomy 使用依据](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="oilfield-esp-ai-digital-twin"></a>
+
+### ESP predictive-maintenance explainer
+
+**MatinShahin** · 独立创作者作品
+
+电潜泵模型结合传感器趋势与示意性维护告警。
+
+[原作](https://matinshahin.github.io/digital-oil-field/figures/esp-ai-digital-twin.html) · [源码](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/esp-ai-digital-twin.html)
+
+[Anatomy 使用依据](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="oilfield-hydrogen-salt-cavern"></a>
+
+### Hydrogen salt-cavern storage
+
+**MatinShahin** · 独立创作者作品
+
+储氢场景，连接压缩机、井口与注采路径。
+
+[原作](https://matinshahin.github.io/digital-oil-field/figures/hydrogen-salt-cavern.html) · [源码](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/hydrogen-salt-cavern.html)
+
+[Anatomy 使用依据](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="oilfield-co2-storage"></a>
+
+### CO₂ injection and storage
+
+**MatinShahin** · 独立创作者作品
+
+地下二氧化碳封存模型，展示注入设备与地下羽流。
+
+[原作](https://matinshahin.github.io/digital-oil-field/figures/co2-storage.html) · [源码](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/co2-storage.html)
+
+[Anatomy 使用依据](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="talpah-scripeti"></a>
+
+### Pulleys: fixed, movable and combined
+
+**talpah** · 独立创作者作品
+
+罗马尼亚语交互课程，对比定滑轮、动滑轮与滑轮组。
+
+[原作](https://talpah.github.io/playground/lessons/scripeti/scripeti-light.html) · [源码](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/scripeti/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/scripeti/preview.png) · [Anatomy 使用依据](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="talpah-electrostatica"></a>
+
+### Electrostatics lesson
+
+**talpah** · 独立创作者作品
+
+罗马尼亚语交互课程，讲解电荷、库仑力与电场。
+
+[原作](https://talpah.github.io/playground/lessons/electrostatica/electrostatica-light.html) · [源码](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/electrostatica/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/electrostatica/preview.png) · [Anatomy 使用依据](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="talpah-miscarea-browniana"></a>
+
+### Brownian motion and diffusion
+
+**talpah** · 独立创作者作品
+
+罗马尼亚语视觉课程，展示布朗运动与扩散。
+
+[原作](https://talpah.github.io/playground/lessons/miscarea-browniana/miscarea-browniana-light.html) · [源码](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/miscarea-browniana/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/miscarea-browniana/preview.png) · [Anatomy 使用依据](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="talpah-impellers"></a>
+
+### Vacuum-cleaner impellers
+
+**talpah** · 独立创作者作品
+
+英语交互课程，讲解吸尘器叶轮、叶片角度、节流与多级结构。
+
+[原作](https://talpah.github.io/playground/lessons/impellers/impellers-light.html) · [源码](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/impellers/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/impellers/preview.png) · [Anatomy 使用依据](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="jkrachenfels-spring-scale"></a>
+
+### Spring letter scale for display glasses
+
+**Jkrachenfels** · 独立创作者作品
+
+在适配显示眼镜的紧凑布局中增减砝码，观察弹簧秤读数。
+
+[原作](https://jkrachenfels.github.io/spring-scale-glasses/) · [源码](https://github.com/Jkrachenfels/spring-scale-glasses/blob/6bcada89209bc093ea71f55df13b2a4d7fee8ae6/index.html)
+
+[Anatomy 使用依据](https://github.com/Jkrachenfels/spring-scale-glasses/blob/6bcada89209bc093ea71f55df13b2a4d7fee8ae6/README.md)
+
+<a id="cellcog-hydraulic-press"></a>
+
+### CellCog: Hydraulic press
+
+**CellCog** · 独立创作者作品
+
+两个由液体连接的活塞演示压力与力的传递。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hydraulic-press-live.html?v=f6db606f14)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hydraulic-press-poster.svg?v=377ec58b57) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-thermostat"></a>
+
+### CellCog: Bimetal thermostat
+
+**CellCog** · 独立创作者作品
+
+双金属片受热弯曲，控制加热回路通断。
+
+[原作](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-thermostat-live.html?v=c9ea9ed2f9)
+
+[预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-thermostat-poster.svg?v=1947d40e0d) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
 
 
 <a id="biology"></a>
@@ -2044,6 +2556,66 @@ An author-created 12-nucleotide teaching example shows chain termination, fragme
 [原作](https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/neuron-bench/neuron-bench-light.html) · [打开演示](https://anatomy-snowy.vercel.app/neuron)
 
 [Anatomy 使用依据](https://github.com/tiago-varandas/anatomy#anatomy)
+
+<a id="specimen-heart"></a>
+
+### Specimen: heart
+
+**Julián Olarte** · 独立创作者作品
+
+心脏教学模型，包含搏动、心腔剖面与心包视图。
+
+[原作](https://julianolarteramos.github.io/specimen/heart.html) · [源码](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/heart/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/heart.webp) · [Anatomy 使用依据](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-kidney"></a>
+
+### Specimen: kidney
+
+**Julián Olarte** · 独立创作者作品
+
+肾脏剖面展示皮质、髓锥体、集尿结构与肾上腺。
+
+[原作](https://julianolarteramos.github.io/specimen/kidney.html) · [源码](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/kidney/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/kidney-section.webp) · [Anatomy 使用依据](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-brain"></a>
+
+### Specimen: brain
+
+**Julián Olarte** · 独立创作者作品
+
+展示大脑表面、小脑与脑干的教学模型。
+
+[原作](https://julianolarteramos.github.io/specimen/brain.html) · [源码](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/brain/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/brain.webp) · [Anatomy 使用依据](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-liver"></a>
+
+### Specimen: liver
+
+**Julián Olarte** · 独立创作者作品
+
+器官模型展示肝叶、韧带、胆囊与主要血管。
+
+[原作](https://julianolarteramos.github.io/specimen/liver.html) · [源码](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/liver/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/liver.webp) · [Anatomy 使用依据](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-endocrine"></a>
+
+### Specimen: endocrine system
+
+**Julián Olarte** · 独立创作者作品
+
+躯干模型连接内分泌腺体、血管与应激反应动画。
+
+[原作](https://julianolarteramos.github.io/specimen/endocrine.html) · [源码](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/endocrine/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/endocrine.webp) · [Anatomy 使用依据](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
 
 
 <a id="architecture"></a>
@@ -2393,6 +2965,18 @@ A creator uses an Anatomy-made isometric figure in a portfolio; the rest of the 
 
 [预览图](https://pbs.twimg.com/amplify_video_thumb/2109355655903817728/img/MKcVSH98kEm_yTKB.jpg)
 
+<a id="community-masterthepixel-weather-clear-night"></a>
+
+### Weather: Clear night, lunar globe in a gimbal in front of a pin-field star board
+
+**masterthepixel** · 社区作品
+
+以万向支架上的月球与针点星空表现晴朗夜晚。
+
+[原作](https://skills.wheresryan.sh/anatomy/community/masterthepixel/weather-clear-night) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night) · [提示词](../prompts/community-masterthepixel-weather-clear-night.md)
+
+[预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/masterthepixel/weather-clear-night.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json)
+
 
 <a id="rendering"></a>
 
@@ -2717,6 +3301,15 @@ An early rendering study: Three reads.
 - [Ripple tank](#community-wheresryan22-ripple-tank) — wheresryan22
 - [Ford PowerShift DPS6 twin dry clutch](#community-yishan-ford-dps6-twin-clutch) — yishan
 - [GitLab Runner job bench](#community-zzgosh-gitlab-runner-bench) — zzgosh
+- [Engine lathe, turning a bar](#community-camidev43-engine-lathe) — camidev43
+- [TM-T20: impressora térmica](#community-feliperequiasoares-tm-t20) — feliperequiasoares
+- [Enigma I cipher machine](#community-lior-pesoa-enigma-i) — lior-pesoa
+- [Weather: Clear night, lunar globe in a gimbal in front of a pin-field star board](#community-masterthepixel-weather-clear-night) — masterthepixel
+- [Inside a Kitchen Gas Burner](#community-vinayanand3-kitchen-gas-burner) — vinayanand3
+- [Inside a wireless gaming mouse](#community-vinayanand3-wireless-gaming-mouse) — vinayanand3
+- [From computer to ALU](#community-zintaen-computer-cpu-alu) — zintaen
+- [Deadweight pressure tester](#community-zintaen-deadweight-tester) — zintaen
+- [Geneva indexing drive](#community-zintaen-geneva-indexing-drive) — zintaen
 
 <a id="source-independent-collections"></a>
 
@@ -2790,6 +3383,45 @@ An early rendering study: Three reads.
 - [LRU cache](#cutaway-lru-cache) — Abhay Kumar
 - [Connection pool](#cutaway-connection-pool) — Abhay Kumar
 - [Circuit breaker](#cutaway-circuit-breaker) — Abhay Kumar
+- [Press shop: five-press line](#factory-press-shop) — Senthee / 吴斌 &amp; assistants
+- [Body shop: body-in-white](#factory-body-shop) — Senthee / 吴斌 &amp; assistants
+- [Paint shop: three production floors](#factory-paint-shop) — Senthee / 吴斌 &amp; assistants
+- [NEV assembly shop](#factory-assembly-shop) — Senthee / 吴斌 &amp; assistants
+- [Battery pack production line](#factory-battery-pack) — Senthee / 吴斌 &amp; assistants
+- [Electric drive production shop](#factory-electric-drive-shop) — Senthee / 吴斌 &amp; assistants
+- [Three-in-one electric drive unit](#factory-electric-drive-unit) — Senthee / 吴斌 &amp; assistants
+- [Digital wellhead and flare](#oilfield-digital-wellhead) — MatinShahin
+- [ESP predictive-maintenance explainer](#oilfield-esp-ai-digital-twin) — MatinShahin
+- [Hydrogen salt-cavern storage](#oilfield-hydrogen-salt-cavern) — MatinShahin
+- [CO₂ injection and storage](#oilfield-co2-storage) — MatinShahin
+- [Specimen: heart](#specimen-heart) — Julián Olarte
+- [Specimen: kidney](#specimen-kidney) — Julián Olarte
+- [Specimen: brain](#specimen-brain) — Julián Olarte
+- [Specimen: liver](#specimen-liver) — Julián Olarte
+- [Specimen: endocrine system](#specimen-endocrine) — Julián Olarte
+- [Pulleys: fixed, movable and combined](#talpah-scripeti) — talpah
+- [Electrostatics lesson](#talpah-electrostatica) — talpah
+- [Brownian motion and diffusion](#talpah-miscarea-browniana) — talpah
+- [Vacuum-cleaner impellers](#talpah-impellers) — talpah
+- [Spring letter scale for display glasses](#jkrachenfels-spring-scale) — Jkrachenfels
+- [Eight-port network switch](#hsiang-network-switch) — Hsiang-Tang
+- [Five-pin tumbler lock](#awin-pin-tumbler-lock) — awin0377
+- [Eight-speed bicycle rear derailleur](#changyi-bicycle-derailleur) — changyi123456
+- [Starship exploded atlas](#luozhu-starship) — LuozhuZhang
+- [The InBody 580, taken apart](#optimal-e1-inbody-580) — Optimal-Research-Team
+- [The Creator 600, taken apart](#optimal-e2-creator-600) — Optimal-Research-Team
+- [The KICKR Bike, taken apart](#optimal-e3-kickr-bike) — Optimal-Research-Team
+- [The hand dynamometer, taken apart](#optimal-e4-grip-dynamometer) — Optimal-Research-Team
+- [CellCog: Four-stroke engine](#cellcog-four-stroke) — CellCog
+- [CellCog: Pendulum clock escapement](#cellcog-escapement) — CellCog
+- [CellCog: Open differential](#cellcog-differential) — CellCog
+- [CellCog: Hydraulic press](#cellcog-hydraulic-press) — CellCog
+- [CellCog: Bimetal thermostat](#cellcog-thermostat) — CellCog
+- [CellCog: Token bucket rate limiter](#cellcog-token-bucket) — CellCog
+- [CellCog: Load balancer](#cellcog-load-balancer) — CellCog
+- [CellCog: Hash map](#cellcog-hash-map) — CellCog
+- [CellCog: Binary search](#cellcog-binary-search) — CellCog
+- [CellCog: LRU cache](#cellcog-lru-cache) — CellCog
 
 <a id="source-svg-assets"></a>
 

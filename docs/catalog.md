@@ -2,16 +2,16 @@
 
 [← Gallery](../README.md) · [Prompts](../prompts/index.md)
 
-217 source-linked entries, including 19 rendering studies. Separate implementations can share a subject; theme variants and reposts do not add to the count.
+265 source-linked entries, including 19 rendering studies. Separate implementations can share a subject; theme variants and reposts do not add to the count.
 
 Open demo, code and prompt links describe available resources, not independent interaction or scientific validation. Prompts are the text the creator published.
 
-- [Machines &amp; mechanisms](#mechanisms) (79)
-- [Computing &amp; algorithms](#computing) (48)
-- [Physics &amp; energy](#physics) (21)
-- [Life science &amp; materials](#biology) (21)
+- [Machines &amp; mechanisms](#mechanisms) (100)
+- [Computing &amp; algorithms](#computing) (57)
+- [Physics &amp; energy](#physics) (33)
+- [Life science &amp; materials](#biology) (26)
 - [Architecture &amp; places](#architecture) (2)
-- [Illustration &amp; motion](#visual) (27)
+- [Illustration &amp; motion](#visual) (28)
 - [Rendering studies](#rendering) (19)
 
 <a id="mechanisms"></a>
@@ -948,6 +948,266 @@ An F1 power-unit illustration built with the Anatomy skill in Perplexity Compute
 
 [Preview](https://pbs.twimg.com/amplify_video_thumb/2110377638275731456/img/Ya6fTzZBdkg76gPf.jpg)
 
+<a id="community-camidev43-engine-lathe"></a>
+
+### Engine lathe, turning a bar
+
+**camidev43** · Community
+
+A lathe cutaway follows the spindle, tool carriage and bar as the workpiece turns.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/camidev43/engine-lathe) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe) · [Prompt](../prompts/community-camidev43-engine-lathe.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/camidev43/engine-lathe.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/camidev43/engine-lathe/figure.json)
+
+<a id="community-feliperequiasoares-tm-t20"></a>
+
+### TM-T20: impressora térmica
+
+**feliperequiasoares** · Community
+
+A thermal receipt printer with paper feed, lid, cutter and status controls.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/feliperequiasoares/tm-t20) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20) · [Prompt](../prompts/community-feliperequiasoares-tm-t20.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/feliperequiasoares/tm-t20.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/feliperequiasoares/tm-t20/figure.json)
+
+<a id="community-vinayanand3-kitchen-gas-burner"></a>
+
+### Inside a Kitchen Gas Burner
+
+**vinayanand3** · Community
+
+A burner cutaway links the gas valve, air mixing and ignition to a flame view.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/vinayanand3/kitchen-gas-burner) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner) · [Prompt](../prompts/community-vinayanand3-kitchen-gas-burner.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/vinayanand3/kitchen-gas-burner.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/kitchen-gas-burner/figure.json)
+
+<a id="community-zintaen-geneva-indexing-drive"></a>
+
+### Geneva indexing drive
+
+**zintaen** · Community
+
+A rotating crank and drive pin advance a four-station Geneva wheel in discrete steps.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/zintaen/geneva-indexing-drive) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive) · [Prompt](../prompts/community-zintaen-geneva-indexing-drive.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/zintaen/geneva-indexing-drive.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive/figure.json)
+
+<a id="factory-press-shop"></a>
+
+### Press shop: five-press line
+
+**Senthee / 吴斌 &amp; assistants** · Independent
+
+Five linked presses and AGV unloading in an automotive stamping shop.
+
+[Original](https://sentheecode.github.io/factory-anatomy/figures/stamping-jier-line-light.html) · [Code](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/stamping-jier-line-light.html)
+
+[Preview](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/01-stamping-640.webp) · [Anatomy credit / source](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-body-shop"></a>
+
+### Body shop: body-in-white
+
+**Senthee / 吴斌 &amp; assistants** · Independent
+
+An automotive body-in-white shop arranged as an interactive production scene.
+
+[Original](https://sentheecode.github.io/factory-anatomy/figures/bodyshop-biw-desktop-light.html) · [Code](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/bodyshop-biw-desktop-light.html)
+
+[Preview](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/02-bodyshop-640.webp) · [Anatomy credit / source](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-paint-shop"></a>
+
+### Paint shop: three production floors
+
+**Senthee / 吴斌 &amp; assistants** · Independent
+
+A three-level paint shop covering e-coating, topcoat and finishing.
+
+[Original](https://sentheecode.github.io/factory-anatomy/figures/paintshop-3f-desktop-light.html) · [Code](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/paintshop-3f-desktop-light.html)
+
+[Preview](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/03-paintshop-640.webp) · [Anatomy credit / source](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-assembly-shop"></a>
+
+### NEV assembly shop
+
+**Senthee / 吴斌 &amp; assistants** · Independent
+
+A new-energy vehicle assembly scene with marriage, dual lines and plate conveyors.
+
+[Original](https://sentheecode.github.io/factory-anatomy/figures/assembly-nev-desktop-light.html) · [Code](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/assembly-nev-desktop-light.html)
+
+[Preview](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/04-assembly-nev-640.webp) · [Anatomy credit / source](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-battery-pack"></a>
+
+### Battery pack production line
+
+**Senthee / 吴斌 &amp; assistants** · Independent
+
+An interactive overview of an automotive battery-pack production line.
+
+[Original](https://sentheecode.github.io/factory-anatomy/figures/battery-pack-line-light.html) · [Code](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/battery-pack-line-light.html)
+
+[Preview](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/05-battery-pack-640.webp) · [Anatomy credit / source](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-electric-drive-shop"></a>
+
+### Electric drive production shop
+
+**Senthee / 吴斌 &amp; assistants** · Independent
+
+A factory-floor overview of electric-drive unit production.
+
+[Original](https://sentheecode.github.io/factory-anatomy/figures/edu-drive-desktop-light.html) · [Code](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/edu-drive-desktop-light.html)
+
+[Preview](https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/06-eds-640.webp) · [Anatomy credit / source](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="factory-electric-drive-unit"></a>
+
+### Three-in-one electric drive unit
+
+**Senthee / 吴斌 &amp; assistants** · Independent
+
+An exploded product view of a three-in-one electric-drive assembly.
+
+[Original](https://sentheecode.github.io/factory-anatomy/figures/edu-drive-unit-light.html) · [Code](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/figures/edu-drive-unit-light.html)
+
+[Anatomy credit / source](https://github.com/Sentheecode/factory-anatomy/blob/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/README.md)
+
+<a id="awin-pin-tumbler-lock"></a>
+
+### Five-pin tumbler lock
+
+**awin0377** · Independent
+
+Compare correct, incorrect and partly inserted keys against a pin stack and shear line.
+
+[Original](https://github.com/awin0377/pin-tumbler-lock-explainer/blob/a6e5f12847c9665d40df4c7b0af6b3799cc0992c/index.html)
+
+[Preview](https://raw.githubusercontent.com/awin0377/pin-tumbler-lock-explainer/a6e5f12847c9665d40df4c7b0af6b3799cc0992c/shots/correct.png) · [Anatomy credit / source](https://github.com/awin0377/pin-tumbler-lock-explainer/blob/a6e5f12847c9665d40df4c7b0af6b3799cc0992c/README.md)
+
+<a id="changyi-bicycle-derailleur"></a>
+
+### Eight-speed bicycle rear derailleur
+
+**changyi123456** · Independent
+
+A Traditional Chinese interactive derailleur model with gear changes, slow motion and an exploded view.
+
+[Original](https://changyi123456.github.io/bicycle-derailleur-anatomy/) · [Code](https://github.com/changyi123456/bicycle-derailleur-anatomy/blob/dd54c85be59da9648a1d23aa08103a62e6ba3260/index.html)
+
+[Preview](https://raw.githubusercontent.com/changyi123456/bicycle-derailleur-anatomy/dd54c85be59da9648a1d23aa08103a62e6ba3260/preview.png) · [Anatomy credit / source](https://github.com/changyi123456/bicycle-derailleur-anatomy/blob/dd54c85be59da9648a1d23aa08103a62e6ba3260/README.md)
+
+<a id="luozhu-starship"></a>
+
+### Starship exploded atlas
+
+**LuozhuZhang** · Independent
+
+An interactive launch-vehicle atlas with separated assemblies, engine details and camera views.
+
+[Original](https://luozhuzhang.github.io/starship-anatomy/) · [Code](https://github.com/LuozhuZhang/starship-anatomy/blob/49071a37c2b61eca50099440d62d4e2973bfa412/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/LuozhuZhang/starship-anatomy/49071a37c2b61eca50099440d62d4e2973bfa412/docs/images/final-light-apart.png) · [Anatomy credit / source](https://github.com/LuozhuZhang/starship-anatomy/blob/49071a37c2b61eca50099440d62d4e2973bfa412/README.md)
+
+<a id="optimal-e1-inbody-580"></a>
+
+### The InBody 580, taken apart
+
+**Optimal-Research-Team** · Independent
+
+A separate take-apart model of a body-composition analyser, with electrodes and internal assemblies.
+
+[Original](https://optimal-research-team.github.io/optimal-anatomy-figures/e1-inbody-580/inbody-580-apart-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/inbody-580/object/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e1-inbody-580/assets/inbody-580-16x9.jpg) · [Anatomy credit / source](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e1-inbody-580/figure.json) · [Alternate original](https://optimal-research-team.github.io/optimal-anatomy-figures/e1-inbody-580/assets/inbody-580-16x9.mp4)
+
+Creator’s review status: Approved · Oct 19
+
+<a id="optimal-e2-creator-600"></a>
+
+### The Creator 600, taken apart
+
+**Optimal-Research-Team** · Independent
+
+A take-apart gait-analysis treadmill model with a portrait display and depth camera.
+
+[Original](https://optimal-research-team.github.io/optimal-anatomy-figures/e2-creator-600/creator-600-apart-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/creator-600/object/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e2-creator-600/assets/creator-600-16x9.jpg) · [Anatomy credit / source](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e2-creator-600/figure.json) · [Alternate original](https://optimal-research-team.github.io/optimal-anatomy-figures/e2-creator-600/assets/creator-600-16x9.mp4)
+
+Creator’s review status: Approved · Oct 19
+
+<a id="optimal-e3-kickr-bike"></a>
+
+### The KICKR Bike, taken apart
+
+**Optimal-Research-Team** · Independent
+
+An indoor training-bike model exposes the belt drive, electronic brake and adjustment points.
+
+[Original](https://optimal-research-team.github.io/optimal-anatomy-figures/e3-kickr-bike/kickr-bike-apart-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/kickr-bike/object/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e3-kickr-bike/assets/kickr-bike-16x9.jpg) · [Anatomy credit / source](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e3-kickr-bike/figure.json) · [Alternate original](https://optimal-research-team.github.io/optimal-anatomy-figures/e3-kickr-bike/assets/kickr-bike-16x9.mp4)
+
+Creator’s review status: Approved · Oct 19
+
+<a id="optimal-e4-grip-dynamometer"></a>
+
+### The hand dynamometer, taken apart
+
+**Optimal-Research-Team** · Independent
+
+A hydraulic hand dynamometer links the grip, sealed fluid path and peak-hold dial.
+
+[Original](https://optimal-research-team.github.io/optimal-anatomy-figures/e4-grip-dynamometer/grip-dynamometer-apart-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/reveals/grip-dynamometer/object/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/aad185f38269a2543b8855874a60cf9df40dd677/figures/e4-grip-dynamometer/assets/grip-dynamometer-16x9.jpg) · [Anatomy credit / source](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/README.md) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/aad185f38269a2543b8855874a60cf9df40dd677/figures/e4-grip-dynamometer/figure.json) · [Alternate original](https://optimal-research-team.github.io/optimal-anatomy-figures/e4-grip-dynamometer/assets/grip-dynamometer-16x9.mp4)
+
+Creator’s review status: Approved · Oct 19
+
+<a id="cellcog-four-stroke"></a>
+
+### CellCog: Four-stroke engine
+
+**CellCog** · Independent
+
+Turn the flywheel to follow intake, compression, power and exhaust.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-four-stroke-live.html?v=17dad8d484)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-four-stroke-poster.svg?v=852ad375c6) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-escapement"></a>
+
+### CellCog: Pendulum clock escapement
+
+**CellCog** · Independent
+
+A pendulum and anchor release the escapement wheel tooth by tooth.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-escapement-live.html?v=04b06fdedd)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-escapement-poster.svg?v=9f710b9581) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-differential"></a>
+
+### CellCog: Open differential
+
+**CellCog** · Independent
+
+A differential model compares inner and outer wheel motion through a turn.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-differential-live.html?v=c65250aaf5)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-differential-poster.svg?v=3c0b3a770d) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
 
 <a id="computing"></a>
 
@@ -1513,6 +1773,114 @@ A diagrammatic Anatomy adaptation covers attention, votes, softmax and sampling.
 
 [Preview](https://pbs.twimg.com/amplify_video_thumb/2110354445632720896/img/j8ZWtUHxq7p_pan1.jpg)
 
+<a id="community-lior-pesoa-enigma-i"></a>
+
+### Enigma I cipher machine
+
+**lior-pesoa** · Community
+
+Type a letter to follow the plugboard, stepping rotors, reflector and output lamp.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/lior-pesoa/enigma-i) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i) · [Prompt](../prompts/community-lior-pesoa-enigma-i.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/lior-pesoa/enigma-i.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/lior-pesoa/enigma-i/figure.json)
+
+<a id="community-vinayanand3-wireless-gaming-mouse"></a>
+
+### Inside a wireless gaming mouse
+
+**vinayanand3** · Community
+
+An exploded wireless mouse exposes the shell, switches, wheel, sensor and electronics.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/vinayanand3/wireless-gaming-mouse) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse) · [Prompt](../prompts/community-vinayanand3-wireless-gaming-mouse.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/previews/vinayanand3/wireless-gaming-mouse.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/vinayanand3/wireless-gaming-mouse/figure.json)
+
+<a id="community-zintaen-computer-cpu-alu"></a>
+
+### From computer to ALU
+
+**zintaen** · Community
+
+Zoom from a computer board into a CPU and a four-bit ripple-carry ALU.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/zintaen/computer-cpu-alu) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu) · [Prompt](../prompts/community-zintaen-computer-cpu-alu.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/zintaen/computer-cpu-alu.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/computer-cpu-alu/figure.json)
+
+<a id="hsiang-network-switch"></a>
+
+### Eight-port network switch
+
+**Hsiang-Tang** · Independent
+
+An exploded switch model follows packet forwarding, MAC learning and internal board layers.
+
+[Original](https://hsiang-tang.github.io/network-switch-anatomy/) · [Code](https://github.com/Hsiang-Tang/network-switch-anatomy/blob/aaa51f784197547a5c79485abd4d71017253cf08/src/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/Hsiang-Tang/network-switch-anatomy/aaa51f784197547a5c79485abd4d71017253cf08/media/poster.png) · [Anatomy credit / source](https://github.com/Hsiang-Tang/network-switch-anatomy/blob/aaa51f784197547a5c79485abd4d71017253cf08/README.md) · [Alternate original](https://hsiang-tang.github.io/network-switch-anatomy/film.html)
+
+<a id="cellcog-token-bucket"></a>
+
+### CellCog: Token bucket rate limiter
+
+**CellCog** · Independent
+
+Requests spend tokens as a bucket replenishes over time.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-token-bucket-live.html?v=839f9071f9)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-token-bucket-poster.svg?v=d1bb03aa36) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-load-balancer"></a>
+
+### CellCog: Load balancer
+
+**CellCog** · Independent
+
+Incoming requests are distributed across a row of servers.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-load-balancer-live.html?v=a23cf001ef)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-load-balancer-poster.svg?v=313cf39524) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-hash-map"></a>
+
+### CellCog: Hash map
+
+**CellCog** · Independent
+
+An interactive illustration maps keys to hash buckets.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hash-map-live.html?v=af2f523ff1)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hash-map-poster.svg?v=da4e513f27) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-binary-search"></a>
+
+### CellCog: Binary search
+
+**CellCog** · Independent
+
+Successive probes narrow the remaining search range.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-binary-search-live.html?v=a786427bc5)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-binary-search-poster.svg?v=34a978a937) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-lru-cache"></a>
+
+### CellCog: LRU cache
+
+**CellCog** · Independent
+
+Hits move entries to the front; misses can evict the least recently used item.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-lru-cache-live.html?v=aeb34fde43)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-lru-cache-poster.svg?v=dbaa2dd84c) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
 
 <a id="physics"></a>
 
@@ -1761,6 +2129,150 @@ Two opposed thruster pairs turn and stop a rocket section on a test bench.
 [Original](https://github.com/Rudrajmehta/anatomy-cold-gas-thrusters) · [Open demo](https://rudrajmehta.github.io/anatomy-cold-gas-thrusters/) · [Code](https://github.com/Rudrajmehta/anatomy-cold-gas-thrusters/blob/c1334f927ca707d82173461c59231d5ee3560baf/build.mjs)
 
 [Preview](https://raw.githubusercontent.com/Rudrajmehta/anatomy-cold-gas-thrusters/c1334f927ca707d82173461c59231d5ee3560baf/shots/tour-6-hold-light.png)
+
+<a id="community-zintaen-deadweight-tester"></a>
+
+### Deadweight pressure tester
+
+**zintaen** · Community
+
+A pressure calibration model connects a screw press, piston weights and a Bourdon gauge.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/zintaen/deadweight-tester) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester) · [Prompt](../prompts/community-zintaen-deadweight-tester.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/zintaen/deadweight-tester.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/deadweight-tester/figure.json)
+
+<a id="oilfield-digital-wellhead"></a>
+
+### Digital wellhead and flare
+
+**MatinShahin** · Independent
+
+A standalone wellhead model links the choke, instrumentation, RTU and flare.
+
+[Original](https://matinshahin.github.io/digital-oil-field/figures/digital-wellhead.html) · [Code](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/digital-wellhead.html)
+
+[Anatomy credit / source](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="oilfield-esp-ai-digital-twin"></a>
+
+### ESP predictive-maintenance explainer
+
+**MatinShahin** · Independent
+
+An electric submersible pump model pairs sensor trends with illustrative maintenance alerts.
+
+[Original](https://matinshahin.github.io/digital-oil-field/figures/esp-ai-digital-twin.html) · [Code](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/esp-ai-digital-twin.html)
+
+[Anatomy credit / source](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="oilfield-hydrogen-salt-cavern"></a>
+
+### Hydrogen salt-cavern storage
+
+**MatinShahin** · Independent
+
+A hydrogen-storage scene connects the compressor, wellhead and injection/withdrawal path.
+
+[Original](https://matinshahin.github.io/digital-oil-field/figures/hydrogen-salt-cavern.html) · [Code](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/hydrogen-salt-cavern.html)
+
+[Anatomy credit / source](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="oilfield-co2-storage"></a>
+
+### CO₂ injection and storage
+
+**MatinShahin** · Independent
+
+An underground CO₂-storage model follows injection equipment and a subsurface plume.
+
+[Original](https://matinshahin.github.io/digital-oil-field/figures/co2-storage.html) · [Code](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/figures/co2-storage.html)
+
+[Anatomy credit / source](https://github.com/MatinShahin/digital-oil-field/blob/621c38b13f6d5c4943b3f2a900b7002cf30d3baa/README.md)
+
+<a id="talpah-scripeti"></a>
+
+### Pulleys: fixed, movable and combined
+
+**talpah** · Independent
+
+A Romanian-language lesson comparing fixed pulleys, movable pulleys and block-and-tackle arrangements.
+
+[Original](https://talpah.github.io/playground/lessons/scripeti/scripeti-light.html) · [Code](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/scripeti/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/scripeti/preview.png) · [Anatomy credit / source](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="talpah-electrostatica"></a>
+
+### Electrostatics lesson
+
+**talpah** · Independent
+
+A Romanian-language lesson exploring charge, Coulomb force and electric fields.
+
+[Original](https://talpah.github.io/playground/lessons/electrostatica/electrostatica-light.html) · [Code](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/electrostatica/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/electrostatica/preview.png) · [Anatomy credit / source](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="talpah-miscarea-browniana"></a>
+
+### Brownian motion and diffusion
+
+**talpah** · Independent
+
+A Romanian-language visual lesson on Brownian motion and diffusion.
+
+[Original](https://talpah.github.io/playground/lessons/miscarea-browniana/miscarea-browniana-light.html) · [Code](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/miscarea-browniana/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/miscarea-browniana/preview.png) · [Anatomy credit / source](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="talpah-impellers"></a>
+
+### Vacuum-cleaner impellers
+
+**talpah** · Independent
+
+An English-language lesson on impeller geometry, blade angles, throttling and multiple stages.
+
+[Original](https://talpah.github.io/playground/lessons/impellers/impellers-light.html) · [Code](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/impellers/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/talpah/playground/20380ec6f9921875a6555dceed7c4260e9e5986c/lessons/impellers/preview.png) · [Anatomy credit / source](https://github.com/talpah/playground/blob/20380ec6f9921875a6555dceed7c4260e9e5986c/README.md)
+
+<a id="jkrachenfels-spring-scale"></a>
+
+### Spring letter scale for display glasses
+
+**Jkrachenfels** · Independent
+
+Add and remove weights to follow a spring-scale reading in a compact glasses-oriented layout.
+
+[Original](https://jkrachenfels.github.io/spring-scale-glasses/) · [Code](https://github.com/Jkrachenfels/spring-scale-glasses/blob/6bcada89209bc093ea71f55df13b2a4d7fee8ae6/index.html)
+
+[Anatomy credit / source](https://github.com/Jkrachenfels/spring-scale-glasses/blob/6bcada89209bc093ea71f55df13b2a4d7fee8ae6/README.md)
+
+<a id="cellcog-hydraulic-press"></a>
+
+### CellCog: Hydraulic press
+
+**CellCog** · Independent
+
+Two fluid-linked pistons illustrate pressure and force transmission.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hydraulic-press-live.html?v=f6db606f14)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-hydraulic-press-poster.svg?v=377ec58b57) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
+
+<a id="cellcog-thermostat"></a>
+
+### CellCog: Bimetal thermostat
+
+**CellCog** · Independent
+
+A heated bimetal strip bends to switch a heater circuit.
+
+[Original](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-thermostat-live.html?v=c9ea9ed2f9)
+
+[Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-thermostat-poster.svg?v=1947d40e0d) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
 
 
 <a id="biology"></a>
@@ -2044,6 +2556,66 @@ Pair a bell with food to explore the author’s synaptic-learning model.
 [Original](https://github.com/tiago-varandas/anatomy/blob/a18e142d1d52753d87ccdae21de47ab7cfa1df0a/neuron-bench/neuron-bench-light.html) · [Open demo](https://anatomy-snowy.vercel.app/neuron)
 
 [Anatomy credit / source](https://github.com/tiago-varandas/anatomy#anatomy)
+
+<a id="specimen-heart"></a>
+
+### Specimen: heart
+
+**Julián Olarte** · Independent
+
+A classroom heart model with beating, chamber cutaways and a pericardium view.
+
+[Original](https://julianolarteramos.github.io/specimen/heart.html) · [Code](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/heart/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/heart.webp) · [Anatomy credit / source](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-kidney"></a>
+
+### Specimen: kidney
+
+**Julián Olarte** · Independent
+
+A kidney section exposes the cortex, medullary pyramids, collecting structures and adrenal gland.
+
+[Original](https://julianolarteramos.github.io/specimen/kidney.html) · [Code](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/kidney/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/kidney-section.webp) · [Anatomy credit / source](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-brain"></a>
+
+### Specimen: brain
+
+**Julián Olarte** · Independent
+
+A teaching model of the brain surface, cerebellum and brainstem.
+
+[Original](https://julianolarteramos.github.io/specimen/brain.html) · [Code](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/brain/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/brain.webp) · [Anatomy credit / source](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-liver"></a>
+
+### Specimen: liver
+
+**Julián Olarte** · Independent
+
+An organ model showing the liver lobes, ligaments, gallbladder and major vessels.
+
+[Original](https://julianolarteramos.github.io/specimen/liver.html) · [Code](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/liver/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/liver.webp) · [Anatomy credit / source](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
+
+<a id="specimen-endocrine"></a>
+
+### Specimen: endocrine system
+
+**Julián Olarte** · Independent
+
+A torso model links endocrine glands, vessels and an animated stress-response sequence.
+
+[Original](https://julianolarteramos.github.io/specimen/endocrine.html) · [Code](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/examples/endocrine/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/endocrine.webp) · [Anatomy credit / source](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
 
 
 <a id="architecture"></a>
@@ -2393,6 +2965,18 @@ A creator-shared illustration experiment explicitly made with Anatomy.
 
 [Preview](https://pbs.twimg.com/amplify_video_thumb/2109355655903817728/img/MKcVSH98kEm_yTKB.jpg)
 
+<a id="community-masterthepixel-weather-clear-night"></a>
+
+### Weather: Clear night, lunar globe in a gimbal in front of a pin-field star board
+
+**masterthepixel** · Community
+
+An animated lunar globe in a gimbal against a pin-field star board.
+
+[Original](https://skills.wheresryan.sh/anatomy/community/masterthepixel/weather-clear-night) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night) · [Prompt](../prompts/community-masterthepixel-weather-clear-night.md)
+
+[Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/masterthepixel/weather-clear-night.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json)
+
 
 <a id="rendering"></a>
 
@@ -2717,6 +3301,15 @@ An early rendering study: Three reads.
 - [Ripple tank](#community-wheresryan22-ripple-tank) — wheresryan22
 - [Ford PowerShift DPS6 twin dry clutch](#community-yishan-ford-dps6-twin-clutch) — yishan
 - [GitLab Runner job bench](#community-zzgosh-gitlab-runner-bench) — zzgosh
+- [Engine lathe, turning a bar](#community-camidev43-engine-lathe) — camidev43
+- [TM-T20: impressora térmica](#community-feliperequiasoares-tm-t20) — feliperequiasoares
+- [Enigma I cipher machine](#community-lior-pesoa-enigma-i) — lior-pesoa
+- [Weather: Clear night, lunar globe in a gimbal in front of a pin-field star board](#community-masterthepixel-weather-clear-night) — masterthepixel
+- [Inside a Kitchen Gas Burner](#community-vinayanand3-kitchen-gas-burner) — vinayanand3
+- [Inside a wireless gaming mouse](#community-vinayanand3-wireless-gaming-mouse) — vinayanand3
+- [From computer to ALU](#community-zintaen-computer-cpu-alu) — zintaen
+- [Deadweight pressure tester](#community-zintaen-deadweight-tester) — zintaen
+- [Geneva indexing drive](#community-zintaen-geneva-indexing-drive) — zintaen
 
 <a id="source-independent-collections"></a>
 
@@ -2790,6 +3383,45 @@ An early rendering study: Three reads.
 - [LRU cache](#cutaway-lru-cache) — Abhay Kumar
 - [Connection pool](#cutaway-connection-pool) — Abhay Kumar
 - [Circuit breaker](#cutaway-circuit-breaker) — Abhay Kumar
+- [Press shop: five-press line](#factory-press-shop) — Senthee / 吴斌 &amp; assistants
+- [Body shop: body-in-white](#factory-body-shop) — Senthee / 吴斌 &amp; assistants
+- [Paint shop: three production floors](#factory-paint-shop) — Senthee / 吴斌 &amp; assistants
+- [NEV assembly shop](#factory-assembly-shop) — Senthee / 吴斌 &amp; assistants
+- [Battery pack production line](#factory-battery-pack) — Senthee / 吴斌 &amp; assistants
+- [Electric drive production shop](#factory-electric-drive-shop) — Senthee / 吴斌 &amp; assistants
+- [Three-in-one electric drive unit](#factory-electric-drive-unit) — Senthee / 吴斌 &amp; assistants
+- [Digital wellhead and flare](#oilfield-digital-wellhead) — MatinShahin
+- [ESP predictive-maintenance explainer](#oilfield-esp-ai-digital-twin) — MatinShahin
+- [Hydrogen salt-cavern storage](#oilfield-hydrogen-salt-cavern) — MatinShahin
+- [CO₂ injection and storage](#oilfield-co2-storage) — MatinShahin
+- [Specimen: heart](#specimen-heart) — Julián Olarte
+- [Specimen: kidney](#specimen-kidney) — Julián Olarte
+- [Specimen: brain](#specimen-brain) — Julián Olarte
+- [Specimen: liver](#specimen-liver) — Julián Olarte
+- [Specimen: endocrine system](#specimen-endocrine) — Julián Olarte
+- [Pulleys: fixed, movable and combined](#talpah-scripeti) — talpah
+- [Electrostatics lesson](#talpah-electrostatica) — talpah
+- [Brownian motion and diffusion](#talpah-miscarea-browniana) — talpah
+- [Vacuum-cleaner impellers](#talpah-impellers) — talpah
+- [Spring letter scale for display glasses](#jkrachenfels-spring-scale) — Jkrachenfels
+- [Eight-port network switch](#hsiang-network-switch) — Hsiang-Tang
+- [Five-pin tumbler lock](#awin-pin-tumbler-lock) — awin0377
+- [Eight-speed bicycle rear derailleur](#changyi-bicycle-derailleur) — changyi123456
+- [Starship exploded atlas](#luozhu-starship) — LuozhuZhang
+- [The InBody 580, taken apart](#optimal-e1-inbody-580) — Optimal-Research-Team
+- [The Creator 600, taken apart](#optimal-e2-creator-600) — Optimal-Research-Team
+- [The KICKR Bike, taken apart](#optimal-e3-kickr-bike) — Optimal-Research-Team
+- [The hand dynamometer, taken apart](#optimal-e4-grip-dynamometer) — Optimal-Research-Team
+- [CellCog: Four-stroke engine](#cellcog-four-stroke) — CellCog
+- [CellCog: Pendulum clock escapement](#cellcog-escapement) — CellCog
+- [CellCog: Open differential](#cellcog-differential) — CellCog
+- [CellCog: Hydraulic press](#cellcog-hydraulic-press) — CellCog
+- [CellCog: Bimetal thermostat](#cellcog-thermostat) — CellCog
+- [CellCog: Token bucket rate limiter](#cellcog-token-bucket) — CellCog
+- [CellCog: Load balancer](#cellcog-load-balancer) — CellCog
+- [CellCog: Hash map](#cellcog-hash-map) — CellCog
+- [CellCog: Binary search](#cellcog-binary-search) — CellCog
+- [CellCog: LRU cache](#cellcog-lru-cache) — CellCog
 
 <a id="source-svg-assets"></a>
 
