@@ -2,16 +2,16 @@
 
 [← Gallery](../README.md) · [Prompts](../prompts/index.md)
 
-265 source-linked entries, including 19 rendering studies. Separate implementations can share a subject; theme variants and reposts do not add to the count.
+302 source-linked entries, including 19 rendering studies. Separate implementations can share a subject; theme variants and reposts do not add to the count.
 
 Open demo, code and prompt links describe available resources, not independent interaction or scientific validation. Prompts are the text the creator published.
 
-- [Machines &amp; mechanisms](#mechanisms) (100)
-- [Computing &amp; algorithms](#computing) (57)
-- [Physics &amp; energy](#physics) (33)
-- [Life science &amp; materials](#biology) (26)
-- [Architecture &amp; places](#architecture) (2)
-- [Illustration &amp; motion](#visual) (28)
+- [Machines &amp; mechanisms](#mechanisms) (109)
+- [Computing &amp; algorithms](#computing) (67)
+- [Physics &amp; energy](#physics) (42)
+- [Life science &amp; materials](#biology) (29)
+- [Architecture &amp; places](#architecture) (6)
+- [Illustration &amp; motion](#visual) (30)
 - [Rendering studies](#rendering) (19)
 
 <a id="mechanisms"></a>
@@ -1208,6 +1208,128 @@ A differential model compares inner and outer wheel motion through a turn.
 
 [Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-differential-poster.svg?v=3c0b3a770d) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
 
+<a id="laowang-mechanical-keyboard-film"></a>
+
+### Mechanical keyboard: nine-scene teardown film
+
+**laowang5** · Independent
+
+A single keyboard film moves through keycaps, switches, Hall sensing, PCB, plate, foam and case.
+
+[Original](https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/index.html) · [Code](https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/geo/build-figures.mjs)
+
+[Preview](https://raw.githubusercontent.com/laowang5/anatomy-hyperframes-video/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/assets/figures/hero.svg) · [Anatomy credit / source](https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/README.md) · [Alternate original](https://github.com/user-attachments/assets/edd718c8-c0b7-4a1f-b5f8-50cfa9c46c7a)
+
+<a id="zabduziz-parking-gate"></a>
+
+### Campus parking entrance gate
+
+**Zabduziz** · Independent
+
+An Indonesian-language gate model traces vehicle detection, identity checks and barrier operation.
+
+[Original](https://zabduziz.github.io/parking-anatomy/demo/gerbang-masuk-light.html) · [Code](https://github.com/Zabduziz/parking-anatomy/blob/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/src/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/Zabduziz/parking-anatomy/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/docs/media/gerbang-masuk-light.gif) · [Anatomy credit / source](https://github.com/Zabduziz/parking-anatomy/blob/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/README.md)
+
+<a id="community-azkian1-bean-to-cup-coffee-machine"></a>
+
+### Bean-to-cup coffee machine
+
+**azkian1** · Submission · pending
+
+Trace beans, grinding, brewing, water heating, milk and waste paths in an automatic coffee machine.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/104) · [Code](https://github.com/azkian1/anatomy-community/tree/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine) · [Prompt](../prompts/community-azkian1-bean-to-cup-coffee-machine.md)
+
+[Anatomy credit / source](https://github.com/azkian1/anatomy-community/blob/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine/figure.json) · [Original metadata](https://github.com/azkian1/anatomy-community/blob/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-lakhanadewar-kaco-heart-pen"></a>
+
+### Kaco First Roller heart pen
+
+**lakhanadewar** · Submission · pending
+
+A twist pen links tip extension to a moving heart ornament behind a clear window.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/101) · [Code](https://github.com/lakhanadewar/anatomy-community/tree/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen) · [Prompt](../prompts/community-lakhanadewar-kaco-heart-pen.md)
+
+[Anatomy credit / source](https://github.com/lakhanadewar/anatomy-community/blob/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen/figure.json) · [Original metadata](https://github.com/lakhanadewar/anatomy-community/blob/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zhangyiabc-roadster-loop"></a>
+
+### Roadster Inverted Loop Rig
+
+**zhangyiabc** · Submission · pending
+
+A fictional stunt rig illustrates an inverted ramp run, mid-air attitude changes and a powered landing.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/100) · [Code](https://github.com/zhangyiabc/anatomy-community/tree/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop) · [Prompt](../prompts/community-zhangyiabc-roadster-loop.md)
+
+[Anatomy credit / source](https://github.com/zhangyiabc/anatomy-community/blob/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop/figure.json) · [Original metadata](https://github.com/zhangyiabc/anatomy-community/blob/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-stirling-engine"></a>
+
+### Stirling heat engine
+
+**zintaen** · Submission · pending
+
+A Stirling-engine model connects displacer motion, hot and cold spaces and a power piston.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/93) · [Code](https://github.com/zintaen/anatomy-community/tree/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine) · [Prompt](../prompts/community-zintaen-stirling-engine.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-scotch-yoke"></a>
+
+### Scotch yoke harmonic actuator
+
+**zintaen** · Submission · pending
+
+An eccentric crankpin drives a slotted yoke through reciprocating motion.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/89) · [Code](https://github.com/zintaen/anatomy-community/tree/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke) · [Prompt](../prompts/community-zintaen-scotch-yoke.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-watt-governor"></a>
+
+### Centrifugal flyball governor
+
+**zintaen** · Submission · pending
+
+A rotating flyball governor links rising weights to a sleeve and steam-throttle indicator.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/88) · [Code](https://github.com/zintaen/anatomy-community/tree/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor) · [Prompt](../prompts/community-zintaen-watt-governor.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-outside-micrometer"></a>
+
+### Outside micrometer
+
+**zintaen** · Submission · pending
+
+A micrometer model links thimble rotation to spindle travel and measurement scales.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/87) · [Code](https://github.com/zintaen/anatomy-community/tree/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer) · [Prompt](../prompts/community-zintaen-outside-micrometer.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
 
 <a id="computing"></a>
 
@@ -1881,6 +2003,128 @@ Hits move entries to the front; misses can evict the least recently used item.
 
 [Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-lru-cache-poster.svg?v=dbaa2dd84c) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
 
+<a id="dodai-notification-city"></a>
+
+### Android notification-channel city
+
+**Dodai0419** · Independent
+
+Apps become buildings and notification channels become floors in before/after views of marketing notifications.
+
+[Original](https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before.svg) · [Code](https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/notif_city.mjs)
+
+[Preview](https://raw.githubusercontent.com/Dodai0419/notif-city/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before-after.png) · [Anatomy credit / source](https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/vendor/iso.mjs)
+
+<a id="genhttp-01-ioxide-exchange"></a>
+
+### GenHTTP: the io_uring exchange
+
+**IAFahim** · Independent
+
+An exchange board represents per-core Ioxide reactors and their network connections.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/01-ioxide-exchange/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/01-ioxide-exchange/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-02-coin-sorter"></a>
+
+### GenHTTP: the zero-allocation coin sorter
+
+**IAFahim** · Independent
+
+A circulating coin sorter illustrates pooled request reuse and different response outcomes.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/02-coin-sorter/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/02-coin-sorter/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-03-signal-box"></a>
+
+### GenHTTP: the handler-tree signal box
+
+**IAFahim** · Independent
+
+Railway points represent handler selection, including the no-handler route.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/03-signal-box/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/03-signal-box/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-04-filter-stack"></a>
+
+### GenHTTP: the concern filter stack
+
+**IAFahim** · Independent
+
+A stack of filters represents the ordered processing of request concerns.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/04-filter-stack/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/04-filter-stack/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-05-card-catalog"></a>
+
+### GenHTTP: reflection-mapper card catalog
+
+**IAFahim** · Independent
+
+Method cards illustrate parameter binding and the compiled mapping path.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/05-card-catalog/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/05-card-catalog/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-06-surveyor"></a>
+
+### GenHTTP: the OpenAPI surveyor
+
+**IAFahim** · Independent
+
+A surveyor and plotter represent documentation derived from a handler tree.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/06-surveyor/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/06-surveyor/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-07-cloakroom"></a>
+
+### GenHTTP: cache validation and compression
+
+**IAFahim** · Independent
+
+A cloakroom metaphor connects ETag matching, cached responses and compression.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/07-cloakroom/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/07-cloakroom/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-08-turntable"></a>
+
+### GenHTTP: three server engines
+
+**IAFahim** · Independent
+
+A railway turntable connects one application to Internal, Kestrel or Ioxide.
+
+[Original](https://iafahim.github.io/genhttp-anatomy/figures/08-turntable/index-light.html) · [Code](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/08-turntable/build.mjs)
+
+[Anatomy credit / source](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="community-zintaen-ssd-nand-floating-gate"></a>
+
+### From NVMe SSD to floating-gate cell
+
+**zintaen** · Submission · pending
+
+Zoom from an NVMe board to a NAND package and a schematic floating-gate cell string.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/91) · [Code](https://github.com/zintaen/anatomy-community/tree/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate) · [Prompt](../prompts/community-zintaen-ssd-nand-floating-gate.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
 
 <a id="physics"></a>
 
@@ -2274,6 +2518,124 @@ A heated bimetal strip bends to switch a heater circuit.
 
 [Preview](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-thermostat-poster.svg?v=1947d40e0d) · [Anatomy credit / source](https://cellcog.ai/blog/anatomy-claude-skill/)
 
+<a id="jaydubb-stirred-tank"></a>
+
+### Stirred-tank CFD workbench
+
+**jaydubb0513** · Independent
+
+A cutaway mixing tank links impeller and fluid settings to illustrative flow fields; six presets are grouped.
+
+[Original](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/rushton-water.html) · [Code](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/figure.mjs)
+
+[Anatomy credit / source](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/README.md) · [Alternate original](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/anchor-syrup.html) · [Alternate original](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/carbopol-cavern.html) · [Alternate original](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/dual-pbt.html) · [Alternate original](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/hydrofoil-cone-light.html) · [Alternate original](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/unbaffled-vortex.html)
+
+<a id="ywedai-rocket-launch"></a>
+
+### Rocket launch: predict, try, explain
+
+**ywEdAi** · Independent
+
+An idealised rocket lesson combines Anatomy-built cutaway geometry with controls for thrust, support and coasting.
+
+[Original](https://ywedai.github.io/teachable-figures/rocket-launch.html) · [Code](https://github.com/ywEdAi/teachable-figures/blob/049f476d6188a4cd568550de7196fa94c12f4a1a/scripts/build-rocket-visual.mjs)
+
+[Anatomy credit / source](https://github.com/ywEdAi/teachable-figures/blob/049f476d6188a4cd568550de7196fa94c12f4a1a/scripts/build-rocket-visual.mjs)
+
+<a id="kazi-golf-ball-flight"></a>
+
+### Golf ball flight
+
+**KAZI-ABI** · Independent
+
+A standalone golf-ball-flight explainer built with the Anatomy renderer.
+
+[Original](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/golf-ball-flight-light.html)
+
+[Anatomy credit / source](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md)
+
+<a id="everest-searl-seg"></a>
+
+### Searl Effect Generator: claim-audit model
+
+**everest-an** · Independent
+
+A reconstruction separates a speculative machine’s components from its author’s energy and evidence audit.
+
+[Original](https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/searl-seg-light.html) · [Code](https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/everest-an/searl-seg/5bc145df3f9412837f0403c3a98313acfbfd2d29/shots/light.png) · [Anatomy credit / source](https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/README.md)
+
+<a id="community-zintaen-seismograph-pendulum"></a>
+
+### Inertial pendulum seismograph
+
+**zintaen** · Submission · pending
+
+A suspended proof mass and stylus illustrate relative motion between an inertial pendulum and its frame.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/95) · [Code](https://github.com/zintaen/anatomy-community/tree/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum) · [Prompt](../prompts/community-zintaen-seismograph-pendulum.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-spherical-tokamak"></a>
+
+### Tokamak magnetic fusion torus
+
+**zintaen** · Submission · pending
+
+A tokamak model links toroidal coils and a central solenoid to a schematic plasma field.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/94) · [Code](https://github.com/zintaen/anatomy-community/tree/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak) · [Prompt](../prompts/community-zintaen-spherical-tokamak.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-bourdon-pressure-gauge"></a>
+
+### Bourdon tube pressure gauge
+
+**zintaen** · Submission · pending
+
+A Bourdon tube drives a link, sector gear and pointer as the indicated pressure changes.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/92) · [Code](https://github.com/zintaen/anatomy-community/tree/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge) · [Prompt](../prompts/community-zintaen-bourdon-pressure-gauge.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-czochralski-crystal-puller"></a>
+
+### Czochralski silicon crystal puller
+
+**zintaen** · Submission · pending
+
+A crystal-puller model connects a heated melt, seed holder and silicon-boule withdrawal.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/90) · [Code](https://github.com/zintaen/anatomy-community/tree/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller) · [Prompt](../prompts/community-zintaen-czochralski-crystal-puller.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-zintaen-michelson-interferometer"></a>
+
+### Michelson interferometer
+
+**zintaen** · Submission · pending
+
+A split-beam optical bench links mirror travel to a changing interference pattern.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/86) · [Code](https://github.com/zintaen/anatomy-community/tree/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer) · [Prompt](../prompts/community-zintaen-michelson-interferometer.md)
+
+[Anatomy credit / source](https://github.com/zintaen/anatomy-community/blob/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer/figure.json) · [Original metadata](https://github.com/zintaen/anatomy-community/blob/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
 
 <a id="biology"></a>
 
@@ -2313,7 +2675,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/01-menopause-thermostat/menopause-thermostat-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/01-menopause-thermostat)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/01-menopause-thermostat/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/01-menopause-thermostat/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/01-menopause-thermostat/figure.json)
 
 Creator’s review status: Round 1 · for review
 
@@ -2327,7 +2689,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/02-inbody-580/inbody-580-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/02-inbody-580)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/02-inbody-580/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/02-inbody-580/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/02-inbody-580/figure.json)
 
 Creator’s review status: Round 1 · for review
 
@@ -2341,7 +2703,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/03-iv-iron/iv-iron-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/03-iv-iron)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/03-iv-iron/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/03-iv-iron/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/03-iv-iron/figure.json)
 
 Creator’s review status: Round 1 · for review
 
@@ -2355,7 +2717,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/04-creator-600/creator-600-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/04-creator-600)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/04-creator-600/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/04-creator-600/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/04-creator-600/figure.json)
 
 Creator’s review status: Round 1 · for review
 
@@ -2369,7 +2731,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/05-vo2max/vo2max-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/05-vo2max)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/05-vo2max/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/05-vo2max/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/05-vo2max/figure.json)
 
 Creator’s review status: Round 3 · for review
 
@@ -2383,7 +2745,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/06-vo2max-treadmill/vo2max-treadmill-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/06-vo2max-treadmill)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/06-vo2max-treadmill/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/06-vo2max-treadmill/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/06-vo2max-treadmill/figure.json)
 
 Creator’s review status: Round 2 · for review
 
@@ -2397,7 +2759,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a1-gut-cell/gut-cell-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a1-gut-cell)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a1-gut-cell/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a1-gut-cell/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a1-gut-cell/figure.json)
 
 Creator’s review status: Round 2 · 3-D block
 
@@ -2411,7 +2773,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a2-hypothalamus/hypothalamus-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a2-hypothalamus)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a2-hypothalamus/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a2-hypothalamus/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a2-hypothalamus/figure.json)
 
 Creator’s review status: Round 3 · 3-D brain block
 
@@ -2425,7 +2787,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a3-finger-skin/finger-skin-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a3-finger-skin)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a3-finger-skin/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a3-finger-skin/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a3-finger-skin/figure.json)
 
 Creator’s review status: Approved look · 3-D
 
@@ -2439,7 +2801,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a4-heart/heart-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a4-heart)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a4-heart/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a4-heart/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a4-heart/figure.json)
 
 Creator’s review status: Round 6 · solid 3-D heart (WebGL), turns
 
@@ -2453,7 +2815,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a5-alveolus/alveolus-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a5-alveolus)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a5-alveolus/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a5-alveolus/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a5-alveolus/figure.json)
 
 Creator’s review status: Round 2 · 3-D block
 
@@ -2467,7 +2829,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a6-red-cell-cycle/red-cell-cycle-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a6-red-cell-cycle)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a6-red-cell-cycle/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a6-red-cell-cycle/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a6-red-cell-cycle/figure.json)
 
 Creator’s review status: Round 3 · 3-D, cut in half
 
@@ -2481,7 +2843,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a7-knee/knee-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a7-knee)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a7-knee/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a7-knee/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a7-knee/figure.json)
 
 Creator’s review status: Round 2 · 3-D, leg cut in half
 
@@ -2495,7 +2857,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a8-muscle-water/muscle-water-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a8-muscle-water)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a8-muscle-water/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a8-muscle-water/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a8-muscle-water/figure.json)
 
 Creator’s review status: Round 2 · 3-D bundle
 
@@ -2509,7 +2871,7 @@ A health or equipment explainer; see the author’s review status.
 
 [Original](https://optimal-research-team.github.io/optimal-anatomy-figures/a9-bone-remodelling/bone-remodelling-light.html) · [Code](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a9-bone-remodelling)
 
-[Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a9-bone-remodelling/figure.json)
+[Preview](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a9-bone-remodelling/assets/preview.jpg) · [Original metadata](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a9-bone-remodelling/figure.json)
 
 Creator’s review status: Round 2 · 3-D block
 
@@ -2617,6 +2979,42 @@ A torso model links endocrine glands, vessels and an animated stress-response se
 
 [Preview](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/endocrine.webp) · [Anatomy credit / source](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
 
+<a id="jeremy-cpb-machine"></a>
+
+### Heart–lung machine: basic circuit
+
+**jeremyl861225** · Independent
+
+A teaching circuit follows a basic cardiopulmonary-bypass configuration with roller pumps and cannulation points.
+
+[Original](https://jeremyl861225.github.io/heart-lung-machine/cpb-machine.html) · [Code](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/cpb-machine.html)
+
+[Preview](https://raw.githubusercontent.com/jeremyl861225/heart-lung-machine/ba2f78fd8787cd88225a62683364ea40f6fb6e75/assets/cpb-machine.png) · [Anatomy credit / source](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/README.md)
+
+<a id="jeremy-cpb-advanced"></a>
+
+### Heart–lung machine: advanced circuit
+
+**jeremyl861225** · Independent
+
+A separate advanced teaching circuit adds a centrifugal arterial pump, assisted venous drainage and blood cardioplegia.
+
+[Original](https://jeremyl861225.github.io/heart-lung-machine/cpb-advanced.html) · [Code](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/cpb-advanced.html)
+
+[Preview](https://raw.githubusercontent.com/jeremyl861225/heart-lung-machine/ba2f78fd8787cd88225a62683364ea40f6fb6e75/assets/cpb-advanced.png) · [Anatomy credit / source](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/README.md)
+
+<a id="specimen-central-nervous-system"></a>
+
+### Specimen: central nervous system
+
+**Julián Olarte** · Independent
+
+A Spanish-language brain-and-spinal-cord model offers layered disassembly, sections, labels and schematic pathways.
+
+[Original](https://julianolarteramos.github.io/sistema-nervioso-central/) · [Code](https://github.com/julianolarteramos/sistema-nervioso-central/blob/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/build.mjs)
+
+[Preview](https://raw.githubusercontent.com/julianolarteramos/sistema-nervioso-central/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/img/portada.png) · [Anatomy credit / source](https://github.com/julianolarteramos/sistema-nervioso-central/blob/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/README.md)
+
 
 <a id="architecture"></a>
 
@@ -2645,6 +3043,56 @@ A construction explainer shared with its short original Anatomy prompt.
 [Original](https://x.com/dani_avila7/status/2109317963811574099) · [Prompt](../prompts/x-dani_avila7-2109317963811574099.md)
 
 [Preview](https://pbs.twimg.com/amplify_video_thumb/2109317792545599488/img/mQnPg_6rNPXSTWC3.jpg)
+
+<a id="maybeeyes-sagrada-familia"></a>
+
+### Sagrada Família: interactive disassembly
+
+**maybeeyesnet** · Independent
+
+An isometric basilica model separates architectural assemblies; inherited Anatomy reference examples are excluded.
+
+[Original](https://maybeeyesnet.github.io/sagrada-familia-anatomy/) · [Code](https://github.com/maybeeyesnet/sagrada-familia-anatomy/blob/9998dcafc72967e6780954838e0f4a70af0ab771/index.html)
+
+[Preview](https://raw.githubusercontent.com/maybeeyesnet/sagrada-familia-anatomy/9998dcafc72967e6780954838e0f4a70af0ab771/sagrada-familia-poster-a4.png) · [Anatomy credit / source](https://github.com/maybeeyesnet/sagrada-familia-anatomy/blob/9998dcafc72967e6780954838e0f4a70af0ab771/index.html)
+
+<a id="kazi-cafe-layout"></a>
+
+### Cafe layout
+
+**KAZI-ABI** · Independent
+
+A Japanese creator’s standalone cafe-layout figure.
+
+[Original](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/cafe-layout-light.html)
+
+[Anatomy credit / source](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md)
+
+<a id="kazi-shibuya-reconstruction"></a>
+
+### Shibuya Station reconstruction
+
+**KAZI-ABI** · Independent
+
+An isometric station-reconstruction figure published as downloadable HTML.
+
+[Original](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/shibuya-reconstruction-light.html)
+
+[Anatomy credit / source](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md)
+
+<a id="community-mxx0b10-delhi-metro-terminus"></a>
+
+### Delhi Metro Magenta Line terminus
+
+**Mxx0b10** · Submission · pending
+
+A metro-terminus teaching model includes interactive railway operations.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/85) · [Code](https://github.com/Mxx0b10/anatomy-community/tree/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus) · [Prompt](../prompts/community-mxx0b10-delhi-metro-terminus.md)
+
+[Anatomy credit / source](https://github.com/Mxx0b10/anatomy-community/blob/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus/figure.json) · [Original metadata](https://github.com/Mxx0b10/anatomy-community/blob/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
 
 
 <a id="visual"></a>
@@ -2976,6 +3424,34 @@ An animated lunar globe in a gimbal against a pin-field star board.
 [Original](https://skills.wheresryan.sh/anatomy/community/masterthepixel/weather-clear-night) · [Code](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night) · [Prompt](../prompts/community-masterthepixel-weather-clear-night.md)
 
 [Preview](https://skills.wheresryan.sh/anatomy/media/community/cards/masterthepixel/weather-clear-night.webp) · [Anatomy credit / source](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json) · [Original metadata](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json)
+
+<a id="community-ericchen0121-galileos-ring-ii"></a>
+
+### Galileo&#x27;s Ring II
+
+**ericchen0121** · Submission · pending
+
+A top-down moving-ring model exposes parameter controls for drawing different patterns.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/102) · [Code](https://github.com/ericchen0121/anatomy-community/tree/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii) · [Prompt](../prompts/community-ericchen0121-galileos-ring-ii.md)
+
+[Anatomy credit / source](https://github.com/ericchen0121/anatomy-community/blob/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii/figure.json) · [Original metadata](https://github.com/ericchen0121/anatomy-community/blob/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii/figure.json)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
+
+<a id="community-masterthepixel-weather-freezing-rain"></a>
+
+### Rain-gauge weather series: rain, drizzle and ice
+
+**masterthepixel** · Submission · pending
+
+A tipping-bucket rain-gauge weather series groups rain, drizzle, showers and icing variants.
+
+[Original](https://github.com/wheresryan22/anatomy-community/pull/99) · [Code](https://github.com/masterthepixel/anatomy-community/tree/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain) · [Prompt](../prompts/community-masterthepixel-weather-freezing-rain.md)
+
+[Anatomy credit / source](https://github.com/masterthepixel/anatomy-community/blob/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain/figure.json) · [Original metadata](https://github.com/masterthepixel/anatomy-community/blob/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain/figure.json) · [Alternate original](https://github.com/wheresryan22/anatomy-community/pull/96) · [Alternate original](https://github.com/wheresryan22/anatomy-community/pull/97) · [Alternate original](https://github.com/wheresryan22/anatomy-community/pull/98)
+
+**Publication status:** Community submission awaiting upstream review as of 2026-10-30. Source and prompt only; no hosted demo or independent build verification is claimed.
 
 
 <a id="rendering"></a>
@@ -3311,6 +3787,27 @@ An early rendering study: Three reads.
 - [Deadweight pressure tester](#community-zintaen-deadweight-tester) — zintaen
 - [Geneva indexing drive](#community-zintaen-geneva-indexing-drive) — zintaen
 
+<a id="source-community-submissions"></a>
+
+### Community Submissions
+
+- [Bean-to-cup coffee machine](#community-azkian1-bean-to-cup-coffee-machine) — azkian1
+- [Galileo&#x27;s Ring II](#community-ericchen0121-galileos-ring-ii) — ericchen0121
+- [Kaco First Roller heart pen](#community-lakhanadewar-kaco-heart-pen) — lakhanadewar
+- [Roadster Inverted Loop Rig](#community-zhangyiabc-roadster-loop) — zhangyiabc
+- [Rain-gauge weather series: rain, drizzle and ice](#community-masterthepixel-weather-freezing-rain) — masterthepixel
+- [Inertial pendulum seismograph](#community-zintaen-seismograph-pendulum) — zintaen
+- [Tokamak magnetic fusion torus](#community-zintaen-spherical-tokamak) — zintaen
+- [Stirling heat engine](#community-zintaen-stirling-engine) — zintaen
+- [Bourdon tube pressure gauge](#community-zintaen-bourdon-pressure-gauge) — zintaen
+- [From NVMe SSD to floating-gate cell](#community-zintaen-ssd-nand-floating-gate) — zintaen
+- [Czochralski silicon crystal puller](#community-zintaen-czochralski-crystal-puller) — zintaen
+- [Scotch yoke harmonic actuator](#community-zintaen-scotch-yoke) — zintaen
+- [Centrifugal flyball governor](#community-zintaen-watt-governor) — zintaen
+- [Outside micrometer](#community-zintaen-outside-micrometer) — zintaen
+- [Michelson interferometer](#community-zintaen-michelson-interferometer) — zintaen
+- [Delhi Metro Magenta Line terminus](#community-mxx0b10-delhi-metro-terminus) — Mxx0b10
+
 <a id="source-independent-collections"></a>
 
 ### Independent Collections
@@ -3422,6 +3919,27 @@ An early rendering study: Three reads.
 - [CellCog: Hash map](#cellcog-hash-map) — CellCog
 - [CellCog: Binary search](#cellcog-binary-search) — CellCog
 - [CellCog: LRU cache](#cellcog-lru-cache) — CellCog
+- [Stirred-tank CFD workbench](#jaydubb-stirred-tank) — jaydubb0513
+- [Rocket launch: predict, try, explain](#ywedai-rocket-launch) — ywEdAi
+- [Mechanical keyboard: nine-scene teardown film](#laowang-mechanical-keyboard-film) — laowang5
+- [Android notification-channel city](#dodai-notification-city) — Dodai0419
+- [GenHTTP: the io_uring exchange](#genhttp-01-ioxide-exchange) — IAFahim
+- [GenHTTP: the zero-allocation coin sorter](#genhttp-02-coin-sorter) — IAFahim
+- [GenHTTP: the handler-tree signal box](#genhttp-03-signal-box) — IAFahim
+- [GenHTTP: the concern filter stack](#genhttp-04-filter-stack) — IAFahim
+- [GenHTTP: reflection-mapper card catalog](#genhttp-05-card-catalog) — IAFahim
+- [GenHTTP: the OpenAPI surveyor](#genhttp-06-surveyor) — IAFahim
+- [GenHTTP: cache validation and compression](#genhttp-07-cloakroom) — IAFahim
+- [GenHTTP: three server engines](#genhttp-08-turntable) — IAFahim
+- [Heart–lung machine: basic circuit](#jeremy-cpb-machine) — jeremyl861225
+- [Heart–lung machine: advanced circuit](#jeremy-cpb-advanced) — jeremyl861225
+- [Campus parking entrance gate](#zabduziz-parking-gate) — Zabduziz
+- [Sagrada Família: interactive disassembly](#maybeeyes-sagrada-familia) — maybeeyesnet
+- [Specimen: central nervous system](#specimen-central-nervous-system) — Julián Olarte
+- [Cafe layout](#kazi-cafe-layout) — KAZI-ABI
+- [Golf ball flight](#kazi-golf-ball-flight) — KAZI-ABI
+- [Shibuya Station reconstruction](#kazi-shibuya-reconstruction) — KAZI-ABI
+- [Searl Effect Generator: claim-audit model](#everest-searl-seg) — everest-an
 
 <a id="source-svg-assets"></a>
 

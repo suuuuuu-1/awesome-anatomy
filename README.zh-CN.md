@@ -6,15 +6,17 @@
 
 收集 [Anatomy](https://github.com/wheresryan22/anatomy) 及其衍生项目制作的交互机械、视觉讲解与 SVG 素材。先看作品，再打开原作或查看公开提示词。
 
-[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 265](https://img.shields.io/badge/Entries-265-blue)](docs/catalog.zh-CN.md) [![Published prompts: 68](https://img.shields.io/badge/Published%20prompts-68-green)](prompts/index.zh-CN.md) [![Updated: 2026-10-23](https://img.shields.io/badge/Updated-2026--10--23-informational)](docs/catalog.zh-CN.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: CC0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](LICENSE) [![Entries: 302](https://img.shields.io/badge/Entries-302-blue)](docs/catalog.zh-CN.md) [![Published prompts: 84](https://img.shields.io/badge/Published%20prompts-84-green)](prompts/index.zh-CN.md) [![Updated: 2026-10-30](https://img.shields.io/badge/Updated-2026--10--30-informational)](docs/catalog.zh-CN.md) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-**265 条带来源记录 · 36 个精选预览 · 68 条公开提示词。** 其中 19 个早期渲染实验单独分类。
+**302 条带来源记录 · 36 个精选预览 · 84 条公开提示词。** 其中 19 个早期渲染实验单独分类。
 
 [完整作品目录](docs/catalog.zh-CN.md) · [公开提示词](prompts/index.zh-CN.md) · [提交作品](https://github.com/suuuuuu-1/awesome-anatomy/issues/new?template=submit-work.yml)
 
 [机械与拆解](docs/catalog.zh-CN.md#mechanisms) · [计算机与算法](docs/catalog.zh-CN.md#computing) · [物理与能源](docs/catalog.zh-CN.md#physics) · [生命科学与材料](docs/catalog.zh-CN.md#biology) · [建筑与场景](docs/catalog.zh-CN.md#architecture) · [插画与动效](docs/catalog.zh-CN.md#visual)
 
 非官方整理，预览保留在原始地址。明暗版本、镜像与转发合并记录。
+
+目录含 16 条尚待上游审核的源码投稿，与 56 件已发布社区画廊作品分开列出。投稿记录不代表已有在线演示。
 
 <a id="featured"></a>
 
@@ -23,6 +25,21 @@
 点击图片打开原始演示或作者帖子。SVG 条目直接打开矢量文件；演示类条目可能只有视频。
 
 <table>
+<tr><td width="33%" align="center" valign="middle"><a href="https://julianolarteramos.github.io/sistema-nervioso-central/"><img src="https://raw.githubusercontent.com/julianolarteramos/sistema-nervioso-central/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/img/portada.png" width="260" alt="Specimen: central nervous system"></a></td><td width="33%" align="center" valign="middle"><a href="https://jeremyl861225.github.io/heart-lung-machine/cpb-advanced.html"><img src="https://raw.githubusercontent.com/jeremyl861225/heart-lung-machine/ba2f78fd8787cd88225a62683364ea40f6fb6e75/assets/cpb-advanced.png" width="260" alt="Heart–lung machine: advanced circuit"></a></td><td width="33%" align="center" valign="middle"><a href="https://zabduziz.github.io/parking-anatomy/demo/gerbang-masuk-light.html"><img src="https://raw.githubusercontent.com/Zabduziz/parking-anatomy/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/docs/media/gerbang-masuk-light.gif" width="260" alt="Campus parking entrance gate"></a></td></tr>
+<tr><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#specimen-central-nervous-system">Specimen: central nervous system</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#jeremy-cpb-advanced">Heart–lung machine: advanced circuit</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#zabduziz-parking-gate">Campus parking entrance gate</a></b></td></tr>
+<tr><td align="left" valign="top"><sub>Julián Olarte · 独立创作者作品</sub></td><td align="left" valign="top"><sub>jeremyl861225 · 独立创作者作品</sub></td><td align="left" valign="top"><sub>Zabduziz · 独立创作者作品</sub></td></tr>
+<tr><td align="left" valign="top">西班牙语脑与脊髓模型，提供分层拆解、切面、标注与示意性神经通路。</td><td align="left" valign="top">独立的进阶教学回路，加入离心动脉泵、辅助静脉引流与血液心麻痹液路径。</td><td align="left" valign="top">印度尼西亚语停车入口模型，串联车辆检测、身份核验与道闸动作。</td></tr>
+<tr><td align="left" valign="top"><a href="https://julianolarteramos.github.io/sistema-nervioso-central/">原作</a> · <a href="https://github.com/julianolarteramos/sistema-nervioso-central/blob/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/build.mjs">源码</a></td><td align="left" valign="top"><a href="https://jeremyl861225.github.io/heart-lung-machine/cpb-advanced.html">原作</a> · <a href="https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/cpb-advanced.html">源码</a></td><td align="left" valign="top"><a href="https://zabduziz.github.io/parking-anatomy/demo/gerbang-masuk-light.html">原作</a> · <a href="https://github.com/Zabduziz/parking-anatomy/blob/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/src/build.mjs">源码</a></td></tr>
+<tr><td width="33%" align="center" valign="middle"><a href="https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before.svg"><img src="https://raw.githubusercontent.com/Dodai0419/notif-city/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before-after.png" width="260" alt="Android notification-channel city"></a></td><td width="33%" align="center" valign="middle"><a href="https://maybeeyesnet.github.io/sagrada-familia-anatomy/"><img src="https://raw.githubusercontent.com/maybeeyesnet/sagrada-familia-anatomy/9998dcafc72967e6780954838e0f4a70af0ab771/sagrada-familia-poster-a4.png" width="260" alt="Sagrada Família: interactive disassembly"></a></td><td width="33%" align="center" valign="middle"><a href="https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/index.html"><img src="https://raw.githubusercontent.com/laowang5/anatomy-hyperframes-video/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/assets/figures/hero.svg" width="260" alt="Mechanical keyboard: nine-scene teardown film"></a></td></tr>
+<tr><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#dodai-notification-city">Android notification-channel city</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#maybeeyes-sagrada-familia">Sagrada Família: interactive disassembly</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#laowang-mechanical-keyboard-film">Mechanical keyboard: nine-scene teardown film</a></b></td></tr>
+<tr><td align="left" valign="top"><sub>Dodai0419 · 独立创作者作品</sub></td><td align="left" valign="top"><sub>maybeeyesnet · 独立创作者作品</sub></td><td align="left" valign="top"><sub>laowang5 · 独立创作者作品</sub></td></tr>
+<tr><td align="left" valign="top">将应用画成楼宇、通知渠道画成楼层，对照营销通知清理前后的变化。</td><td align="left" valign="top">等轴测大教堂模型，可分离建筑总成；仓库内继承的 Anatomy 示例不重复收录。</td><td align="left" valign="top">一部键盘拆解影片，依次展示键帽、轴体、霍尔感应、电路板、定位板、消音棉与外壳。</td></tr>
+<tr><td align="left" valign="top"><a href="https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before.svg">原作</a> · <a href="https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/notif_city.mjs">源码</a></td><td align="left" valign="top"><a href="https://maybeeyesnet.github.io/sagrada-familia-anatomy/">原作</a> · <a href="https://github.com/maybeeyesnet/sagrada-familia-anatomy/blob/9998dcafc72967e6780954838e0f4a70af0ab771/index.html">源码</a></td><td align="left" valign="top"><a href="https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/index.html">原作</a> · <a href="https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/geo/build-figures.mjs">源码</a></td></tr>
+<tr><td width="33%" align="center" valign="middle"><a href="https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/searl-seg-light.html"><img src="https://raw.githubusercontent.com/everest-an/searl-seg/5bc145df3f9412837f0403c3a98313acfbfd2d29/shots/light.png" width="260" alt="Searl Effect Generator: claim-audit model"></a></td><td width="33%" align="center" valign="middle"><a href="https://optimal-research-team.github.io/optimal-anatomy-figures/a4-heart/heart-light.html"><img src="https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a4-heart/assets/preview.jpg" width="260" alt="The beating heart"></a></td><td width="33%" align="center" valign="middle"><a href="https://optimal-research-team.github.io/optimal-anatomy-figures/a8-muscle-water/muscle-water-light.html"><img src="https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a8-muscle-water/assets/preview.jpg" width="260" alt="Water in and around the fibres"></a></td></tr>
+<tr><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#everest-searl-seg">Searl Effect Generator: claim-audit model</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#optimal-a4-heart">The beating heart</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#optimal-a8-muscle-water">Water in and around the fibres</a></b></td></tr>
+<tr><td align="left" valign="top"><sub>everest-an · 独立创作者作品</sub></td><td align="left" valign="top"><sub>Optimal-Research-Team · 独立创作者作品</sub></td><td align="left" valign="top"><sub>Optimal-Research-Team · 独立创作者作品</sub></td></tr>
+<tr><td align="left" valign="top">将推测性装置的结构重建与作者的能量、证据审计分开展示，不作为装置可行性的证明。</td><td align="left" valign="top">A health or equipment explainer; see the author’s review status.</td><td align="left" valign="top">A health or equipment explainer; see the author’s review status.</td></tr>
+<tr><td align="left" valign="top"><a href="https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/searl-seg-light.html">原作</a> · <a href="https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/build.mjs">源码</a></td><td align="left" valign="top"><a href="https://optimal-research-team.github.io/optimal-anatomy-figures/a4-heart/heart-light.html">原作</a> · <a href="https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a4-heart">源码</a></td><td align="left" valign="top"><a href="https://optimal-research-team.github.io/optimal-anatomy-figures/a8-muscle-water/muscle-water-light.html">原作</a> · <a href="https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a8-muscle-water">源码</a></td></tr>
 <tr><td width="33%" align="center" valign="middle"><a href="https://skills.wheresryan.sh/anatomy/community/camidev43/engine-lathe"><img src="https://skills.wheresryan.sh/anatomy/media/community/cards/camidev43/engine-lathe.webp" width="260" alt="Engine lathe, turning a bar"></a></td><td width="33%" align="center" valign="middle"><a href="https://luozhuzhang.github.io/starship-anatomy/"><img src="https://raw.githubusercontent.com/LuozhuZhang/starship-anatomy/49071a37c2b61eca50099440d62d4e2973bfa412/docs/images/final-light-apart.png" width="260" alt="Starship exploded atlas"></a></td><td width="33%" align="center" valign="middle"><a href="https://sentheecode.github.io/factory-anatomy/figures/stamping-jier-line-light.html"><img src="https://raw.githubusercontent.com/Sentheecode/factory-anatomy/b787c2a2493b5764c70bf66fbadbdeabfbc79f51/docs/gallery/thumbs/01-stamping-640.webp" width="260" alt="Press shop: five-press line"></a></td></tr>
 <tr><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#community-camidev43-engine-lathe">Engine lathe, turning a bar</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#luozhu-starship">Starship exploded atlas</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#factory-press-shop">Press shop: five-press line</a></b></td></tr>
 <tr><td align="left" valign="top"><sub>camidev43 · 社区作品</sub></td><td align="left" valign="top"><sub>LuozhuZhang · 独立创作者作品</sub></td><td align="left" valign="top"><sub>Senthee / 吴斌 &amp; assistants · 独立创作者作品</sub></td></tr>
@@ -68,21 +85,6 @@
 <tr><td align="left" valign="top"><sub>Ryan · 官方作品</sub></td><td align="left" valign="top"><sub>wheresryan22 · 社区作品</sub></td><td align="left" valign="top"><sub>zintaen · 社区作品</sub></td></tr>
 <tr><td align="left" valign="top">改变推力，查看地面试车中的风扇、压气机与涡轮。</td><td align="left" valign="top">试验台上的火箭发动机展示总成、管路与点火效果。</td><td align="left" valign="top">连续旋转的曲柄与驱动销带动四工位槽轮间歇分度。</td></tr>
 <tr><td align="left" valign="top"><a href="https://skills.wheresryan.sh/anatomy/collection/turbofan">原作</a> · <a href="https://github.com/wheresryan22/anatomy-figures/blob/main/dist/turbofan.js">源码</a></td><td align="left" valign="top"><a href="https://skills.wheresryan.sh/anatomy/community/wheresryan22/raptor-engine">原作</a> · <a href="https://github.com/wheresryan22/anatomy-community/tree/main/figures/wheresryan22/raptor-engine">源码</a> · <a href="prompts/community-wheresryan22-raptor-engine.md">提示词</a></td><td align="left" valign="top"><a href="https://skills.wheresryan.sh/anatomy/community/zintaen/geneva-indexing-drive">原作</a> · <a href="https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/zintaen/geneva-indexing-drive">源码</a> · <a href="prompts/community-zintaen-geneva-indexing-drive.md">提示词</a></td></tr>
-<tr><td width="33%" align="center" valign="middle"><a href="https://github.com/Meerav29/anatomy-tryouts/tree/main/chai-boilover"><img src="https://raw.githubusercontent.com/Meerav29/anatomy-tryouts/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/chai-boilover/preview.png" width="260" alt="Why milk boils over"></a></td><td width="33%" align="center" valign="middle"><a href="https://skills.wheresryan.sh/anatomy/community/entity/lever-espresso-machine"><img src="https://skills.wheresryan.sh/anatomy/media/community/cards/entity/lever-espresso-machine.webp" width="260" alt="Lever espresso machine"></a></td><td width="33%" align="center" valign="middle"><a href="https://modigmd.github.io/uncle-saleh-anatomy/"><img src="https://raw.githubusercontent.com/modigmd/uncle-saleh-anatomy/027ba592daeb8f69db1ae3cd763b42bcb06e6ebc/Uncle-Saleh-Live-Viewer.png" width="260" alt="Uncle Saleh robot: CAD cutaway"></a></td></tr>
-<tr><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#meerav-chai-boilover">Why milk boils over</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#community-entity-lever-espresso-machine">Lever espresso machine</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#uncle-saleh-robot">Uncle Saleh robot: CAD cutaway</a></b></td></tr>
-<tr><td align="left" valign="top"><sub>Meerav29 · 独立创作者作品</sub></td><td align="left" valign="top"><sub>entity · 社区作品</sub></td><td align="left" valign="top"><sub>modigmd · 独立创作者作品</sub></td></tr>
-<tr><td align="left" valign="top">比较牛奶表皮困住蒸汽与清水沸腾，解释溢锅现象。</td><td align="left" valign="top">杠杆咖啡机展示手动冲煮机构。</td><td align="left" valign="top">查看站立机器人保留的 CAD 零件，对照手、手臂、肩部与头部的动作展示。</td></tr>
-<tr><td align="left" valign="top"><a href="https://github.com/Meerav29/anatomy-tryouts/tree/main/chai-boilover">原作</a> · <a href="https://github.com/Meerav29/anatomy-tryouts/blob/a3785b46f1fa8eb2d0f21d61c3be48e54414b60b/chai-boilover/build.mjs">源码</a></td><td align="left" valign="top"><a href="https://skills.wheresryan.sh/anatomy/community/entity/lever-espresso-machine">原作</a> · <a href="https://github.com/wheresryan22/anatomy-community/tree/main/figures/entity/lever-espresso-machine">源码</a> · <a href="prompts/community-entity-lever-espresso-machine.md">提示词</a></td><td align="left" valign="top"><a href="https://github.com/modigmd/uncle-saleh-anatomy">原作</a> · <a href="https://modigmd.github.io/uncle-saleh-anatomy/">打开演示</a> · <a href="https://github.com/modigmd/uncle-saleh-anatomy/blob/027ba592daeb8f69db1ae3cd763b42bcb06e6ebc/Uncle-Saleh-Anatomy.html">源码</a></td></tr>
-<tr><td width="33%" align="center" valign="middle"><a href="https://skills.wheresryan.sh/anatomy/collection/bloom-filter"><img src="https://skills.wheresryan.sh/anatomy/thumbs/bloom-filter.webp" width="260" alt="Bloom filter"></a></td><td width="33%" align="center" valign="middle"><a href="https://skills.wheresryan.sh/anatomy/collection/message-queue"><img src="https://skills.wheresryan.sh/anatomy/thumbs/message-queue.webp" width="260" alt="Message queue"></a></td><td width="33%" align="center" valign="middle"><a href="https://skills.wheresryan.sh/anatomy/collection/rate-limiter"><img src="https://skills.wheresryan.sh/anatomy/thumbs/rate-limiter.webp" width="260" alt="Token bucket"></a></td></tr>
-<tr><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#official-bloom-filter">Bloom filter</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#official-message-queue">Message queue</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#official-rate-limiter">Token bucket</a></b></td></tr>
-<tr><td align="left" valign="top"><sub>Ryan · 官方作品</sub></td><td align="left" valign="top"><sub>Ryan · 官方作品</sub></td><td align="left" valign="top"><sub>Ryan · 官方作品</sub></td></tr>
-<tr><td align="left" valign="top">三个转轮和一排标记演示“可能存在”与“确定不存在”。</td><td align="left" valign="top">用弹珠轨道展示消息按顺序等待并通过闸门。</td><td align="left" valign="top">用代币分发装置解释突发容量与请求限流。</td></tr>
-<tr><td align="left" valign="top"><a href="https://skills.wheresryan.sh/anatomy/collection/bloom-filter">原作</a> · <a href="https://github.com/wheresryan22/anatomy-figures/blob/main/dist/bloom-filter.js">源码</a></td><td align="left" valign="top"><a href="https://skills.wheresryan.sh/anatomy/collection/message-queue">原作</a> · <a href="https://github.com/wheresryan22/anatomy-figures/blob/main/dist/message-queue.js">源码</a></td><td align="left" valign="top"><a href="https://skills.wheresryan.sh/anatomy/collection/rate-limiter">原作</a> · <a href="https://github.com/wheresryan22/anatomy-figures/blob/main/dist/rate-limiter.js">源码</a></td></tr>
-<tr><td width="33%" align="center" valign="middle"><a href="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/aero-vertiport-light.svg"><img src="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/aero-vertiport-light.svg" width="260" alt="Air taxi vertiport"></a></td><td width="33%" align="center" valign="middle"><a href="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/energy-turbine.svg"><img src="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/energy-turbine.svg" width="260" alt="Wind turbine"></a></td><td width="33%" align="center" valign="middle"><a href="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/synth-hero-light.svg"><img src="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/synth-hero-light.svg" width="260" alt="Synthesizer hero"></a></td></tr>
-<tr><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#asset-aero-vertiport">Air taxi vertiport</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#asset-energy-turbine">Wind turbine</a></b></td><td align="left" valign="top"><b><a href="docs/catalog.zh-CN.md#asset-synth-hero">Synthesizer hero</a></b></td></tr>
-<tr><td align="left" valign="top"><sub>Teddarific · SVG 素材</sub></td><td align="left" valign="top"><sub>Teddarific · SVG 素材</sub></td><td align="left" valign="top"><sub>Teddarific · SVG 素材</sub></td></tr>
-<tr><td align="left" valign="top">Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。</td><td align="left" valign="top">Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。</td><td align="left" valign="top">Teddarific 制作的独立 SVG 插画，附原始文件、源码及主题版本。</td></tr>
-<tr><td align="left" valign="top"><a href="https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/aero-vertiport-light.svg">原作</a> · <a href="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/aero-vertiport-light.svg">打开 SVG</a> · <a href="https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/aero-vertiport/build.mjs">源码</a></td><td align="left" valign="top"><a href="https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/energy-turbine.svg">原作</a> · <a href="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/energy-turbine.svg">打开 SVG</a> · <a href="https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/energy-turbine/build.mjs">源码</a></td><td align="left" valign="top"><a href="https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/synth-hero-light.svg">原作</a> · <a href="https://raw.githubusercontent.com/Teddarific/skills/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/synth-hero-light.svg">打开 SVG</a> · <a href="https://github.com/Teddarific/skills/blob/7e897b2c35b4b6c5a70410d9e4a976efa288d265/skills/anatomy-asset/examples/synth-hero/build.mjs">源码</a></td></tr>
 </table>
 
 [查看完整目录 →](docs/catalog.zh-CN.md)
@@ -93,40 +95,40 @@
 
 | 主题 | 条目 |
 |---|---:|
-| [机械与拆解](docs/catalog.zh-CN.md#mechanisms) | 100 |
-| [计算机与算法](docs/catalog.zh-CN.md#computing) | 57 |
-| [物理与能源](docs/catalog.zh-CN.md#physics) | 33 |
-| [生命科学与材料](docs/catalog.zh-CN.md#biology) | 26 |
-| [建筑与场景](docs/catalog.zh-CN.md#architecture) | 2 |
-| [插画与动效](docs/catalog.zh-CN.md#visual) | 28 |
+| [机械与拆解](docs/catalog.zh-CN.md#mechanisms) | 109 |
+| [计算机与算法](docs/catalog.zh-CN.md#computing) | 67 |
+| [物理与能源](docs/catalog.zh-CN.md#physics) | 42 |
+| [生命科学与材料](docs/catalog.zh-CN.md#biology) | 29 |
+| [建筑与场景](docs/catalog.zh-CN.md#architecture) | 6 |
+| [插画与动效](docs/catalog.zh-CN.md#visual) | 30 |
 | [早期渲染实验](docs/catalog.zh-CN.md#rendering) | 19 |
 
 <a id="latest"></a>
 
 ## 最近收录
 
-2026-10-23：补入 48 条社区与独立 Anatomy 作品，包括工厂场景、器官模型、设备拆解与交互课程。下列日期表示本站收录日期，不是作品创建时间。
+2026-10-30：新增 21 条独立作品与 16 条仅源码的社区投稿，并为 15 条已有作品补上作者预览图。下列日期表示本站收录日期，不是作品创建时间。
 
 | 收录日期 | 作品 | 作者 |
 |---|---|---|
-| 2026-10-23 | [Engine lathe, turning a bar](docs/catalog.zh-CN.md#community-camidev43-engine-lathe) | camidev43 |
-| 2026-10-23 | [Press shop: five-press line](docs/catalog.zh-CN.md#factory-press-shop) | Senthee / 吴斌 &amp; assistants |
-| 2026-10-23 | [Starship exploded atlas](docs/catalog.zh-CN.md#luozhu-starship) | LuozhuZhang |
-| 2026-10-23 | [Specimen: heart](docs/catalog.zh-CN.md#specimen-heart) | Julián Olarte |
-| 2026-10-23 | [Eight-port network switch](docs/catalog.zh-CN.md#hsiang-network-switch) | Hsiang-Tang |
-| 2026-10-23 | [Hydrogen salt-cavern storage](docs/catalog.zh-CN.md#oilfield-hydrogen-salt-cavern) | MatinShahin |
-| 2026-10-23 | [Eight-speed bicycle rear derailleur](docs/catalog.zh-CN.md#changyi-bicycle-derailleur) | changyi123456 |
-| 2026-10-23 | [Vacuum-cleaner impellers](docs/catalog.zh-CN.md#talpah-impellers) | talpah |
-| 2026-10-23 | [Spring letter scale for display glasses](docs/catalog.zh-CN.md#jkrachenfels-spring-scale) | Jkrachenfels |
-| 2026-10-23 | [The KICKR Bike, taken apart](docs/catalog.zh-CN.md#optimal-e3-kickr-bike) | Optimal-Research-Team |
-| 2026-10-23 | [CellCog: Hydraulic press](docs/catalog.zh-CN.md#cellcog-hydraulic-press) | CellCog |
-| 2026-10-23 | [From computer to ALU](docs/catalog.zh-CN.md#community-zintaen-computer-cpu-alu) | zintaen |
+| 2026-10-30 | [Bean-to-cup coffee machine](docs/catalog.zh-CN.md#community-azkian1-bean-to-cup-coffee-machine) | azkian1 |
+| 2026-10-30 | [Galileo&#x27;s Ring II](docs/catalog.zh-CN.md#community-ericchen0121-galileos-ring-ii) | ericchen0121 |
+| 2026-10-30 | [Kaco First Roller heart pen](docs/catalog.zh-CN.md#community-lakhanadewar-kaco-heart-pen) | lakhanadewar |
+| 2026-10-30 | [Roadster Inverted Loop Rig](docs/catalog.zh-CN.md#community-zhangyiabc-roadster-loop) | zhangyiabc |
+| 2026-10-30 | [GenHTTP: the io_uring exchange](docs/catalog.zh-CN.md#genhttp-01-ioxide-exchange) | IAFahim |
+| 2026-10-30 | [Specimen: central nervous system](docs/catalog.zh-CN.md#specimen-central-nervous-system) | Julián Olarte |
+| 2026-10-30 | [Stirred-tank CFD workbench](docs/catalog.zh-CN.md#jaydubb-stirred-tank) | jaydubb0513 |
+| 2026-10-30 | [Heart–lung machine: advanced circuit](docs/catalog.zh-CN.md#jeremy-cpb-advanced) | jeremyl861225 |
+| 2026-10-30 | [Mechanical keyboard: nine-scene teardown film](docs/catalog.zh-CN.md#laowang-mechanical-keyboard-film) | laowang5 |
+| 2026-10-30 | [Campus parking entrance gate](docs/catalog.zh-CN.md#zabduziz-parking-gate) | Zabduziz |
+| 2026-10-30 | [Shibuya Station reconstruction](docs/catalog.zh-CN.md#kazi-shibuya-reconstruction) | KAZI-ABI |
+| 2026-10-30 | [Rocket launch: predict, try, explain](docs/catalog.zh-CN.md#ywedai-rocket-launch) | ywEdAi |
 
 ## 从公开提示词开始
 
 每条提示词独立成页，保留作者、原始出处、可用预览和方便复制的公开文本。不补写作者没有公布的提示词。
 
-[查看全部 68 条提示词 →](prompts/index.zh-CN.md)
+[查看全部 84 条提示词 →](prompts/index.zh-CN.md)
 
 先找喜欢的作品，再查看原始提示词并改成自己的题材。公开文本未必包含全部修改过程，有提示词不代表一遍就能复现。
 
@@ -136,7 +138,8 @@
 |---|---:|
 | <a id="official-examples"></a>[官方作品](docs/catalog.zh-CN.md#source-official-examples) | 33 |
 | <a id="community-examples"></a>[社区作品](docs/catalog.zh-CN.md#source-community-examples) | 56 |
-| <a id="independent-collections"></a>[独立创作者作品](docs/catalog.zh-CN.md#source-independent-collections) | 107 |
+| <a id="community-submissions"></a>[待审核社区投稿](docs/catalog.zh-CN.md#source-community-submissions) | 16 |
+| <a id="independent-collections"></a>[独立创作者作品](docs/catalog.zh-CN.md#source-independent-collections) | 128 |
 | <a id="svg-assets"></a>[SVG 素材](docs/catalog.zh-CN.md#source-svg-assets) | 19 |
 | <a id="creator-showcases"></a>[X / Twitter 演示](docs/catalog.zh-CN.md#source-creator-showcases) | 25 |
 | <a id="reddit-showcases"></a>[Reddit 演示](docs/catalog.zh-CN.md#source-reddit-showcases) | 3 |
@@ -149,6 +152,7 @@
 ## 原始资源入口
 
 - [Anatomy Collection](https://skills.wheresryan.sh/anatomy/collection) · [Anatomy Community](https://skills.wheresryan.sh/anatomy/community)
+- [GenHTTP machines](https://iafahim.github.io/genhttp-anatomy/) · [Central nervous system](https://julianolarteramos.github.io/sistema-nervioso-central/) · [Parking gate](https://zabduziz.github.io/parking-anatomy/)
 - [Factory Anatomy](https://sentheecode.github.io/factory-anatomy/) · [Specimen](https://julianolarteramos.github.io/specimen/) · [CellCog gallery](https://cellcog.ai/blog/anatomy-claude-skill/)
 - [Amir Mushich](https://anatomy.amirmushich.com/) · [Meerav29](https://github.com/Meerav29/anatomy-tryouts) · [Studio Little Nice Things](https://anatomy-snowy.vercel.app/)
 

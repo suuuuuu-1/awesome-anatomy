@@ -1,17 +1,18 @@
 {
   "schema_version": 2,
-  "updated": "2026-10-23",
-  "entry_count": 265,
+  "updated": "2026-10-30",
+  "entry_count": 302,
   "counts": {
     "Official Examples": 33,
     "Rendering Studies": 19,
     "Community Examples": 56,
     "SVG Assets": 19,
-    "Independent Collections": 107,
+    "Independent Collections": 128,
     "Creator Showcases": 25,
     "Reddit Showcases": 3,
     "YouTube Demonstrations": 2,
-    "Bilibili Demonstrations": 1
+    "Bilibili Demonstrations": 1,
+    "Community Submissions": 16
   },
   "counting": "Distinct source-linked entries, including rendering studies. Theme variants, mirrors and reposts are grouped; separate implementations by different creators can remain. A published prompt is not a claim of successful reproduction.",
   "entries": [
@@ -3159,7 +3160,7 @@
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/01-menopause-thermostat/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/01-menopause-thermostat",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/01-menopause-thermostat/menopause-thermostat-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3177,11 +3178,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/02-inbody-580/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/02-inbody-580",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/02-inbody-580/inbody-580-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3199,11 +3201,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/03-iv-iron/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/03-iv-iron",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/03-iv-iron/iv-iron-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3221,11 +3224,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/04-creator-600/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/04-creator-600",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/04-creator-600/creator-600-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3243,11 +3247,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/05-vo2max/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/05-vo2max",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/05-vo2max/vo2max-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3265,11 +3270,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/06-vo2max-treadmill/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/06-vo2max-treadmill",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/06-vo2max-treadmill/vo2max-treadmill-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3287,11 +3293,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a1-gut-cell/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a1-gut-cell",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a1-gut-cell/gut-cell-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3309,11 +3316,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a2-hypothalamus/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a2-hypothalamus",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a2-hypothalamus/hypothalamus-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3331,11 +3339,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a3-finger-skin/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a3-finger-skin",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a3-finger-skin/finger-skin-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3353,11 +3362,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a4-heart/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a4-heart",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a4-heart/heart-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3375,11 +3385,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a5-alveolus/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a5-alveolus",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a5-alveolus/alveolus-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3397,11 +3408,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a6-red-cell-cycle/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a6-red-cell-cycle",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a6-red-cell-cycle/red-cell-cycle-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3419,11 +3431,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a7-knee/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a7-knee",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a7-knee/knee-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3441,11 +3454,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a8-muscle-water/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a8-muscle-water",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a8-muscle-water/muscle-water-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3463,11 +3477,12 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
-      "preview_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a9-bone-remodelling/assets/preview.jpg",
       "code_url": "https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a9-bone-remodelling",
       "live_url": "https://optimal-research-team.github.io/optimal-anatomy-figures/a9-bone-remodelling/bone-remodelling-light.html",
       "source_status": "Source linked; interaction not tested",
@@ -3485,7 +3500,8 @@
       "resources": [
         "live",
         "code"
-      ]
+      ],
+      "refreshed": "2026-10-30"
     },
     {
       "prompt": null,
@@ -6457,6 +6473,1059 @@
       "resources": [
         "live"
       ]
+    },
+    {
+      "id": "jaydubb-stirred-tank",
+      "category": "Independent Collections",
+      "title": "Stirred-tank CFD workbench",
+      "creator": "jaydubb0513",
+      "source_url": "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/rushton-water.html",
+      "code_url": "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/figure.mjs",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "description": "A cutaway mixing tank links impeller and fluid settings to illustrative flow fields; six presets are grouped.",
+      "description_zh": "搅拌罐剖面将叶轮与流体设置关联到示意流场；六种预设合并为一条。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/README.md",
+      "rights": "Link only; original work retains its terms; Anatomy kit MIT",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code"
+      ],
+      "alternate_urls": [
+        "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/anchor-syrup.html",
+        "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/carbopol-cavern.html",
+        "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/dual-pbt.html",
+        "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/hydrofoil-cone-light.html",
+        "https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/unbaffled-vortex.html"
+      ]
+    },
+    {
+      "id": "ywedai-rocket-launch",
+      "category": "Independent Collections",
+      "title": "Rocket launch: predict, try, explain",
+      "creator": "ywEdAi",
+      "source_url": "https://ywedai.github.io/teachable-figures/rocket-launch.html",
+      "code_url": "https://github.com/ywEdAi/teachable-figures/blob/049f476d6188a4cd568550de7196fa94c12f4a1a/scripts/build-rocket-visual.mjs",
+      "live_url": "https://ywedai.github.io/teachable-figures/rocket-launch.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "An idealised rocket lesson combines Anatomy-built cutaway geometry with controls for thrust, support and coasting.",
+      "description_zh": "理想化火箭课程，将 Anatomy 生成的剖面结构与推力、支撑及滑行控制结合。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/ywEdAi/teachable-figures/blob/049f476d6188a4cd568550de7196fa94c12f4a1a/scripts/build-rocket-visual.mjs",
+      "rights": "Link only; Anatomy contributions MIT; original lesson material has no additional reuse license",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "laowang-mechanical-keyboard-film",
+      "category": "Independent Collections",
+      "title": "Mechanical keyboard: nine-scene teardown film",
+      "creator": "laowang5",
+      "source_url": "https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/index.html",
+      "code_url": "https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/geo/build-figures.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/laowang5/anatomy-hyperframes-video/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/assets/figures/hero.svg",
+      "prompt": null,
+      "description": "A single keyboard film moves through keycaps, switches, Hall sensing, PCB, plate, foam and case.",
+      "description_zh": "一部键盘拆解影片，依次展示键帽、轴体、霍尔感应、电路板、定位板、消音棉与外壳。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG figures / video composition",
+      "resources": [
+        "code",
+        "video"
+      ],
+      "alternate_urls": [
+        "https://github.com/user-attachments/assets/edd718c8-c0b7-4a1f-b5f8-50cfa9c46c7a"
+      ]
+    },
+    {
+      "id": "dodai-notification-city",
+      "category": "Independent Collections",
+      "title": "Android notification-channel city",
+      "creator": "Dodai0419",
+      "source_url": "https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before.svg",
+      "code_url": "https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/notif_city.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/Dodai0419/notif-city/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before-after.png",
+      "prompt": null,
+      "description": "Apps become buildings and notification channels become floors in before/after views of marketing notifications.",
+      "description_zh": "将应用画成楼宇、通知渠道画成楼层，对照营销通知清理前后的变化。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/vendor/iso.mjs",
+      "rights": "Original code MIT; vendored Anatomy geometry MIT; see source notices",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "genhttp-01-ioxide-exchange",
+      "category": "Independent Collections",
+      "title": "GenHTTP: the io_uring exchange",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/01-ioxide-exchange/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/01-ioxide-exchange/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/01-ioxide-exchange/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "An exchange board represents per-core Ioxide reactors and their network connections.",
+      "description_zh": "以交换台表现 Ioxide 的每核心反应器与网络连接。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "genhttp-02-coin-sorter",
+      "category": "Independent Collections",
+      "title": "GenHTTP: the zero-allocation coin sorter",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/02-coin-sorter/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/02-coin-sorter/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/02-coin-sorter/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "A circulating coin sorter illustrates pooled request reuse and different response outcomes.",
+      "description_zh": "用循环分币机讲解请求池复用与不同响应结果。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "genhttp-03-signal-box",
+      "category": "Independent Collections",
+      "title": "GenHTTP: the handler-tree signal box",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/03-signal-box/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/03-signal-box/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/03-signal-box/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "Railway points represent handler selection, including the no-handler route.",
+      "description_zh": "用铁路道岔表现处理器选择及未匹配路由。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "genhttp-04-filter-stack",
+      "category": "Independent Collections",
+      "title": "GenHTTP: the concern filter stack",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/04-filter-stack/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/04-filter-stack/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/04-filter-stack/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "A stack of filters represents the ordered processing of request concerns.",
+      "description_zh": "通过滤层堆栈表现请求关注点的处理顺序。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "genhttp-05-card-catalog",
+      "category": "Independent Collections",
+      "title": "GenHTTP: reflection-mapper card catalog",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/05-card-catalog/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/05-card-catalog/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/05-card-catalog/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "Method cards illustrate parameter binding and the compiled mapping path.",
+      "description_zh": "通过方法卡片讲解参数绑定与编译后的映射路径。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "genhttp-06-surveyor",
+      "category": "Independent Collections",
+      "title": "GenHTTP: the OpenAPI surveyor",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/06-surveyor/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/06-surveyor/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/06-surveyor/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "A surveyor and plotter represent documentation derived from a handler tree.",
+      "description_zh": "用测量仪与绘图机表现从处理器树生成接口文档。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "genhttp-07-cloakroom",
+      "category": "Independent Collections",
+      "title": "GenHTTP: cache validation and compression",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/07-cloakroom/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/07-cloakroom/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/07-cloakroom/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "A cloakroom metaphor connects ETag matching, cached responses and compression.",
+      "description_zh": "通过衣帽间隐喻关联 ETag 匹配、缓存响应与压缩。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "genhttp-08-turntable",
+      "category": "Independent Collections",
+      "title": "GenHTTP: three server engines",
+      "creator": "IAFahim",
+      "source_url": "https://iafahim.github.io/genhttp-anatomy/figures/08-turntable/index-light.html",
+      "code_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/08-turntable/build.mjs",
+      "live_url": "https://iafahim.github.io/genhttp-anatomy/figures/08-turntable/index-light.html",
+      "preview_url": null,
+      "prompt": null,
+      "description": "A railway turntable connects one application to Internal, Kestrel or Ioxide.",
+      "description_zh": "铁路转盘将同一个应用连接到 Internal、Kestrel 或 Ioxide 引擎。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md",
+      "rights": "Original project MIT; component/media terms may differ",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "jeremy-cpb-machine",
+      "category": "Independent Collections",
+      "title": "Heart–lung machine: basic circuit",
+      "creator": "jeremyl861225",
+      "source_url": "https://jeremyl861225.github.io/heart-lung-machine/cpb-machine.html",
+      "code_url": "https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/cpb-machine.html",
+      "live_url": "https://jeremyl861225.github.io/heart-lung-machine/cpb-machine.html",
+      "preview_url": "https://raw.githubusercontent.com/jeremyl861225/heart-lung-machine/ba2f78fd8787cd88225a62683364ea40f6fb6e75/assets/cpb-machine.png",
+      "prompt": null,
+      "description": "A teaching circuit follows a basic cardiopulmonary-bypass configuration with roller pumps and cannulation points.",
+      "description_zh": "教学回路展示采用滚轮泵的基础体外循环配置与插管位置。",
+      "topic": "biology",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/README.md",
+      "rights": "Link only; original work retains its terms; Anatomy kit MIT",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "jeremy-cpb-advanced",
+      "category": "Independent Collections",
+      "title": "Heart–lung machine: advanced circuit",
+      "creator": "jeremyl861225",
+      "source_url": "https://jeremyl861225.github.io/heart-lung-machine/cpb-advanced.html",
+      "code_url": "https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/cpb-advanced.html",
+      "live_url": "https://jeremyl861225.github.io/heart-lung-machine/cpb-advanced.html",
+      "preview_url": "https://raw.githubusercontent.com/jeremyl861225/heart-lung-machine/ba2f78fd8787cd88225a62683364ea40f6fb6e75/assets/cpb-advanced.png",
+      "prompt": null,
+      "description": "A separate advanced teaching circuit adds a centrifugal arterial pump, assisted venous drainage and blood cardioplegia.",
+      "description_zh": "独立的进阶教学回路，加入离心动脉泵、辅助静脉引流与血液心麻痹液路径。",
+      "topic": "biology",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/README.md",
+      "rights": "Link only; original work retains its terms; Anatomy kit MIT",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "zabduziz-parking-gate",
+      "category": "Independent Collections",
+      "title": "Campus parking entrance gate",
+      "creator": "Zabduziz",
+      "source_url": "https://zabduziz.github.io/parking-anatomy/demo/gerbang-masuk-light.html",
+      "code_url": "https://github.com/Zabduziz/parking-anatomy/blob/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/src/build.mjs",
+      "live_url": "https://zabduziz.github.io/parking-anatomy/demo/gerbang-masuk-light.html",
+      "preview_url": "https://raw.githubusercontent.com/Zabduziz/parking-anatomy/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/docs/media/gerbang-masuk-light.gif",
+      "prompt": null,
+      "description": "An Indonesian-language gate model traces vehicle detection, identity checks and barrier operation.",
+      "description_zh": "印度尼西亚语停车入口模型，串联车辆检测、身份核验与道闸动作。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/Zabduziz/parking-anatomy/blob/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/README.md",
+      "rights": "Link only; original work retains its terms; Anatomy kit MIT",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "maybeeyes-sagrada-familia",
+      "category": "Independent Collections",
+      "title": "Sagrada Família: interactive disassembly",
+      "creator": "maybeeyesnet",
+      "source_url": "https://maybeeyesnet.github.io/sagrada-familia-anatomy/",
+      "code_url": "https://github.com/maybeeyesnet/sagrada-familia-anatomy/blob/9998dcafc72967e6780954838e0f4a70af0ab771/index.html",
+      "live_url": "https://maybeeyesnet.github.io/sagrada-familia-anatomy/",
+      "preview_url": "https://raw.githubusercontent.com/maybeeyesnet/sagrada-familia-anatomy/9998dcafc72967e6780954838e0f4a70af0ab771/sagrada-familia-poster-a4.png",
+      "prompt": null,
+      "description": "An isometric basilica model separates architectural assemblies; inherited Anatomy reference examples are excluded.",
+      "description_zh": "等轴测大教堂模型，可分离建筑总成；仓库内继承的 Anatomy 示例不重复收录。",
+      "topic": "architecture",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/maybeeyesnet/sagrada-familia-anatomy/blob/9998dcafc72967e6780954838e0f4a70af0ab771/index.html",
+      "rights": "Link only; original work retains its terms; Anatomy kit MIT",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "specimen-central-nervous-system",
+      "category": "Independent Collections",
+      "title": "Specimen: central nervous system",
+      "creator": "Julián Olarte",
+      "source_url": "https://julianolarteramos.github.io/sistema-nervioso-central/",
+      "code_url": "https://github.com/julianolarteramos/sistema-nervioso-central/blob/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/build.mjs",
+      "live_url": "https://julianolarteramos.github.io/sistema-nervioso-central/",
+      "preview_url": "https://raw.githubusercontent.com/julianolarteramos/sistema-nervioso-central/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/img/portada.png",
+      "prompt": null,
+      "description": "A Spanish-language brain-and-spinal-cord model offers layered disassembly, sections, labels and schematic pathways.",
+      "description_zh": "西班牙语脑与脊髓模型，提供分层拆解、切面、标注与示意性神经通路。",
+      "topic": "biology",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/julianolarteramos/sistema-nervioso-central/blob/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/README.md",
+      "rights": "Original code and text MIT; reference images retain their individual licenses",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code",
+        "live"
+      ]
+    },
+    {
+      "id": "kazi-cafe-layout",
+      "category": "Independent Collections",
+      "title": "Cafe layout",
+      "creator": "KAZI-ABI",
+      "source_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/cafe-layout-light.html",
+      "code_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/cafe-layout-light.html",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "description": "A Japanese creator’s standalone cafe-layout figure.",
+      "description_zh": "日本作者制作的独立咖啡馆布局图。",
+      "topic": "architecture",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md",
+      "rights": "Repository Apache-2.0; embedded Anatomy components retain their upstream terms; link only",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "kazi-golf-ball-flight",
+      "category": "Independent Collections",
+      "title": "Golf ball flight",
+      "creator": "KAZI-ABI",
+      "source_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/golf-ball-flight-light.html",
+      "code_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/golf-ball-flight-light.html",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "description": "A standalone golf-ball-flight explainer built with the Anatomy renderer.",
+      "description_zh": "使用 Anatomy 渲染器制作的独立高尔夫球飞行图解。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md",
+      "rights": "Repository Apache-2.0; embedded Anatomy components retain their upstream terms; link only",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "kazi-shibuya-reconstruction",
+      "category": "Independent Collections",
+      "title": "Shibuya Station reconstruction",
+      "creator": "KAZI-ABI",
+      "source_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/shibuya-reconstruction-light.html",
+      "code_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/shibuya-reconstruction-light.html",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": null,
+      "description": "An isometric station-reconstruction figure published as downloadable HTML.",
+      "description_zh": "以可下载 HTML 发布的涩谷站改造等轴测图解。",
+      "topic": "architecture",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md",
+      "rights": "Repository Apache-2.0; embedded Anatomy components retain their upstream terms; link only",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "everest-searl-seg",
+      "category": "Independent Collections",
+      "title": "Searl Effect Generator: claim-audit model",
+      "creator": "everest-an",
+      "source_url": "https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/searl-seg-light.html",
+      "code_url": "https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/build.mjs",
+      "live_url": null,
+      "preview_url": "https://raw.githubusercontent.com/everest-an/searl-seg/5bc145df3f9412837f0403c3a98313acfbfd2d29/shots/light.png",
+      "prompt": null,
+      "description": "A reconstruction separates a speculative machine’s components from its author’s energy and evidence audit.",
+      "description_zh": "将推测性装置的结构重建与作者的能量、证据审计分开展示，不作为装置可行性的证明。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "anatomy_evidence_url": "https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/README.md",
+      "rights": "Original project MIT; inline Anatomy kit MIT; see source notices",
+      "source_status": "Source linked; interaction not tested",
+      "format": "SVG / HTML",
+      "resources": [
+        "code"
+      ]
+    },
+    {
+      "id": "community-azkian1-bean-to-cup-coffee-machine",
+      "category": "Community Submissions",
+      "title": "Bean-to-cup coffee machine",
+      "creator": "azkian1",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/104",
+      "code_url": "https://github.com/azkian1/anatomy-community/tree/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain how an automatic bean-to-cup coffee machine works: bean hopper, burr grinder, tamping brew unit, water tank, pump, thermoblock, milk frother, sugar dispenser, grounds bin; light theme, English, 1x/2x/5x speed, interactive",
+      "prompt_source_url": "https://github.com/azkian1/anatomy-community/blob/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine/figure.json",
+      "prompt_status": "published",
+      "description": "Trace beans, grinding, brewing, water heating, milk and waste paths in an automatic coffee machine.",
+      "description_zh": "追踪全自动咖啡机的豆仓、研磨、萃取、加热、奶路与废料路径。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "created": "2026-10-30",
+      "metadata_url": "https://github.com/azkian1/anatomy-community/blob/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine/figure.json",
+      "anatomy_evidence_url": "https://github.com/azkian1/anatomy-community/blob/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG",
+      "tags": [],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/104"
+    },
+    {
+      "id": "community-ericchen0121-galileos-ring-ii",
+      "category": "Community Submissions",
+      "title": "Galileo's Ring II",
+      "creator": "ericchen0121",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/102",
+      "code_url": "https://github.com/ericchen0121/anatomy-community/tree/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "show a top down view of galileos ring 2, as described by this video's cc: https://www.youtube.com/shorts/l1rYPY-dCAk and images from there from 40s-50s in the video show it in action. i want to see it moving and be able to change parameters to get different patterns. ultimately the finished anatomy will show the patterns playing from above",
+      "prompt_source_url": "https://github.com/ericchen0121/anatomy-community/blob/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii/figure.json",
+      "prompt_status": "published",
+      "description": "A top-down moving-ring model exposes parameter controls for drawing different patterns.",
+      "description_zh": "俯视运动圆环模型，通过参数控制生成不同图案。",
+      "topic": "visual",
+      "added": "2026-10-30",
+      "created": "2026-10-26",
+      "metadata_url": "https://github.com/ericchen0121/anatomy-community/blob/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii/figure.json",
+      "anatomy_evidence_url": "https://github.com/ericchen0121/anatomy-community/blob/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG",
+      "tags": [],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/102"
+    },
+    {
+      "id": "community-lakhanadewar-kaco-heart-pen",
+      "category": "Community Submissions",
+      "title": "Kaco First Roller heart pen",
+      "creator": "lakhanadewar",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/101",
+      "code_url": "https://github.com/lakhanadewar/anatomy-community/tree/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Create an anatomy breakdown of the Kaco First Roller Heart Pen: minimalist matte white or black twist-action rollerball, clip-less, flat cap top. Twisting extends a 0.5 mm fine tip from a tapered nose cone while a hidden 3D red heart shifts into a clear window on the upper barrel; twisting back hides both. Include the lower grip barrel, mid-body twist seam, translucent window, red heart core, upper barrel and quick-dry black gel ink refill, mapped top to bottom and outer to inner.",
+      "prompt_source_url": "https://github.com/lakhanadewar/anatomy-community/blob/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen/figure.json",
+      "prompt_status": "published",
+      "description": "A twist pen links tip extension to a moving heart ornament behind a clear window.",
+      "description_zh": "旋转笔将笔尖伸缩与透明窗口后的爱心饰件联动。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "created": "2026-10-25",
+      "metadata_url": "https://github.com/lakhanadewar/anatomy-community/blob/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen/figure.json",
+      "anatomy_evidence_url": "https://github.com/lakhanadewar/anatomy-community/blob/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG",
+      "tags": [
+        "pen",
+        "mechanism",
+        "twist"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/101"
+    },
+    {
+      "id": "community-zhangyiabc-roadster-loop",
+      "category": "Community Submissions",
+      "title": "Roadster Inverted Loop Rig",
+      "creator": "zhangyiabc",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/100",
+      "code_url": "https://github.com/zhangyiabc/anatomy-community/tree/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Draw the full sequence of a Roadster inverted ramp run and mid-air spin landing: a C-shaped open steel truss ramp; twin underbody turbine fans use negative-pressure adhesion to climb a 90 degree vertical wall, crest past the vertical upside down, and leave the lip inverted at speed; mid-air, cold-gas thrusters barrel-roll it 180 degrees upright, then trim attitude, keeping forward momentum along a parabolic arc; four main columns fire for a smooth powered descent, a rolling touchdown with no bounce, and a taxi out of the fog. Includes strobe ghosts and live telemetry.",
+      "prompt_source_url": "https://github.com/zhangyiabc/anatomy-community/blob/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop/figure.json",
+      "prompt_status": "published",
+      "description": "A fictional stunt rig illustrates an inverted ramp run, mid-air attitude changes and a powered landing.",
+      "description_zh": "虚构特技台演示倒置爬坡、空中姿态变化与动力着陆，不代表真实车辆能力。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "created": "2026-10-24",
+      "metadata_url": "https://github.com/zhangyiabc/anatomy-community/blob/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop/figure.json",
+      "anatomy_evidence_url": "https://github.com/zhangyiabc/anatomy-community/blob/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG",
+      "tags": [
+        "roadster",
+        "loop",
+        "stunt"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/100"
+    },
+    {
+      "id": "community-masterthepixel-weather-freezing-rain",
+      "category": "Community Submissions",
+      "title": "Rain-gauge weather series: rain, drizzle and ice",
+      "creator": "masterthepixel",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/99",
+      "code_url": "https://github.com/masterthepixel/anatomy-community/tree/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "An animated weather icon for \"Freezing rain\", drawn as a real object (tipping-bucket rain gauge glazed with ice, icicles growing from every edge) with many small precise parts. One of a set of weather icons for a daily local-weather post.",
+      "prompt_source_url": "https://github.com/masterthepixel/anatomy-community/blob/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain/figure.json",
+      "prompt_status": "published",
+      "description": "A tipping-bucket rain-gauge weather series groups rain, drizzle, showers and icing variants.",
+      "description_zh": "翻斗式雨量计天气系列，将雨、毛毛雨、阵雨与结冰版本合并收录。",
+      "topic": "visual",
+      "added": "2026-10-30",
+      "created": "2026-10-22",
+      "metadata_url": "https://github.com/masterthepixel/anatomy-community/blob/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain/figure.json",
+      "anatomy_evidence_url": "https://github.com/masterthepixel/anatomy-community/blob/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG",
+      "tags": [
+        "weather",
+        "freezing-rain"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/99",
+      "alternate_urls": [
+        "https://github.com/wheresryan22/anatomy-community/pull/96",
+        "https://github.com/wheresryan22/anatomy-community/pull/97",
+        "https://github.com/wheresryan22/anatomy-community/pull/98"
+      ]
+    },
+    {
+      "id": "community-zintaen-seismograph-pendulum",
+      "category": "Community Submissions",
+      "title": "Inertial pendulum seismograph",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/95",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain how an inertial horizontal pendulum seismograph works: how a suspended heavy proof mass stays nearly stationary by inertia while the bedrock frame, suspension mast, eddy-current damper magnet, and rotating recording drum oscillate beneath its magnifying mechanical stylus.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum/figure.json",
+      "prompt_status": "published",
+      "description": "A suspended proof mass and stylus illustrate relative motion between an inertial pendulum and its frame.",
+      "description_zh": "通过悬挂质量块与描针，展示惯性摆和机架之间的相对运动。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "created": "2026-10-21",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + 3D",
+      "tags": [
+        "3d",
+        "seismograph",
+        "geophysics",
+        "pendulum",
+        "inertia",
+        "mechanics"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/95"
+    },
+    {
+      "id": "community-zintaen-spherical-tokamak",
+      "category": "Community Submissions",
+      "title": "Tokamak magnetic fusion torus",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/94",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain how D-shaped toroidal field coils and an inductive central solenoid twist magnetic field lines into a helical cage that cancels grad-B plasma drift in a spherical tokamak.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak/figure.json",
+      "prompt_status": "published",
+      "description": "A tokamak model links toroidal coils and a central solenoid to a schematic plasma field.",
+      "description_zh": "托卡马克模型将环向线圈、中央螺线管与示意性等离子体场联系起来。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "created": "2026-10-21",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + 3D",
+      "tags": [
+        "3d",
+        "fusion",
+        "plasma",
+        "tokamak",
+        "magnetism",
+        "physics"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/94"
+    },
+    {
+      "id": "community-zintaen-stirling-engine",
+      "category": "Community Submissions",
+      "title": "Stirling heat engine",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/93",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Build an interactive 3D Beta-type coaxial displacer Stirling heat engine showing how a 90°-out-of-phase displacer shuttles sealed working gas between a heated hot cap and a finned cold sink to drive a power piston and coupled pressure-volume indicator, verified across all 1440 degrees with turn-audit and turn-check.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine/figure.json",
+      "prompt_status": "published",
+      "description": "A Stirling-engine model connects displacer motion, hot and cold spaces and a power piston.",
+      "description_zh": "斯特林发动机模型，关联排出器运动、冷热腔与动力活塞。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "created": "2026-10-20",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + 3D",
+      "tags": [
+        "3d",
+        "thermodynamics",
+        "stirling-engine",
+        "heat-engine",
+        "kinematics"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/93"
+    },
+    {
+      "id": "community-zintaen-bourdon-pressure-gauge",
+      "category": "Community Submissions",
+      "title": "Bourdon tube pressure gauge",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/92",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain how internal fluid pressure uncoils a flattened C-section bronze Bourdon tube and amplifies millimetre tip travel through a hinged link and sector-and-pinion gear train to sweep a 270-degree dial pointer.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge/figure.json",
+      "prompt_status": "published",
+      "description": "A Bourdon tube drives a link, sector gear and pointer as the indicated pressure changes.",
+      "description_zh": "压力示值变化时，波登管经连杆、扇形齿轮带动指针。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "created": "2026-10-21",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + 3D",
+      "tags": [
+        "3d",
+        "mechanics",
+        "pressure",
+        "gauge",
+        "kinematics",
+        "instrumentation"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/92"
+    },
+    {
+      "id": "community-zintaen-ssd-nand-floating-gate",
+      "category": "Community Submissions",
+      "title": "From NVMe SSD to floating-gate cell",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/91",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Build a three-level recursive cutaway zooming from an M.2 NVMe solid-state drive PCB into its 3D NAND flash package and down to a 4-cell floating-gate MOSFET string with Fowler–Nordheim tunneling program, erase, and read states.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate/figure.json",
+      "prompt_status": "published",
+      "description": "Zoom from an NVMe board to a NAND package and a schematic floating-gate cell string.",
+      "description_zh": "从 NVMe 电路板逐层放大至 NAND 封装与示意性浮栅单元串。",
+      "topic": "computing",
+      "added": "2026-10-30",
+      "created": "2026-10-20",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG",
+      "tags": [
+        "3d",
+        "storage",
+        "semiconductors",
+        "computer-architecture",
+        "cutaway"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/91"
+    },
+    {
+      "id": "community-zintaen-czochralski-crystal-puller",
+      "category": "Community Submissions",
+      "title": "Czochralski silicon crystal puller",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/90",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Build an interactive 3D and WebGL Czochralski single-crystal silicon puller with an RF-heated quartz crucible, a live WebGL thermal-convection melt pool and glowing solidification meniscus, a cantilevered seed pullhead lifting a monocrystalline silicon boule, and a coupled pull-rate control dial.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller/figure.json",
+      "prompt_status": "published",
+      "description": "A crystal-puller model connects a heated melt, seed holder and silicon-boule withdrawal.",
+      "description_zh": "晶体提拉炉模型，将加热熔体、籽晶架与硅棒提拉联系起来。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "created": "2026-10-20",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + WebGL",
+      "tags": [
+        "webgl",
+        "crystal-growth",
+        "semiconductors",
+        "crystallography",
+        "materials-science"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/90"
+    },
+    {
+      "id": "community-zintaen-scotch-yoke",
+      "category": "Community Submissions",
+      "title": "Scotch yoke harmonic actuator",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/89",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Build an interactive 3D Scotch yoke harmonic actuator with a continuously rotating eccentric crank wheel and brass crankpin, a reciprocating slotted yoke carriage, and a coupled harmonic phase indicator dial, verified across all 1440 degrees with turn-audit and turn-check.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke/figure.json",
+      "prompt_status": "published",
+      "description": "An eccentric crankpin drives a slotted yoke through reciprocating motion.",
+      "description_zh": "偏心曲柄销带动带槽滑架往复运动。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "created": "2026-10-20",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + 3D",
+      "tags": [
+        "3d",
+        "mechanics",
+        "scotch-yoke",
+        "kinematics",
+        "harmonic-motion"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/89"
+    },
+    {
+      "id": "community-zintaen-watt-governor",
+      "category": "Community Submissions",
+      "title": "Centrifugal flyball governor",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/88",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Build an interactive 3D Watt centrifugal flyball governor with a rotating vertical spindle and twin brass flyweights, a rising collar sleeve, and a coupled steam throttle butterfly valve gauge, verified across all 1440 degrees with turn-audit and turn-check.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor/figure.json",
+      "prompt_status": "published",
+      "description": "A rotating flyball governor links rising weights to a sleeve and steam-throttle indicator.",
+      "description_zh": "旋转飞球调速器，将飞球升降与套筒、蒸汽节流示值联动。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "created": "2026-10-20",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + 3D",
+      "tags": [
+        "3d",
+        "mechanics",
+        "control-systems",
+        "governor",
+        "kinematics"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/88"
+    },
+    {
+      "id": "community-zintaen-outside-micrometer",
+      "category": "Community Submissions",
+      "title": "Outside micrometer",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/87",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain how a precision outside micrometer converts rotation of a 50-division knurled thimble on a 0.50 mm pitch lead screw into 0.01 mm axial spindle travel between a lapped carbide anvil and a coupled comparator dial.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer/figure.json",
+      "prompt_status": "published",
+      "description": "A micrometer model links thimble rotation to spindle travel and measurement scales.",
+      "description_zh": "千分尺模型，将微分筒旋转与测微螺杆位移、刻度联系起来。",
+      "topic": "mechanisms",
+      "added": "2026-10-30",
+      "created": "2026-10-20",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + 3D",
+      "tags": [
+        "metrology",
+        "micrometer",
+        "calibration",
+        "mechanism",
+        "engineering"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/87"
+    },
+    {
+      "id": "community-zintaen-michelson-interferometer",
+      "category": "Community Submissions",
+      "title": "Michelson interferometer",
+      "creator": "zintaen",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/86",
+      "code_url": "https://github.com/zintaen/anatomy-community/tree/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Explain how a Michelson interferometer splits a coherent He-Ne laser beam across a fixed reference arm and a micrometer-driven delay arm, recombining the wavefronts into circular Haidinger interference fringes that shift by one full ring per half-wavelength of mirror travel.",
+      "prompt_source_url": "https://github.com/zintaen/anatomy-community/blob/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer/figure.json",
+      "prompt_status": "published",
+      "description": "A split-beam optical bench links mirror travel to a changing interference pattern.",
+      "description_zh": "分光光学台将反射镜位移与干涉图案变化联动。",
+      "topic": "physics",
+      "added": "2026-10-30",
+      "created": "2026-10-20",
+      "metadata_url": "https://github.com/zintaen/anatomy-community/blob/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer/figure.json",
+      "anatomy_evidence_url": "https://github.com/zintaen/anatomy-community/blob/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG + WebGL",
+      "tags": [
+        "optics",
+        "interferometer",
+        "laser",
+        "physics",
+        "metrology",
+        "waves"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/86"
+    },
+    {
+      "id": "community-mxx0b10-delhi-metro-terminus",
+      "category": "Community Submissions",
+      "title": "Delhi Metro Magenta Line terminus",
+      "creator": "Mxx0b10",
+      "source_url": "https://github.com/wheresryan22/anatomy-community/pull/85",
+      "code_url": "https://github.com/Mxx0b10/anatomy-community/tree/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus",
+      "live_url": null,
+      "preview_url": null,
+      "prompt": "Make the interaction more interesting and the Delhi Metro model cooler.",
+      "prompt_source_url": "https://github.com/Mxx0b10/anatomy-community/blob/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus/figure.json",
+      "prompt_status": "published",
+      "description": "A metro-terminus teaching model includes interactive railway operations.",
+      "description_zh": "带有铁路交互操作的地铁终点站教学模型。",
+      "topic": "architecture",
+      "added": "2026-10-30",
+      "created": "2026-10-19",
+      "metadata_url": "https://github.com/Mxx0b10/anatomy-community/blob/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus/figure.json",
+      "anatomy_evidence_url": "https://github.com/Mxx0b10/anatomy-community/blob/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus/figure.json",
+      "rights": "MIT declared by contributor; upstream review pending",
+      "source_status": "Source submission only; upstream review pending; not built or interaction-tested here",
+      "format": "SVG",
+      "tags": [
+        "metro",
+        "railway",
+        "transport",
+        "interactive",
+        "game"
+      ],
+      "resources": [
+        "code",
+        "prompt"
+      ],
+      "publication_status": "pending-upstream-review",
+      "upstream_pr_url": "https://github.com/wheresryan22/anatomy-community/pull/85"
     }
   ],
   "topics": [
@@ -6497,12 +7566,12 @@
     }
   ],
   "topic_counts": {
-    "computing": 57,
-    "physics": 33,
-    "mechanisms": 100,
-    "visual": 28,
+    "computing": 67,
+    "physics": 42,
+    "mechanisms": 109,
+    "visual": 30,
     "rendering": 19,
-    "biology": 26,
-    "architecture": 2
+    "biology": 29,
+    "architecture": 6
   }
 }

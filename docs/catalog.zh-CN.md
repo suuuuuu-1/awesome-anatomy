@@ -2,16 +2,16 @@
 
 [← 返回画廊](../README.zh-CN.md) · [公开提示词](../prompts/index.zh-CN.md)
 
-265 条带来源记录，其中包含 19 个渲染实验。同一题材的不同实现可分别收录；主题版本和转发不增加数量。
+302 条带来源记录，其中包含 19 个渲染实验。同一题材的不同实现可分别收录；主题版本和转发不增加数量。
 
 演示、源码和提示词入口只表示资料可用，不表示交互或科学准确性已经独立验证。提示词保留作者公开的文本。
 
-- [机械与拆解](#mechanisms) (100)
-- [计算机与算法](#computing) (57)
-- [物理与能源](#physics) (33)
-- [生命科学与材料](#biology) (26)
-- [建筑与场景](#architecture) (2)
-- [插画与动效](#visual) (28)
+- [机械与拆解](#mechanisms) (109)
+- [计算机与算法](#computing) (67)
+- [物理与能源](#physics) (42)
+- [生命科学与材料](#biology) (29)
+- [建筑与场景](#architecture) (6)
+- [插画与动效](#visual) (30)
 - [早期渲染实验](#rendering) (19)
 
 <a id="mechanisms"></a>
@@ -1208,6 +1208,128 @@ GE9X 教学剖面图，对照核心气流、旁通气流与各级转动部件。
 
 [预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-differential-poster.svg?v=3c0b3a770d) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
 
+<a id="laowang-mechanical-keyboard-film"></a>
+
+### Mechanical keyboard: nine-scene teardown film
+
+**laowang5** · 独立创作者作品
+
+一部键盘拆解影片，依次展示键帽、轴体、霍尔感应、电路板、定位板、消音棉与外壳。
+
+[原作](https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/index.html) · [源码](https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/geo/build-figures.mjs)
+
+[预览图](https://raw.githubusercontent.com/laowang5/anatomy-hyperframes-video/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/projects/mechanical-keyboard/assets/figures/hero.svg) · [Anatomy 使用依据](https://github.com/laowang5/anatomy-hyperframes-video/blob/368aa8c3bd0b1fb0c5ba56138f680ee5ae700ec7/README.md) · [原作另一入口](https://github.com/user-attachments/assets/edd718c8-c0b7-4a1f-b5f8-50cfa9c46c7a)
+
+<a id="zabduziz-parking-gate"></a>
+
+### Campus parking entrance gate
+
+**Zabduziz** · 独立创作者作品
+
+印度尼西亚语停车入口模型，串联车辆检测、身份核验与道闸动作。
+
+[原作](https://zabduziz.github.io/parking-anatomy/demo/gerbang-masuk-light.html) · [源码](https://github.com/Zabduziz/parking-anatomy/blob/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/src/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/Zabduziz/parking-anatomy/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/docs/media/gerbang-masuk-light.gif) · [Anatomy 使用依据](https://github.com/Zabduziz/parking-anatomy/blob/a5e587ec60f7d6a91d3b6bff4293a03f14b8f034/README.md)
+
+<a id="community-azkian1-bean-to-cup-coffee-machine"></a>
+
+### Bean-to-cup coffee machine
+
+**azkian1** · 待审核社区投稿
+
+追踪全自动咖啡机的豆仓、研磨、萃取、加热、奶路与废料路径。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/104) · [源码](https://github.com/azkian1/anatomy-community/tree/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine) · [提示词](../prompts/community-azkian1-bean-to-cup-coffee-machine.md)
+
+[Anatomy 使用依据](https://github.com/azkian1/anatomy-community/blob/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine/figure.json) · [原始资料](https://github.com/azkian1/anatomy-community/blob/aedfc3906f8f64eaeff3b31e53388d07d2eb92d5/figures/azkian1/bean-to-cup-coffee-machine/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-lakhanadewar-kaco-heart-pen"></a>
+
+### Kaco First Roller heart pen
+
+**lakhanadewar** · 待审核社区投稿
+
+旋转笔将笔尖伸缩与透明窗口后的爱心饰件联动。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/101) · [源码](https://github.com/lakhanadewar/anatomy-community/tree/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen) · [提示词](../prompts/community-lakhanadewar-kaco-heart-pen.md)
+
+[Anatomy 使用依据](https://github.com/lakhanadewar/anatomy-community/blob/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen/figure.json) · [原始资料](https://github.com/lakhanadewar/anatomy-community/blob/625e66ac2cd85e714aeed8fc9a50ceda6ec47aad/figures/lakhanadewar/kaco-heart-pen/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zhangyiabc-roadster-loop"></a>
+
+### Roadster Inverted Loop Rig
+
+**zhangyiabc** · 待审核社区投稿
+
+虚构特技台演示倒置爬坡、空中姿态变化与动力着陆，不代表真实车辆能力。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/100) · [源码](https://github.com/zhangyiabc/anatomy-community/tree/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop) · [提示词](../prompts/community-zhangyiabc-roadster-loop.md)
+
+[Anatomy 使用依据](https://github.com/zhangyiabc/anatomy-community/blob/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop/figure.json) · [原始资料](https://github.com/zhangyiabc/anatomy-community/blob/c1c940a6f434801ab8e3e5548481c8d9c98acb77/figures/zhangyiabc/roadster-loop/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-stirling-engine"></a>
+
+### Stirling heat engine
+
+**zintaen** · 待审核社区投稿
+
+斯特林发动机模型，关联排出器运动、冷热腔与动力活塞。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/93) · [源码](https://github.com/zintaen/anatomy-community/tree/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine) · [提示词](../prompts/community-zintaen-stirling-engine.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/d8fe5c9ca58b421c139086891e538789bafab2cd/figures/zintaen/stirling-engine/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-scotch-yoke"></a>
+
+### Scotch yoke harmonic actuator
+
+**zintaen** · 待审核社区投稿
+
+偏心曲柄销带动带槽滑架往复运动。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/89) · [源码](https://github.com/zintaen/anatomy-community/tree/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke) · [提示词](../prompts/community-zintaen-scotch-yoke.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/c6d56f4f42315da431d83b5bee8c063d32a6cf90/figures/zintaen/scotch-yoke/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-watt-governor"></a>
+
+### Centrifugal flyball governor
+
+**zintaen** · 待审核社区投稿
+
+旋转飞球调速器，将飞球升降与套筒、蒸汽节流示值联动。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/88) · [源码](https://github.com/zintaen/anatomy-community/tree/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor) · [提示词](../prompts/community-zintaen-watt-governor.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/83acfea2f5190629bbec6f5ff7b96153a629953a/figures/zintaen/watt-governor/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-outside-micrometer"></a>
+
+### Outside micrometer
+
+**zintaen** · 待审核社区投稿
+
+千分尺模型，将微分筒旋转与测微螺杆位移、刻度联系起来。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/87) · [源码](https://github.com/zintaen/anatomy-community/tree/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer) · [提示词](../prompts/community-zintaen-outside-micrometer.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/279972a1ae63658f915965ac2f5cd5349f09b726/figures/zintaen/outside-micrometer/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
 
 <a id="computing"></a>
 
@@ -1881,6 +2003,128 @@ Two product illustrations explain document filing and retrieval; the creator cre
 
 [预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-lru-cache-poster.svg?v=dbaa2dd84c) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
 
+<a id="dodai-notification-city"></a>
+
+### Android notification-channel city
+
+**Dodai0419** · 独立创作者作品
+
+将应用画成楼宇、通知渠道画成楼层，对照营销通知清理前后的变化。
+
+[原作](https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before.svg) · [源码](https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/notif_city.mjs)
+
+[预览图](https://raw.githubusercontent.com/Dodai0419/notif-city/d9c08f4602d8465feb5ed23232b4b068e184c6ba/docs/before-after.png) · [Anatomy 使用依据](https://github.com/Dodai0419/notif-city/blob/d9c08f4602d8465feb5ed23232b4b068e184c6ba/vendor/iso.mjs)
+
+<a id="genhttp-01-ioxide-exchange"></a>
+
+### GenHTTP: the io_uring exchange
+
+**IAFahim** · 独立创作者作品
+
+以交换台表现 Ioxide 的每核心反应器与网络连接。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/01-ioxide-exchange/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/01-ioxide-exchange/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-02-coin-sorter"></a>
+
+### GenHTTP: the zero-allocation coin sorter
+
+**IAFahim** · 独立创作者作品
+
+用循环分币机讲解请求池复用与不同响应结果。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/02-coin-sorter/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/02-coin-sorter/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-03-signal-box"></a>
+
+### GenHTTP: the handler-tree signal box
+
+**IAFahim** · 独立创作者作品
+
+用铁路道岔表现处理器选择及未匹配路由。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/03-signal-box/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/03-signal-box/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-04-filter-stack"></a>
+
+### GenHTTP: the concern filter stack
+
+**IAFahim** · 独立创作者作品
+
+通过滤层堆栈表现请求关注点的处理顺序。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/04-filter-stack/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/04-filter-stack/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-05-card-catalog"></a>
+
+### GenHTTP: reflection-mapper card catalog
+
+**IAFahim** · 独立创作者作品
+
+通过方法卡片讲解参数绑定与编译后的映射路径。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/05-card-catalog/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/05-card-catalog/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-06-surveyor"></a>
+
+### GenHTTP: the OpenAPI surveyor
+
+**IAFahim** · 独立创作者作品
+
+用测量仪与绘图机表现从处理器树生成接口文档。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/06-surveyor/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/06-surveyor/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-07-cloakroom"></a>
+
+### GenHTTP: cache validation and compression
+
+**IAFahim** · 独立创作者作品
+
+通过衣帽间隐喻关联 ETag 匹配、缓存响应与压缩。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/07-cloakroom/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/07-cloakroom/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="genhttp-08-turntable"></a>
+
+### GenHTTP: three server engines
+
+**IAFahim** · 独立创作者作品
+
+铁路转盘将同一个应用连接到 Internal、Kestrel 或 Ioxide 引擎。
+
+[原作](https://iafahim.github.io/genhttp-anatomy/figures/08-turntable/index-light.html) · [源码](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/figures/08-turntable/build.mjs)
+
+[Anatomy 使用依据](https://github.com/IAFahim/genhttp-anatomy/blob/4ca5743653ffe2cacba1498dc98429f8403d328e/README.md)
+
+<a id="community-zintaen-ssd-nand-floating-gate"></a>
+
+### From NVMe SSD to floating-gate cell
+
+**zintaen** · 待审核社区投稿
+
+从 NVMe 电路板逐层放大至 NAND 封装与示意性浮栅单元串。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/91) · [源码](https://github.com/zintaen/anatomy-community/tree/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate) · [提示词](../prompts/community-zintaen-ssd-nand-floating-gate.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/7de8475ae9d88bfd293c6c67e8d26003fd7f9fd1/figures/zintaen/ssd-nand-floating-gate/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
 
 <a id="physics"></a>
 
@@ -2274,6 +2518,124 @@ A fusion-plant demonstration made with a customized Anatomy workflow.
 
 [预览图](https://cellcog.ai/blog/media/anatomy-claude-skill/gal-thermostat-poster.svg?v=1947d40e0d) · [Anatomy 使用依据](https://cellcog.ai/blog/anatomy-claude-skill/)
 
+<a id="jaydubb-stirred-tank"></a>
+
+### Stirred-tank CFD workbench
+
+**jaydubb0513** · 独立创作者作品
+
+搅拌罐剖面将叶轮与流体设置关联到示意流场；六种预设合并为一条。
+
+[原作](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/rushton-water.html) · [源码](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/figure.mjs)
+
+[Anatomy 使用依据](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/README.md) · [原作另一入口](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/anchor-syrup.html) · [原作另一入口](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/carbopol-cavern.html) · [原作另一入口](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/dual-pbt.html) · [原作另一入口](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/hydrofoil-cone-light.html) · [原作另一入口](https://github.com/jaydubb0513/cfd/blob/c7489d6de5346f37ef3ae94880e4ebf713f40d9b/stirred-tank/out/unbaffled-vortex.html)
+
+<a id="ywedai-rocket-launch"></a>
+
+### Rocket launch: predict, try, explain
+
+**ywEdAi** · 独立创作者作品
+
+理想化火箭课程，将 Anatomy 生成的剖面结构与推力、支撑及滑行控制结合。
+
+[原作](https://ywedai.github.io/teachable-figures/rocket-launch.html) · [源码](https://github.com/ywEdAi/teachable-figures/blob/049f476d6188a4cd568550de7196fa94c12f4a1a/scripts/build-rocket-visual.mjs)
+
+[Anatomy 使用依据](https://github.com/ywEdAi/teachable-figures/blob/049f476d6188a4cd568550de7196fa94c12f4a1a/scripts/build-rocket-visual.mjs)
+
+<a id="kazi-golf-ball-flight"></a>
+
+### Golf ball flight
+
+**KAZI-ABI** · 独立创作者作品
+
+使用 Anatomy 渲染器制作的独立高尔夫球飞行图解。
+
+[原作](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/golf-ball-flight-light.html)
+
+[Anatomy 使用依据](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md)
+
+<a id="everest-searl-seg"></a>
+
+### Searl Effect Generator: claim-audit model
+
+**everest-an** · 独立创作者作品
+
+将推测性装置的结构重建与作者的能量、证据审计分开展示，不作为装置可行性的证明。
+
+[原作](https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/searl-seg-light.html) · [源码](https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/everest-an/searl-seg/5bc145df3f9412837f0403c3a98313acfbfd2d29/shots/light.png) · [Anatomy 使用依据](https://github.com/everest-an/searl-seg/blob/5bc145df3f9412837f0403c3a98313acfbfd2d29/README.md)
+
+<a id="community-zintaen-seismograph-pendulum"></a>
+
+### Inertial pendulum seismograph
+
+**zintaen** · 待审核社区投稿
+
+通过悬挂质量块与描针，展示惯性摆和机架之间的相对运动。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/95) · [源码](https://github.com/zintaen/anatomy-community/tree/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum) · [提示词](../prompts/community-zintaen-seismograph-pendulum.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/fb8b1721c943be60470056e9b90c3b7d1774cede/figures/zintaen/seismograph-pendulum/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-spherical-tokamak"></a>
+
+### Tokamak magnetic fusion torus
+
+**zintaen** · 待审核社区投稿
+
+托卡马克模型将环向线圈、中央螺线管与示意性等离子体场联系起来。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/94) · [源码](https://github.com/zintaen/anatomy-community/tree/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak) · [提示词](../prompts/community-zintaen-spherical-tokamak.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/0cb5de4603b90603a596221bf096fb25101eb231/figures/zintaen/spherical-tokamak/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-bourdon-pressure-gauge"></a>
+
+### Bourdon tube pressure gauge
+
+**zintaen** · 待审核社区投稿
+
+压力示值变化时，波登管经连杆、扇形齿轮带动指针。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/92) · [源码](https://github.com/zintaen/anatomy-community/tree/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge) · [提示词](../prompts/community-zintaen-bourdon-pressure-gauge.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/7eb96bdbdeb9b813bc62785cb7066c1d1565eb10/figures/zintaen/bourdon-pressure-gauge/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-czochralski-crystal-puller"></a>
+
+### Czochralski silicon crystal puller
+
+**zintaen** · 待审核社区投稿
+
+晶体提拉炉模型，将加热熔体、籽晶架与硅棒提拉联系起来。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/90) · [源码](https://github.com/zintaen/anatomy-community/tree/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller) · [提示词](../prompts/community-zintaen-czochralski-crystal-puller.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/98a261ae7d593e8d7385c2dfad5e711e8026c31c/figures/zintaen/czochralski-crystal-puller/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-zintaen-michelson-interferometer"></a>
+
+### Michelson interferometer
+
+**zintaen** · 待审核社区投稿
+
+分光光学台将反射镜位移与干涉图案变化联动。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/86) · [源码](https://github.com/zintaen/anatomy-community/tree/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer) · [提示词](../prompts/community-zintaen-michelson-interferometer.md)
+
+[Anatomy 使用依据](https://github.com/zintaen/anatomy-community/blob/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer/figure.json) · [原始资料](https://github.com/zintaen/anatomy-community/blob/c2da7546e521cad993811f2ea82d523f6bb424b5/figures/zintaen/michelson-interferometer/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
 
 <a id="biology"></a>
 
@@ -2313,7 +2675,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/01-menopause-thermostat/menopause-thermostat-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/01-menopause-thermostat)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/01-menopause-thermostat/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/01-menopause-thermostat/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/01-menopause-thermostat/figure.json)
 
 作者审阅标记：Round 1 · for review
 
@@ -2327,7 +2689,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/02-inbody-580/inbody-580-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/02-inbody-580)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/02-inbody-580/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/02-inbody-580/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/02-inbody-580/figure.json)
 
 作者审阅标记：Round 1 · for review
 
@@ -2341,7 +2703,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/03-iv-iron/iv-iron-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/03-iv-iron)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/03-iv-iron/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/03-iv-iron/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/03-iv-iron/figure.json)
 
 作者审阅标记：Round 1 · for review
 
@@ -2355,7 +2717,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/04-creator-600/creator-600-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/04-creator-600)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/04-creator-600/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/04-creator-600/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/04-creator-600/figure.json)
 
 作者审阅标记：Round 1 · for review
 
@@ -2369,7 +2731,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/05-vo2max/vo2max-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/05-vo2max)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/05-vo2max/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/05-vo2max/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/05-vo2max/figure.json)
 
 作者审阅标记：Round 3 · for review
 
@@ -2383,7 +2745,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/06-vo2max-treadmill/vo2max-treadmill-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/06-vo2max-treadmill)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/06-vo2max-treadmill/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/06-vo2max-treadmill/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/06-vo2max-treadmill/figure.json)
 
 作者审阅标记：Round 2 · for review
 
@@ -2397,7 +2759,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a1-gut-cell/gut-cell-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a1-gut-cell)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a1-gut-cell/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a1-gut-cell/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a1-gut-cell/figure.json)
 
 作者审阅标记：Round 2 · 3-D block
 
@@ -2411,7 +2773,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a2-hypothalamus/hypothalamus-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a2-hypothalamus)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a2-hypothalamus/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a2-hypothalamus/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a2-hypothalamus/figure.json)
 
 作者审阅标记：Round 3 · 3-D brain block
 
@@ -2425,7 +2787,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a3-finger-skin/finger-skin-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a3-finger-skin)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a3-finger-skin/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a3-finger-skin/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a3-finger-skin/figure.json)
 
 作者审阅标记：Approved look · 3-D
 
@@ -2439,7 +2801,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a4-heart/heart-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a4-heart)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a4-heart/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a4-heart/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a4-heart/figure.json)
 
 作者审阅标记：Round 6 · solid 3-D heart (WebGL), turns
 
@@ -2453,7 +2815,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a5-alveolus/alveolus-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a5-alveolus)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a5-alveolus/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a5-alveolus/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a5-alveolus/figure.json)
 
 作者审阅标记：Round 2 · 3-D block
 
@@ -2467,7 +2829,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a6-red-cell-cycle/red-cell-cycle-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a6-red-cell-cycle)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a6-red-cell-cycle/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a6-red-cell-cycle/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a6-red-cell-cycle/figure.json)
 
 作者审阅标记：Round 3 · 3-D, cut in half
 
@@ -2481,7 +2843,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a7-knee/knee-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a7-knee)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a7-knee/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a7-knee/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a7-knee/figure.json)
 
 作者审阅标记：Round 2 · 3-D, leg cut in half
 
@@ -2495,7 +2857,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a8-muscle-water/muscle-water-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a8-muscle-water)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a8-muscle-water/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a8-muscle-water/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a8-muscle-water/figure.json)
 
 作者审阅标记：Round 2 · 3-D bundle
 
@@ -2509,7 +2871,7 @@ A health or equipment explainer; see the author’s review status.
 
 [原作](https://optimal-research-team.github.io/optimal-anatomy-figures/a9-bone-remodelling/bone-remodelling-light.html) · [源码](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/tree/main/figures/a9-bone-remodelling)
 
-[原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a9-bone-remodelling/figure.json)
+[预览图](https://raw.githubusercontent.com/Optimal-Research-Team/optimal-anatomy-figures/9083e5f01b9f1f22eb27f7912bef294c111e83c9/figures/a9-bone-remodelling/assets/preview.jpg) · [原始资料](https://github.com/Optimal-Research-Team/optimal-anatomy-figures/blob/main/figures/a9-bone-remodelling/figure.json)
 
 作者审阅标记：Round 2 · 3-D block
 
@@ -2617,6 +2979,42 @@ An author-created 12-nucleotide teaching example shows chain termination, fragme
 
 [预览图](https://raw.githubusercontent.com/julianolarteramos/specimen/e15470c272e011528d32a37a2b1697cd2f1e489f/docs/img/endocrine.webp) · [Anatomy 使用依据](https://github.com/julianolarteramos/specimen/blob/e15470c272e011528d32a37a2b1697cd2f1e489f/README.md)
 
+<a id="jeremy-cpb-machine"></a>
+
+### Heart–lung machine: basic circuit
+
+**jeremyl861225** · 独立创作者作品
+
+教学回路展示采用滚轮泵的基础体外循环配置与插管位置。
+
+[原作](https://jeremyl861225.github.io/heart-lung-machine/cpb-machine.html) · [源码](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/cpb-machine.html)
+
+[预览图](https://raw.githubusercontent.com/jeremyl861225/heart-lung-machine/ba2f78fd8787cd88225a62683364ea40f6fb6e75/assets/cpb-machine.png) · [Anatomy 使用依据](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/README.md)
+
+<a id="jeremy-cpb-advanced"></a>
+
+### Heart–lung machine: advanced circuit
+
+**jeremyl861225** · 独立创作者作品
+
+独立的进阶教学回路，加入离心动脉泵、辅助静脉引流与血液心麻痹液路径。
+
+[原作](https://jeremyl861225.github.io/heart-lung-machine/cpb-advanced.html) · [源码](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/cpb-advanced.html)
+
+[预览图](https://raw.githubusercontent.com/jeremyl861225/heart-lung-machine/ba2f78fd8787cd88225a62683364ea40f6fb6e75/assets/cpb-advanced.png) · [Anatomy 使用依据](https://github.com/jeremyl861225/heart-lung-machine/blob/ba2f78fd8787cd88225a62683364ea40f6fb6e75/README.md)
+
+<a id="specimen-central-nervous-system"></a>
+
+### Specimen: central nervous system
+
+**Julián Olarte** · 独立创作者作品
+
+西班牙语脑与脊髓模型，提供分层拆解、切面、标注与示意性神经通路。
+
+[原作](https://julianolarteramos.github.io/sistema-nervioso-central/) · [源码](https://github.com/julianolarteramos/sistema-nervioso-central/blob/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/build.mjs)
+
+[预览图](https://raw.githubusercontent.com/julianolarteramos/sistema-nervioso-central/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/img/portada.png) · [Anatomy 使用依据](https://github.com/julianolarteramos/sistema-nervioso-central/blob/648b03a3ee0d6dafa587dda35e0dbd8c04b8e780/README.md)
+
 
 <a id="architecture"></a>
 
@@ -2645,6 +3043,56 @@ How Machu Picchu was built.
 [原作](https://x.com/dani_avila7/status/2109317963811574099) · [提示词](../prompts/x-dani_avila7-2109317963811574099.md)
 
 [预览图](https://pbs.twimg.com/amplify_video_thumb/2109317792545599488/img/mQnPg_6rNPXSTWC3.jpg)
+
+<a id="maybeeyes-sagrada-familia"></a>
+
+### Sagrada Família: interactive disassembly
+
+**maybeeyesnet** · 独立创作者作品
+
+等轴测大教堂模型，可分离建筑总成；仓库内继承的 Anatomy 示例不重复收录。
+
+[原作](https://maybeeyesnet.github.io/sagrada-familia-anatomy/) · [源码](https://github.com/maybeeyesnet/sagrada-familia-anatomy/blob/9998dcafc72967e6780954838e0f4a70af0ab771/index.html)
+
+[预览图](https://raw.githubusercontent.com/maybeeyesnet/sagrada-familia-anatomy/9998dcafc72967e6780954838e0f4a70af0ab771/sagrada-familia-poster-a4.png) · [Anatomy 使用依据](https://github.com/maybeeyesnet/sagrada-familia-anatomy/blob/9998dcafc72967e6780954838e0f4a70af0ab771/index.html)
+
+<a id="kazi-cafe-layout"></a>
+
+### Cafe layout
+
+**KAZI-ABI** · 独立创作者作品
+
+日本作者制作的独立咖啡馆布局图。
+
+[原作](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/cafe-layout-light.html)
+
+[Anatomy 使用依据](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md)
+
+<a id="kazi-shibuya-reconstruction"></a>
+
+### Shibuya Station reconstruction
+
+**KAZI-ABI** · 独立创作者作品
+
+以可下载 HTML 发布的涩谷站改造等轴测图解。
+
+[原作](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/html/shibuya-reconstruction-light.html)
+
+[Anatomy 使用依据](https://github.com/KAZI-ABI/QiitaItemAnatomy/blob/c922fc3c6a7f40558a4eadb67ad9f3d950cd5abd/README.md)
+
+<a id="community-mxx0b10-delhi-metro-terminus"></a>
+
+### Delhi Metro Magenta Line terminus
+
+**Mxx0b10** · 待审核社区投稿
+
+带有铁路交互操作的地铁终点站教学模型。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/85) · [源码](https://github.com/Mxx0b10/anatomy-community/tree/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus) · [提示词](../prompts/community-mxx0b10-delhi-metro-terminus.md)
+
+[Anatomy 使用依据](https://github.com/Mxx0b10/anatomy-community/blob/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus/figure.json) · [原始资料](https://github.com/Mxx0b10/anatomy-community/blob/d817c68f61fdb4cd323164dfb4ec13ef710747ff/figures/mxx0b10/delhi-metro-terminus/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
 
 
 <a id="visual"></a>
@@ -2976,6 +3424,34 @@ A creator uses an Anatomy-made isometric figure in a portfolio; the rest of the 
 [原作](https://skills.wheresryan.sh/anatomy/community/masterthepixel/weather-clear-night) · [源码](https://github.com/wheresryan22/anatomy-community/tree/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night) · [提示词](../prompts/community-masterthepixel-weather-clear-night.md)
 
 [预览图](https://skills.wheresryan.sh/anatomy/media/community/cards/masterthepixel/weather-clear-night.webp) · [Anatomy 使用依据](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json) · [原始资料](https://github.com/wheresryan22/anatomy-community/blob/352c84890fd3cf543b1f69dc9ff3ab7a157c1fe9/figures/masterthepixel/weather-clear-night/figure.json)
+
+<a id="community-ericchen0121-galileos-ring-ii"></a>
+
+### Galileo&#x27;s Ring II
+
+**ericchen0121** · 待审核社区投稿
+
+俯视运动圆环模型，通过参数控制生成不同图案。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/102) · [源码](https://github.com/ericchen0121/anatomy-community/tree/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii) · [提示词](../prompts/community-ericchen0121-galileos-ring-ii.md)
+
+[Anatomy 使用依据](https://github.com/ericchen0121/anatomy-community/blob/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii/figure.json) · [原始资料](https://github.com/ericchen0121/anatomy-community/blob/599f59357085cf175f56cfc9bc4fe49b6171f29c/figures/ericchen0121/galileos-ring-ii/figure.json)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
+
+<a id="community-masterthepixel-weather-freezing-rain"></a>
+
+### Rain-gauge weather series: rain, drizzle and ice
+
+**masterthepixel** · 待审核社区投稿
+
+翻斗式雨量计天气系列，将雨、毛毛雨、阵雨与结冰版本合并收录。
+
+[原作](https://github.com/wheresryan22/anatomy-community/pull/99) · [源码](https://github.com/masterthepixel/anatomy-community/tree/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain) · [提示词](../prompts/community-masterthepixel-weather-freezing-rain.md)
+
+[Anatomy 使用依据](https://github.com/masterthepixel/anatomy-community/blob/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain/figure.json) · [原始资料](https://github.com/masterthepixel/anatomy-community/blob/37b552f54f3855a4ed96f57dcb4f9580613339ed/figures/masterthepixel/weather-freezing-rain/figure.json) · [原作另一入口](https://github.com/wheresryan22/anatomy-community/pull/96) · [原作另一入口](https://github.com/wheresryan22/anatomy-community/pull/97) · [原作另一入口](https://github.com/wheresryan22/anatomy-community/pull/98)
+
+**发布状态：** 截至 2026-10-30 尚待上游审核的社区投稿，仅提供源码与原始提示词；不表示已有在线演示或已独立构建验证。
 
 
 <a id="rendering"></a>
@@ -3311,6 +3787,27 @@ An early rendering study: Three reads.
 - [Deadweight pressure tester](#community-zintaen-deadweight-tester) — zintaen
 - [Geneva indexing drive](#community-zintaen-geneva-indexing-drive) — zintaen
 
+<a id="source-community-submissions"></a>
+
+### 待审核社区投稿
+
+- [Bean-to-cup coffee machine](#community-azkian1-bean-to-cup-coffee-machine) — azkian1
+- [Galileo&#x27;s Ring II](#community-ericchen0121-galileos-ring-ii) — ericchen0121
+- [Kaco First Roller heart pen](#community-lakhanadewar-kaco-heart-pen) — lakhanadewar
+- [Roadster Inverted Loop Rig](#community-zhangyiabc-roadster-loop) — zhangyiabc
+- [Rain-gauge weather series: rain, drizzle and ice](#community-masterthepixel-weather-freezing-rain) — masterthepixel
+- [Inertial pendulum seismograph](#community-zintaen-seismograph-pendulum) — zintaen
+- [Tokamak magnetic fusion torus](#community-zintaen-spherical-tokamak) — zintaen
+- [Stirling heat engine](#community-zintaen-stirling-engine) — zintaen
+- [Bourdon tube pressure gauge](#community-zintaen-bourdon-pressure-gauge) — zintaen
+- [From NVMe SSD to floating-gate cell](#community-zintaen-ssd-nand-floating-gate) — zintaen
+- [Czochralski silicon crystal puller](#community-zintaen-czochralski-crystal-puller) — zintaen
+- [Scotch yoke harmonic actuator](#community-zintaen-scotch-yoke) — zintaen
+- [Centrifugal flyball governor](#community-zintaen-watt-governor) — zintaen
+- [Outside micrometer](#community-zintaen-outside-micrometer) — zintaen
+- [Michelson interferometer](#community-zintaen-michelson-interferometer) — zintaen
+- [Delhi Metro Magenta Line terminus](#community-mxx0b10-delhi-metro-terminus) — Mxx0b10
+
 <a id="source-independent-collections"></a>
 
 ### 独立创作者作品
@@ -3422,6 +3919,27 @@ An early rendering study: Three reads.
 - [CellCog: Hash map](#cellcog-hash-map) — CellCog
 - [CellCog: Binary search](#cellcog-binary-search) — CellCog
 - [CellCog: LRU cache](#cellcog-lru-cache) — CellCog
+- [Stirred-tank CFD workbench](#jaydubb-stirred-tank) — jaydubb0513
+- [Rocket launch: predict, try, explain](#ywedai-rocket-launch) — ywEdAi
+- [Mechanical keyboard: nine-scene teardown film](#laowang-mechanical-keyboard-film) — laowang5
+- [Android notification-channel city](#dodai-notification-city) — Dodai0419
+- [GenHTTP: the io_uring exchange](#genhttp-01-ioxide-exchange) — IAFahim
+- [GenHTTP: the zero-allocation coin sorter](#genhttp-02-coin-sorter) — IAFahim
+- [GenHTTP: the handler-tree signal box](#genhttp-03-signal-box) — IAFahim
+- [GenHTTP: the concern filter stack](#genhttp-04-filter-stack) — IAFahim
+- [GenHTTP: reflection-mapper card catalog](#genhttp-05-card-catalog) — IAFahim
+- [GenHTTP: the OpenAPI surveyor](#genhttp-06-surveyor) — IAFahim
+- [GenHTTP: cache validation and compression](#genhttp-07-cloakroom) — IAFahim
+- [GenHTTP: three server engines](#genhttp-08-turntable) — IAFahim
+- [Heart–lung machine: basic circuit](#jeremy-cpb-machine) — jeremyl861225
+- [Heart–lung machine: advanced circuit](#jeremy-cpb-advanced) — jeremyl861225
+- [Campus parking entrance gate](#zabduziz-parking-gate) — Zabduziz
+- [Sagrada Família: interactive disassembly](#maybeeyes-sagrada-familia) — maybeeyesnet
+- [Specimen: central nervous system](#specimen-central-nervous-system) — Julián Olarte
+- [Cafe layout](#kazi-cafe-layout) — KAZI-ABI
+- [Golf ball flight](#kazi-golf-ball-flight) — KAZI-ABI
+- [Shibuya Station reconstruction](#kazi-shibuya-reconstruction) — KAZI-ABI
+- [Searl Effect Generator: claim-audit model](#everest-searl-seg) — everest-an
 
 <a id="source-svg-assets"></a>
 

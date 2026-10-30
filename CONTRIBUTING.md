@@ -13,6 +13,8 @@ We collect works made with Anatomy or a credited derivative. A general AI animat
 
 A demonstration-only work is welcome when clearly labeled. Do not invent prompts, duplicate reposts, count color themes as separate works, or claim a work was tested when it was not. Keep third-party media at its existing source unless its author permits redistribution.
 
+Source-only submissions to the upstream Anatomy community may be listed under **Community Submissions** while review is pending. Link the submission and immutable source metadata; do not imply upstream acceptance or invent a hosted demo. If a submission is later published, update the existing record instead of counting it again.
+
 For corrections or removal requests, identify the entry and the original creator.
 
 For pull requests, update the matching record in `data/entries.json`, keep the English and Chinese catalogs consistent, and preserve existing IDs. A work can have several original URLs or themes without becoming several entries. Keep counts and prompt pages in sync; published prompt text must match its source. You can also open an issue and leave the catalog updates to the maintainer.
